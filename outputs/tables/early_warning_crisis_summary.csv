@@ -1,0 +1,5 @@
+crisis,trigger_date,max_warning_score_12w,first_warning_date_12w,weeks_before_trigger_first_warning_12w,max_warning_score_8w,first_warning_date_8w,weeks_before_trigger_first_warning_8w,max_warning_score_4w,first_warning_date_4w,weeks_before_trigger_first_warning_4w,max_iso_score_12w,first_isolation_flag_date,ml_status,dominant_warning_features
+1857,1857-11-12,100.0,1857-10-03,5,100.0,1857-10-03,5,100.0,1857-10-17,3,1.0,1857-10-17,ok,"lending_to_reserve_stress=2.32, rate_stress=1.85, reserve_stress=1.73"
+1866,1866-05-11,90.4,1866-03-28,6,90.4,1866-03-28,6,90.4,1866-05-02,1,0.349,,ok,"rate_stress=1.45, lending_stress=1.06, reserve_stress=0.8"
+1890,1890-11-15,95.3,1890-10-01,6,95.3,1890-10-01,6,95.3,1890-10-22,3,0.312,,ok,"lending_stress=2.21, reserve_stress=0.77, rate_stress=0.59"
+1914,1914-08-06,99.9,1914-07-01,5,99.9,1914-07-01,5,99.9,1914-07-29,1,1.0,1914-07-01,ok,"lending_stress=1.67, reserve_stress=0.42, lending_to_reserve_stress=0.33"

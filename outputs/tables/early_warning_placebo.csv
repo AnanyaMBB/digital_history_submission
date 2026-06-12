@@ -1,0 +1,5 @@
+crisis,max_warning_score_12w,placebo_mean,placebo_95th,placebo_max,placebo_percentile_max,weeks_above_80_crisis,placebo_weeks_above_80_mean,placebo_weeks_above_80_95th,placebo_percentile_weeks_above_80,mean_score_crisis,placebo_mean_score_mean,placebo_percentile_mean_score,false_positive_rate_max_at_80,false_positive_rate_weeks_above_80_ge_6
+1857,100.0,74.4,97.4,100.0,100.0,7,2.25,12,88.2,84.16,54.12,90.8,50.9,14.7
+1866,90.4,74.4,97.4,100.0,73.6,4,2.25,12,82.3,74.01,54.12,80.7,50.9,14.7
+1890,95.3,74.4,97.4,100.0,89.2,7,2.25,12,88.2,82.28,54.12,88.6,50.9,14.7
+1914,99.9,74.4,97.4,100.0,98.5,3,2.25,12,79.9,53.59,54.12,48.9,50.9,14.7

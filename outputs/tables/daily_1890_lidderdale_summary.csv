@@ -1,0 +1,6 @@
+anchor_date,label,reserve_m,crisis_lending_m,discounts_m,advances_m,bank_rate_pct,reserve_proportion
+1890-11-05,Pre-rescue (1890-11-05),11.206,20.271,11.923,8.348,5.0,0.349
+1890-11-12,Lidderdale week start (1890-11-12),11.105,22.783,13.777,9.006,6.0,0.333
+1890-11-19,Post-rescue first week (1890-11-19),14.551,33.563,20.391,13.172,6.0,0.358
+1890-12-03,Bank Rate cut week (1890-12-03),16.673,26.853,16.207,10.646,6.0,0.453
+1890-12-31,Year-end accounting (1890-12-31),14.801,38.863,21.869,16.994,5.0,0.37

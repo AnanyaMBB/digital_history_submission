@@ -1,0 +1,8 @@
+section,evidence_type,granularity,confidence
+Victorian crises (Part I),quantitative transaction data (BoE ledgers),firm-level,high
+1906 bill market,"quantitative structured data (23,493 bills)",firm-level,high
+1931 sterling crisis,semi-quantitative archival reconstruction (BoE Archive),"institution-level, described",medium-high
+1830-1997 discount market,qualitative institutional history (BoE 1967),structural,medium
+1973-75 lifeboat,official narrative + structured appendix (BoE 1978),named institutions + totals,medium-high
+1976-96 discount houses,quantitative aggregate time series (BoE database),sector aggregate,"high (sector, not firm)"
+named-institution recurrence,illustrative cross-source matching,a few firms,medium (illustrative)

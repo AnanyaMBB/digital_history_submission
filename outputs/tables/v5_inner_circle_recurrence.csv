@@ -1,0 +1,2461 @@
+counterparty,actor_category,crises,n_crises,n_transactions,total_amount,information_channel_score,spans_cable
+Union Discount Co. Of London Ltd,discount_house,1914,1,115,10352861.3,0.7651,no
+Overend Gurney & Co,discount_house,"1847,1857,1866",3,64,5037818.2,0.7336,no
+National Discount Co.,discount_house,1914,1,91,6862189.1,0.6841,no
+Frith Sands & Co,bill_broker,"1847,1857,1866",3,50,1730032.0,0.6617,no
+R Raphael & Sons,merchant_bank,"1847,1857,1866",3,30,693976.3,0.6304,no
+Smith St Aubyn & Co,bill_broker,1914,1,41,4894544.5,0.6178,no
+Fruhling & Goschen,merchant_bank,"1857,1866,1914",3,13,419378.4,0.6155,yes
+Allen Harvey & Ross,discount_house,1914,1,61,3087057.8,0.5942,no
+Stern Bros,merchant_bank,"1847,1914",2,47,485518.4,0.586,yes
+Bruce Wilkinson & Co,bill_broker,1857,1,63,2239566.9,0.5789,no
+J H Schroder & Co,merchant_bank,"1847,1857",2,18,295141.3,0.5659,no
+F Huth & Co,merchant_bank,"1847,1857",2,13,420633.8,0.5655,no
+Bischoffsheim & Goldschmidt,merchant_bank,"1857,1866",2,12,169437.4,0.5601,no
+R. Raphael & Sons,merchant_bank,"1866,1914",2,8,196899.6,0.5583,yes
+Sanderson Sandeman & Co,bill_broker,1857,1,38,1781120.3,0.5559,no
+Glyn Mills Currie,merchant_bank,1914,1,94,10097238.4,0.5483,no
+C.J.Hambro & Son,merchant_bank,1914,1,29,1286288.1,0.5412,no
+Rothschild & Sons,merchant_bank,1847,1,17,1242239.1,0.5336,no
+F.Huth Co,merchant_bank,1914,1,21,1120477.2,0.5335,no
+Eastern Bank Ltd,merchant_bank,1914,1,31,699639.4,0.5311,no
+Sanderson & Reid,bill_broker,1847,1,25,749764.7,0.5286,no
+Gillett Bros & Co,bill_broker,1914,1,17,940985.0,0.5278,no
+National Discount Co Of Limited,discount_house,1866,1,10,1115863.7,0.5272,no
+National Discount Corporation,discount_house,1857,1,19,775619.5,0.5257,no
+B. W .Blydenstein & Co,unknown,1914,1,60,7082331.3,0.5208,no
+Alexander Cunliffes & Co,bill_broker,1866,1,5,848266.2,0.5192,no
+London Discount Corporation,discount_house,1857,1,23,293016.6,0.5187,no
+Alexanders & Co Ltd,unknown,1914,1,86,6159279.0,0.5177,no
+Discount Corporation Limited,discount_house,1866,1,11,500000.0,0.5159,no
+Wallace Bros & Co Ld,merchant_bank,1914,1,10,419558.1,0.5138,no
+Fruhling & Gaschew,merchant_bank,1847,1,15,219600.4,0.5127,no
+"Finlay, Hodgeson & Co",merchant_bank,1866,1,13,260994.9,0.5124,no
+C J Hambro & Son,merchant_bank,1847,1,16,163819.3,0.5122,no
+Finlay Hodgson & Co,merchant_bank,1847,1,15,187381.3,0.5121,no
+Consolidated Discount Co Limited,discount_house,1866,1,9,288000.0,0.5107,no
+Morgan M & Co,merchant_bank,1847,1,15,12743.4,0.5087,no
+Hatimal Discount Co Ltd,discount_house,1914,1,3,344192.9,0.5083,no
+C I Hambro & Son,merchant_bank,1857,1,8,184145.3,0.5081,no
+Finlay Campbell & Co,merchant_bank,1866,1,4,289487.5,0.5079,no
+David Morgan,merchant_bank,1847,1,13,20414.5,0.5078,no
+Reeves Whitburn & Co,unknown,1914,1,67,6174018.9,0.5072,no
+Absolom Crocker & Co,unknown,"1847,1857,1866",3,94,129663.3,0.5057,no
+Andy Gibbs & Sons,merchant_bank,1866,1,5,135049.3,0.5054,no
+Morgan Gellibrand & Co,merchant_bank,1866,1,7,31480.1,0.5046,no
+Wallace Brothers,merchant_bank,1866,1,6,63814.4,0.5046,no
+D T Morgan,merchant_bank,1857,1,7,10618.0,0.5042,no
+Foy Morgan & Co,merchant_bank,1914,1,3,91818.3,0.5035,no
+Frith Wallace & Co,merchant_bank,1847,1,4,12020.5,0.5025,no
+J. S. Morgan & Co,merchant_bank,1866,1,2,63645.0,0.5023,no
+Smith Payne & Smiths,merchant_bank,1857,1,1,50000.0,0.5015,no
+Brightwen & Co,unknown,1914,1,72,5720211.7,0.5013,no
+Joint Stock Discount Co Limited,discount_house,1866,1,1,25000.0,0.501,no
+T Huth Co,merchant_bank,1847,1,1,17247.1,0.5009,no
+Raphael & Son,merchant_bank,1847,1,1,11729.3,0.5008,no
+J & R Morley,unknown,"1847,1857,1866",3,50,285828.9,0.4838,no
+Bell & Grant,unknown,"1847,1857,1866",3,54,160747.7,0.4837,no
+Schilizzi & Co,unknown,"1847,1857,1866",3,54,160608.7,0.4837,no
+Boutcher Mortimore & Co,unknown,"1847,1857,1866",3,49,223673.8,0.4821,no
+London County & Westminster Bank Ltd,clearing_or_joint_stock_bank,1914,1,265,9271925.9,0.4791,no
+Durant & Co,unknown,"1847,1857,1866",3,25,535238.9,0.4745,no
+P Grenfell & Sons,unknown,"1847,1857,1866",3,35,233664.2,0.4743,no
+Bevington & Morris,unknown,"1847,1857,1866",3,40,53693.4,0.4737,no
+H L & C Edwards & Co,unknown,"1847,1857,1866",3,35,152424.3,0.4728,no
+Charles & Fox,unknown,"1847,1857,1866",3,39,18504.1,0.4724,no
+Bennison & Lennard,unknown,"1847,1866",2,103,692022.7,0.4717,no
+Chaffey & Son,unknown,"1847,1857,1866",3,32,20208.6,0.4685,no
+Suse & Sibeth,unknown,"1847,1866",2,101,516630.4,0.4671,no
+Small & Co,unknown,"1847,1857,1866",3,18,148091.2,0.463,no
+A & G W Alexander & Co,unknown,1857,1,51,4337505.4,0.4627,no
+Hohler & Co,unknown,1914,1,45,4380520.9,0.4601,no
+F & E Godsell,unknown,"1847,1857,1866",3,10,26653.8,0.4562,no
+Cox Heisch & Co,unknown,"1847,1857,1866",3,6,34516.4,0.4541,no
+King & Foa,unknown,1914,1,51,3875752.8,0.4538,no
+Sturt & Sharp,unknown,"1847,1857,1866",3,4,18408.1,0.4526,no
+Baker Duncombe & Co Ltd,unknown,1914,1,47,3677587.4,0.4476,no
+Peek Bros & Co,unknown,"1847,1857",2,72,120631.1,0.4431,no
+G H & J F Wulff,unknown,"1847,1857",2,72,101686.0,0.4427,no
+H & D Sharpe,unknown,"1847,1857",2,73,49561.3,0.4423,no
+Cook Sons & Co,unknown,"1847,1857",2,60,225741.5,0.4383,no
+Cunliffes & Co,unknown,"1847,1857",2,27,875280.8,0.4322,no
+Bordier Fabris & Co,unknown,"1847,1857",2,47,223528.7,0.4309,no
+Prior Turner & Co,unknown,"1847,1857",2,49,86551.0,0.4294,no
+H & J Johnston & Co,unknown,"1847,1857",2,38,362778.1,0.4285,no
+H W Eaton,unknown,"1847,1857",2,42,174993.4,0.4272,no
+Bruce Buxton & Co,unknown,1847,1,46,2641114.3,0.4271,no
+G B Carr,unknown,"1847,1857",2,40,119220.7,0.4249,no
+E Sieveking & Son,unknown,"1847,1857",2,38,162402.3,0.4246,no
+W & J Devas & Co,unknown,"1847,1866",2,36,196429.9,0.4242,no
+T J & T Powell,unknown,"1847,1857",2,40,77117.5,0.4241,no
+Miller & Potter,unknown,"1847,1857",2,40,34239.3,0.4233,no
+David Lloyd,unknown,"1847,1857",2,39,58025.0,0.4232,no
+Bieber & Co,unknown,"1857,1866",2,33,199628.2,0.4225,no
+David Evans & Co,unknown,"1857,1866",2,36,107087.4,0.4224,no
+Oriental Bank Corporation,foreign_or_colonial_financial,"1857,1866",2,14,715807.5,0.4217,no
+Andrew Jackson & Co,unknown,"1847,1866",2,36,14270.6,0.4206,no
+S Reuter,unknown,"1847,1857",2,33,94336.3,0.4205,no
+D & T J Warren,unknown,"1847,1866",2,35,27145.4,0.4203,no
+Do,unknown,"1847,1857",2,23,353721.1,0.4199,no
+Gledstanes & Co,unknown,"1847,1857",2,27,232389.1,0.4198,no
+F Harrison & Co,unknown,"1847,1857",2,33,45652.4,0.4196,no
+R & J Henderson,unknown,"1847,1866",2,23,325255.5,0.4193,no
+B Elkin & Sons,unknown,"1847,1857",2,33,30064.4,0.4192,no
+J L Lemme & Co,unknown,"1847,1857",2,22,296127.8,0.4182,no
+Rainey Bruce & Co,unknown,"1847,1857",2,31,26194.7,0.418,no
+Spalding & Hodge,unknown,"1847,1866",2,28,51697.6,0.4169,no
+King Melvil & Co,unknown,"1847,1866",2,27,84447.8,0.4169,no
+Bradbury & Cook,unknown,"1857,1866",2,26,97236.4,0.4166,no
+Giles Loder,unknown,"1847,1866",2,20,260495.8,0.4164,no
+Haarbleicher Schumann,unknown,1914,1,39,2280963.9,0.4161,no
+B S & J Phillips & Co,unknown,"1857,1866",2,22,167561.3,0.4157,no
+J Hubbard & Co,unknown,"1847,1857",2,22,169768.6,0.4157,no
+Daniell Dickinson & Co,unknown,"1847,1857",2,24,94084.6,0.4154,no
+W Jameson & Son,unknown,"1847,1857",2,25,43263.4,0.415,no
+Pinto Perez & Co,unknown,"1847,1857",2,24,52044.8,0.4146,no
+J Hart & Co,unknown,"1847,1857",2,25,25151.0,0.4146,no
+Randells & Co,unknown,"1847,1857",2,24,54183.0,0.4146,no
+Anglo South American Bank Ltd,foreign_or_colonial_financial,1914,1,39,2166880.9,0.4139,no
+D Taylor & Sons,unknown,"1847,1857",2,22,65761.2,0.4137,no
+J Bischoff & Sons,unknown,"1847,1857",2,21,23288.4,0.4123,no
+R Rea & Co,unknown,"1847,1857",2,21,19510.1,0.4123,no
+J Davies & Son,unknown,"1847,1857",2,21,16573.9,0.4122,no
+Haycroft & Pethick,unknown,"1857,1866",2,17,118786.5,0.4119,no
+Sampson Mitchell & Co,unknown,"1847,1857",2,14,197231.0,0.4117,no
+G Hitchcock & Co,unknown,"1847,1857",2,19,46419.8,0.4116,no
+J Gaury & Co,unknown,"1847,1857",2,18,56067.6,0.4113,no
+J & J Vickers & Co,unknown,"1847,1866",2,19,19195.8,0.4111,no
+Somes Mullens & Co,unknown,"1857,1866",2,18,48865.4,0.4111,no
+Welch Margetson & Co,unknown,"1847,1857",2,18,41195.9,0.411,no
+Heugh Balfour & Co,unknown,"1857,1866",2,15,128543.7,0.411,no
+Conway Phelps & Hayward,unknown,"1857,1866",2,18,33700.8,0.4108,no
+White Son & Co,unknown,"1857,1866",2,18,33450.7,0.4108,no
+Louis Cohen,unknown,"1847,1857",2,14,119870.3,0.4102,no
+Elias & Co,unknown,"1857,1866",2,13,134345.1,0.41,no
+Stephenson Clarke,unknown,"1857,1866",2,17,19939.0,0.41,no
+Kerr & Scott,unknown,"1847,1857",2,16,30785.2,0.4097,no
+C. & C. I. Coles,unknown,"1857,1866",2,14,81295.2,0.4095,no
+Cole Nichols & Co,unknown,"1847,1857",2,15,49249.8,0.4094,no
+James Hill & Sons,unknown,"1857,1866",2,11,159327.4,0.4093,no
+W Klein,unknown,"1857,1866",2,15,40035.5,0.4093,no
+Mangles & Co,unknown,"1847,1857",2,15,34764.9,0.4092,no
+D Drakeford & Co,unknown,"1847,1857",2,15,25732.1,0.409,no
+Bevingtons & Sons,unknown,"1847,1866",2,15,29285.0,0.409,no
+Coventry Sheppard & Co,unknown,"1857,1866",2,15,27783.0,0.409,no
+W Kendle,unknown,"1847,1857",2,15,7874.1,0.4086,no
+L Hart & Son,unknown,"1847,1857",2,14,25235.5,0.4084,no
+Moses Brothers,unknown,"1857,1866",2,13,40285.2,0.4081,no
+Edwards Eastty & Co,unknown,"1857,1866",2,12,63226.6,0.408,no
+Phillips King & Co,unknown,"1847,1857",2,13,23178.1,0.4078,no
+P Hava & Co,unknown,"1847,1857",2,12,45477.8,0.4077,no
+Leaf Sons & Co,unknown,"1857,1866",2,10,99803.7,0.4076,no
+R Johnson & Co,unknown,"1857,1866",2,12,9211.3,0.407,no
+J F Fixsen & Co,unknown,"1847,1857",2,11,11993.4,0.4065,no
+Horstman & Co,unknown,"1857,1866",2,8,99717.3,0.4064,no
+H Waithman & Co,unknown,"1847,1857",2,10,25916.5,0.4061,no
+George Brettle & Co,unknown,"1857,1866",2,10,21481.3,0.4061,no
+Thomson Bonar & Co,unknown,"1847,1866",2,8,74528.1,0.406,no
+Marshall Page & Co,unknown,"1857,1866",2,10,17596.1,0.406,no
+Lemon Hart & Son,unknown,"1847,1866",2,9,38159.7,0.4058,no
+Spartali & Co,unknown,"1857,1866",2,8,53709.2,0.4056,no
+B Salomons & Sons,unknown,"1847,1857",2,9,18764.0,0.4055,no
+Blogg & Martin,unknown,"1847,1866",2,6,102840.4,0.4054,no
+H H Lindsay,unknown,"1847,1857",2,9,11629.2,0.4053,no
+John Harbottle,unknown,"1857,1866",2,8,25708.5,0.405,no
+Ralli & Mavrojani,unknown,"1857,1866",2,7,30870.6,0.4046,no
+"Chartered Bank Of India, Austrailia & China",foreign_or_colonial_financial,1914,1,22,2175719.5,0.4045,no
+Ralli Bros,unknown,"1847,1914",2,4,108912.8,0.4044,yes
+A & G N Alexander & Co,unknown,1847,1,31,1899818.5,0.4043,no
+James Watt & Co,unknown,"1857,1866",2,7,15026.6,0.4043,no
+Geo Gibbs & Son,merchant_bank,"1847,1857",2,7,1648.1,0.404,no
+Imperial Ottoman Bank,foreign_or_colonial_financial,1914,1,19,2237876.9,0.404,no
+Samuel Stone,unknown,"1847,1857",2,6,25479.1,0.4039,no
+Zarifi Brothers & Co,unknown,"1857,1866",2,5,55602.7,0.4039,no
+H Bateman,unknown,"1847,1857",2,6,23848.4,0.4038,no
+Nathaniel Cohen,unknown,"1857,1866",2,5,42495.7,0.4036,no
+Bailey Pegg & Co,unknown,"1847,1857",2,6,11321.1,0.4036,no
+John Pirie & Co,unknown,"1857,1866",2,5,16580.0,0.4032,no
+Colchesters & Woolner,unknown,"1857,1866",2,5,16927.9,0.4032,no
+H & C Kent,unknown,"1857,1866",2,5,15494.2,0.4031,no
+James Barber & Co,unknown,"1857,1866",2,5,11831.7,0.403,no
+Morgan Brothers,merchant_bank,"1857,1866",2,4,11800.3,0.4025,no
+Jellicoe & Wix,unknown,"1847,1857",2,4,6790.8,0.4024,no
+Joseph Jackson,unknown,"1847,1857",2,4,7350.0,0.4024,no
+Dudgeon & Co,unknown,"1847,1857",2,3,8007.0,0.4018,no
+Churchill & Sim,unknown,"1857,1914",2,2,28811.2,0.4017,yes
+R.Cunliffe Sons Co,unknown,1914,1,24,1899733.2,0.4003,no
+Thomas Walker WW,unknown,1847,1,83,70115.0,0.3983,no
+Hong Kong & Shanghai Banking Corporation,unknown,1914,1,24,1617882.9,0.3948,no
+S.Montagu Co,unknown,1914,1,32,1376063.8,0.3947,no
+R B Byass,unknown,1847,1,76,52471.6,0.394,no
+Coates & Co,unknown,1847,1,65,264642.7,0.3919,no
+Ryder & Co,unknown,1914,1,20,1458923.0,0.3895,no
+Smith Fleming & Co,unknown,1866,1,29,1130267.1,0.3883,no
+Rob Lawes & Co,unknown,1847,1,42,610292.4,0.3856,no
+Kraeutler & Mueville,unknown,1847,1,45,445125.4,0.3841,no
+William Nash,unknown,1847,1,58,61351.7,0.384,no
+Lyon & Lucker,unknown,1914,1,22,1005164.5,0.3819,no
+Robert Smith & Co,unknown,1866,1,47,257094.5,0.3816,no
+R Lawes & Co,unknown,1857,1,25,888937.5,0.3813,no
+H Castellain Sons & Co,unknown,1847,1,47,232284.3,0.3811,no
+Daniell Cafenove & Co,unknown,1914,1,28,780754.3,0.3809,no
+Jas Lang,unknown,1847,1,48,192731.1,0.3809,no
+Ralli & Mavrajani,unknown,1847,1,47,198345.6,0.3804,no
+Harwood Knight & Allen,unknown,1866,1,19,984430.0,0.3798,no
+Carr Lamb & Co,unknown,1847,1,47,94810.0,0.3784,no
+White & Shaxson,unknown,1914,1,22,782893.5,0.3776,no
+Morrison D & Co,unknown,1847,1,36,352634.3,0.3772,no
+P T Ralli,unknown,1857,1,42,170952.4,0.3771,no
+Mercantile Bank Of India Ltd,foreign_or_colonial_financial,1914,1,20,819240.3,0.3771,no
+R Nunes,unknown,1847,1,46,21195.1,0.3764,no
+Perkins Schlusser & Co,unknown,1847,1,40,188293.9,0.3763,no
+International Banking Corporation,unknown,1914,1,22,708043.3,0.3761,no
+W Cater,unknown,1847,1,44,51942.7,0.3759,no
+Hyde Hodge & Co,unknown,1857,1,38,222453.9,0.3758,no
+Bischoffshein G & Co,unknown,1847,1,32,389796.6,0.3757,no
+H W Schwartz,unknown,1847,1,41,108931.3,0.3753,no
+British Bank Of South America Ltd,clearing_or_joint_stock_bank,1914,1,12,952994.2,0.3752,no
+Schunck S & Co,unknown,1847,1,35,275840.7,0.3751,no
+T & J Ralli,unknown,1866,1,41,90859.8,0.375,no
+A. Ruffer & Sons,unknown,1914,1,28,470857.4,0.375,no
+William Brandt'S Sons & Co,unknown,1914,1,13,899189.7,0.3747,no
+A Nichol & Son,unknown,1847,1,42,47578.1,0.3747,no
+David Evans,unknown,1847,1,38,156935.7,0.3746,no
+Cavan Bros & Co,unknown,1847,1,37,182987.4,0.3745,no
+Conway Phelps & Co,unknown,1847,1,39,125388.2,0.3745,no
+Rawson & Norton & Co,unknown,1847,1,38,138142.4,0.3742,no
+Gould Dowie & M,unknown,1847,1,40,74818.2,0.3741,no
+Streatfeild L & Co,unknown,1847,1,40,59562.0,0.3738,no
+L Phillips & Sons,unknown,1847,1,40,57569.7,0.3738,no
+Rob Knapton,unknown,1847,1,41,31124.6,0.3738,no
+W H Ogden,unknown,1847,1,40,58935.9,0.3738,no
+Fenn Kemm & Co,unknown,1847,1,40,50223.8,0.3736,no
+B Figdor,unknown,1847,1,39,75762.7,0.3735,no
+L Alexander & Co,unknown,1847,1,34,161964.6,0.3724,no
+De Mattos & De Leon,unknown,1847,1,34,149963.8,0.3721,no
+Castellain Sons & Co,unknown,1847,1,32,198883.9,0.372,no
+Siordeh M & Co,unknown,1847,1,34,131009.5,0.3718,no
+E B Brown,unknown,1847,1,37,27546.8,0.3715,no
+J Reay Jnr & H Reay,unknown,1847,1,36,25473.7,0.3709,no
+A Bell & Sons,unknown,1857,1,33,104493.8,0.3707,no
+Rougemont Bros,unknown,1847,1,33,94598.5,0.3705,no
+Haarbleichen Schumaum,unknown,1866,1,25,328000.7,0.3705,no
+H Woodfull,unknown,1847,1,36,6845.5,0.3705,no
+Holford & Co,unknown,1847,1,30,167489.2,0.3702,no
+Ellice Kinnear & Co,unknown,1847,1,27,257169.4,0.3702,no
+Schuezler & Co,unknown,1847,1,34,46743.5,0.3701,no
+Cama & Co,unknown,1857,1,29,186057.0,0.37,no
+Booker Sons & Co,unknown,1847,1,34,28090.0,0.3698,no
+Vyse & Sons,unknown,1847,1,32,79594.3,0.3697,no
+Arbuthnol Latham & Co,unknown,1847,1,28,197114.1,0.3697,no
+Frederick Youle,unknown,1866,1,24,308573.3,0.3696,no
+Fob Wright & Co,unknown,1847,1,31,97139.8,0.3694,no
+Charles Walton,unknown,1847,1,33,30108.9,0.3693,no
+R Johnson & Neph,unknown,1847,1,33,26299.4,0.3692,no
+Pearse & Child,unknown,1847,1,31,87955.7,0.3692,no
+Suse + Sibeth,unknown,1857,1,26,219100.7,0.369,no
+Joseph Allard,unknown,1866,1,28,155957.9,0.3689,no
+Coventry & Sheppard,unknown,1847,1,31,64856.4,0.3688,no
+Abbott Nottingham & Co,unknown,1847,1,32,26493.8,0.3686,no
+Alex & Bell,unknown,1847,1,30,83117.6,0.3686,no
+John Brown,unknown,1847,1,32,24887.2,0.3686,no
+F W Russell,unknown,1847,1,30,76198.0,0.3685,no
+Rob & Harrison & Co,unknown,1847,1,29,102545.4,0.3684,no
+Allen & Anderson,unknown,1847,1,25,209208.1,0.3682,no
+Spartali & Lascaridi,unknown,1847,1,26,175937.4,0.3681,no
+J W Browne & Co,unknown,1847,1,31,28088.9,0.3681,no
+Streatfield Laurence & Co,unknown,1857,1,25,199265.1,0.368,no
+Nestle Andreas & Co,unknown,1847,1,30,49232.8,0.3679,no
+McCalmont Bros & Co,unknown,1847,1,24,215990.3,0.3678,no
+R Eglinton & Co,unknown,1847,1,26,156221.9,0.3677,no
+Aubertin Bros,unknown,1847,1,30,24407.9,0.3675,no
+George Peabody,unknown,1847,1,25,175048.2,0.3675,no
+Thomas Tapling & Co,unknown,1857,1,29,51033.1,0.3674,no
+Timothy Wiggin & Co,unknown,1857,1,21,284535.7,0.3674,no
+Gregson & Co,unknown,1847,1,24,193928.6,0.3673,no
+Crawford C & Co,unknown,1847,1,24,190777.0,0.3673,no
+Canadian Bank Of Commerce,foreign_or_colonial_financial,1914,1,10,603157.1,0.3673,no
+J F Pawson & Co,unknown,1847,1,25,157632.9,0.3672,no
+Lon: Asiatic & American Coy Limited,unknown,1866,1,18,365609.9,0.3672,no
+Gledstones & Co,unknown,1866,1,19,322102.0,0.367,no
+Fletcher A & Co,unknown,1847,1,19,321374.6,0.367,no
+The Ebbw Vale Co Ltd,unknown,1866,1,19,323600.7,0.367,no
+Leys Masson & Co,unknown,1847,1,29,30201.4,0.367,no
+G Peabody & Co,unknown,1857,1,13,494353.9,0.3669,no
+H Buchler & Co,unknown,1847,1,29,17755.4,0.3668,no
+Rowlandson & A,unknown,1847,1,29,14877.1,0.3667,no
+R Heine Semon & Co,unknown,1857,1,23,186549.8,0.3666,no
+Cotesworth & Powell & Co,unknown,1847,1,24,148759.9,0.3665,no
+Boyds & Thomas,unknown,1847,1,25,114873.9,0.3664,no
+W Abbott & Son,unknown,1847,1,28,24703.4,0.3663,no
+George Marshall,unknown,1847,1,28,25336.5,0.3663,no
+Palmer McKillop D & C,unknown,1847,1,22,198432.3,0.3663,no
+J H Rudall,unknown,1847,1,28,21985.0,0.3663,no
+W Sewell & Co,unknown,1847,1,28,18271.0,0.3662,no
+Samuel Montagu & Co,unknown,1866,1,19,276452.9,0.3661,no
+N M Rothchild & Son,unknown,1847,1,9,561456.5,0.3659,no
+W Cothay & Co,unknown,1847,1,25,93521.7,0.3659,no
+White & Greenwell,unknown,1847,1,26,57656.1,0.3658,no
+Alston Bevan & Co,unknown,1847,1,26,51791.6,0.3657,no
+F.Elles Son,unknown,1914,1,17,316119.8,0.3657,no
+De Lannoy & Nash,unknown,1847,1,26,46397.5,0.3656,no
+C Buschek,unknown,1847,1,26,45601.9,0.3656,no
+I. F. Pawson & Co,unknown,1866,1,17,294766.4,0.3653,no
+Nohler & Co,unknown,1914,1,3,700000.0,0.3652,no
+Clay Janson & Co,unknown,1847,1,26,26393.4,0.3652,no
+Grant & Kemshead,unknown,1847,1,24,79144.3,0.3651,no
+Baltazzi & P,unknown,1847,1,22,136712.5,0.3651,no
+T. Tapling & Co,unknown,1866,1,24,77301.4,0.3651,no
+Konigswarter Bros,unknown,1847,1,23,99203.7,0.3649,no
+Abel Bros,unknown,1847,1,25,32172.8,0.3648,no
+A & G Da Costa & Co,unknown,1847,1,25,29287.0,0.3647,no
+A Goldsmid,unknown,1847,1,21,137619.9,0.3645,no
+Davey & Pegg,unknown,1847,1,25,20539.5,0.3645,no
+W Mallaliew & Co,unknown,1866,1,24,42015.1,0.3644,no
+C Douglas & Son,unknown,1847,1,23,69032.6,0.3644,no
+Geo Johnson & Co,unknown,1847,1,25,13104.6,0.3644,no
+Groucock C & Co,unknown,1847,1,23,66182.9,0.3643,no
+C Fauntleroy,unknown,1857,1,25,8611.6,0.3643,no
+Dadabhai Naoroji & Co,unknown,1866,1,22,90862.5,0.3642,no
+Steains Rowley & Co,unknown,1847,1,24,31848.6,0.3642,no
+Anglo Egyptian Bank Ltd,foreign_or_colonial_financial,1914,1,7,523242.6,0.3641,no
+Trumpler & R,unknown,1847,1,23,50370.2,0.364,no
+Gray & MacFarlan,unknown,1847,1,24,23005.0,0.364,no
+T & W King,unknown,1847,1,17,223302.0,0.364,no
+J Shears & Sons,unknown,1847,1,23,49223.5,0.364,no
+Stewart & Westmorland,unknown,1847,1,22,80500.7,0.364,no
+E Lindo & Co,unknown,1847,1,21,102679.4,0.3639,no
+Scott Bell & Co,unknown,1847,1,19,156252.9,0.3638,no
+Hy Sherwood & Co,unknown,1914,1,10,418244.2,0.3637,no
+Johnson Cole & Co,unknown,1847,1,22,54974.0,0.3635,no
+Glyn & Co,unknown,1857,1,5,550257.4,0.3635,no
+Henry Clarke & Co,unknown,1866,1,22,47600.2,0.3634,no
+Alex Bell & Sons,unknown,1866,1,20,95830.0,0.3632,no
+John Gladstone,unknown,1847,1,22,32684.4,0.3631,no
+J R Jaffray,unknown,1847,1,22,30518.8,0.363,no
+Francis Ede Son & Co,unknown,1857,1,20,84949.3,0.363,no
+Maclean Maris & Co,unknown,1847,1,20,81144.5,0.3629,no
+Chris Kreeft,unknown,1847,1,22,22003.5,0.3629,no
+J Horstman,unknown,1847,1,19,110768.9,0.3629,no
+Reade & Grove,unknown,1847,1,21,46483.7,0.3628,no
+R Harrison & Co,unknown,1847,1,20,75964.4,0.3628,no
+Chas Fauntleroy,unknown,1847,1,22,17089.5,0.3628,no
+S Courtauld & Co,unknown,1847,1,20,75117.8,0.3628,no
+J R Jaffray & Co,unknown,1857,1,21,42738.0,0.3627,no
+J C Abrams,unknown,1847,1,22,9914.0,0.3626,no
+Brockelbank & Roth,unknown,1847,1,20,61596.4,0.3625,no
+F J Van Zeller,unknown,1847,1,21,24438.8,0.3624,no
+Alexander Cullen & Co,unknown,1847,1,21,28596.2,0.3624,no
+Kraeutler & Mieville,unknown,1857,1,13,259095.7,0.3624,no
+Ionides & Co,unknown,1847,1,18,107545.8,0.3623,no
+Rob Von Glehn,unknown,1847,1,21,20445.8,0.3623,no
+Sadler Harrison & Co,unknown,1847,1,20,37798.9,0.3621,no
+Lon Hanseatic Bk Ld,unknown,1914,1,12,274311.4,0.3621,no
+J Pickersgill & Son,unknown,1847,1,18,90127.1,0.3619,no
+Forster & Smith,unknown,1847,1,18,87468.8,0.3619,no
+Stubbs & Church,unknown,1847,1,20,28138.9,0.3619,no
+Jas Coster & Co,unknown,1847,1,18,81913.1,0.3618,no
+Castelli G & Co,unknown,1847,1,18,86102.4,0.3618,no
+Trueman & Cook,unknown,1847,1,15,168231.5,0.3617,no
+Vyse Sons & Co,unknown,1866,1,19,49826.5,0.3617,no
+Sargant Gordon & Co,unknown,1847,1,20,15509.3,0.3616,no
+Evans Bros,unknown,1847,1,20,11718.4,0.3615,no
+B C J Gray & Son,unknown,1847,1,19,30648.8,0.3614,no
+Richardson & Co,unknown,1847,1,19,22138.4,0.3612,no
+Sheatfield L & Co,unknown,1847,1,19,24754.0,0.3612,no
+S.P. Framjee & Co,unknown,1866,1,16,108969.0,0.3612,no
+Reid Irving & Co,unknown,1847,1,13,201072.8,0.3612,no
+Collmann & Son,unknown,1847,1,15,138921.6,0.3612,no
+London River Place Bank Limited,clearing_or_joint_stock_bank,1866,1,12,224653.4,0.3611,no
+S S Curtis,unknown,1847,1,19,12932.8,0.361,no
+Greenwood & Butler,unknown,1847,1,17,63546.4,0.3608,no
+Barclay Brothers & Co,clearing_or_joint_stock_bank,1847,1,15,119994.5,0.3608,no
+M Levin & Adler,unknown,1857,1,17,58339.2,0.3608,no
+E Sheldon & Co,unknown,1857,1,18,30269.8,0.3608,no
+Moses Bros,unknown,1847,1,18,26898.1,0.3607,no
+L Goddard,unknown,1847,1,18,28536.2,0.3607,no
+R S Cox & Co,unknown,1847,1,18,27659.6,0.3607,no
+William Thorne,unknown,1847,1,18,26866.6,0.3607,no
+J Jacobson,unknown,1847,1,18,6430.4,0.3603,no
+John Prince B S,unknown,1847,1,18,4318.5,0.3603,no
+Chamberlain & Son,unknown,1847,1,17,31719.0,0.3602,no
+Geo Laurence,unknown,1847,1,16,58152.1,0.3602,no
+"Naylor, Benzon & Co",unknown,1866,1,12,172539.0,0.3601,no
+E Price & Co,unknown,1847,1,16,47253.8,0.36,no
+Rob B Byass,unknown,1857,1,16,47123.9,0.36,no
+Henchell D & Co,unknown,1847,1,16,46728.3,0.36,no
+Chartered Merchant Bank Of India Limited,foreign_or_colonial_financial,1866,1,4,400000.0,0.36,no
+E Busch & Co,unknown,1847,1,16,46094.6,0.36,no
+J G Behrends,unknown,1847,1,16,48181.3,0.36,no
+Bomanjee Framjee Cama & Co,unknown,1866,1,14,105923.0,0.36,no
+Church Son & Stubbs,unknown,1857,1,17,18535.7,0.36,no
+S. Oppenheim & Sons,unknown,1866,1,10,220475.7,0.3599,no
+Browning & Son,unknown,1847,1,17,13317.0,0.3599,no
+Scheibler & Coenen,unknown,1866,1,16,39671.2,0.3598,no
+I. W. Cater Inman & Co,unknown,1857,1,14,97718.9,0.3598,no
+Geo Brettle & Co,unknown,1847,1,15,61882.7,0.3597,no
+J. C. Im Thurm & Co,unknown,1866,1,12,146127.6,0.3596,no
+G&R Dewhurst Ltd,unknown,1914,1,8,263036.1,0.3596,no
+Spence B & Co,unknown,1847,1,15,56897.5,0.3596,no
+H Goez,unknown,1847,1,16,22380.9,0.3595,no
+W Anderson Sew & Co,unknown,1847,1,16,18455.3,0.3594,no
+R. B. Byass,unknown,1866,1,15,46562.8,0.3594,no
+Caldecott P & Co,unknown,1847,1,15,49639.3,0.3594,no
+Magniac J & Co,unknown,1847,1,9,216940.2,0.3593,no
+A Macdonald & Co,unknown,1847,1,15,42553.8,0.3593,no
+Josh Dowson & Co,unknown,1847,1,15,41205.1,0.3593,no
+G Houghton & Sons,unknown,1847,1,16,6784.2,0.3592,no
+Mccalmont Brothers & Co,unknown,1857,1,8,243828.7,0.3592,no
+Colchester & Neph,unknown,1847,1,16,7824.9,0.3592,no
+C & B Hooper,unknown,1847,1,16,7829.0,0.3592,no
+Bank Of Madras,foreign_or_colonial_financial,1866,1,15,26365.0,0.359,no
+"Gilmour, Rankin, Strang & Co.",unknown,1866,1,15,25061.9,0.359,no
+Colonial Company Limited,foreign_or_colonial_financial,1866,1,8,232767.3,0.359,no
+I. Leonino & Co,unknown,1866,1,12,114840.0,0.359,no
+Peck Bros & Co,unknown,1847,1,15,29435.9,0.359,no
+Pastre Brothers,unknown,1866,1,12,106995.2,0.3589,no
+Read Dodgson & Co,unknown,1847,1,15,23192.9,0.3589,no
+Peter Rolt & Co,unknown,1866,1,13,76369.6,0.3588,no
+Bank Of Hindustan Limited,foreign_or_colonial_financial,1866,1,6,279238.7,0.3588,no
+Richard Hooper & Sons,unknown,1866,1,14,46712.1,0.3588,no
+T & D Henry,unknown,1847,1,15,15724.3,0.3588,no
+Denham Smart & Co,unknown,1847,1,15,14199.8,0.3588,no
+R A Husey,unknown,1847,1,15,15864.0,0.3588,no
+C Devaux & Co,unknown,1847,1,13,75327.8,0.3588,no
+Stone & Kemp,unknown,1847,1,14,46153.0,0.3588,no
+R Cunliffe Son & Co,unknown,1857,1,10,162713.9,0.3588,no
+J Walker W W,unknown,1847,1,15,14747.9,0.3588,no
+Luckie Bros & Co,unknown,1847,1,15,17332.4,0.3588,no
+James Lang,unknown,1857,1,14,41067.1,0.3587,no
+Richard Thornton,unknown,1847,1,15,13111.3,0.3587,no
+John Schwartz,unknown,1866,1,15,10232.7,0.3587,no
+Lloyd & Attree,unknown,1866,1,15,11244.2,0.3587,no
+Laing & Bruxner,unknown,1847,1,14,34389.4,0.3586,no
+R J Bagshaw,unknown,1847,1,13,59677.6,0.3585,no
+C Lester & Co,unknown,1847,1,14,24074.8,0.3584,no
+Barnett & Co,unknown,1866,1,6,258606.9,0.3584,no
+W Brandt'S Sons & Co,unknown,1866,1,12,84283.1,0.3584,no
+John Williams & Sons,unknown,1857,1,14,18313.4,0.3583,no
+R Rodger,unknown,1857,1,10,135776.8,0.3583,no
+Drewett & Fowler,unknown,1847,1,10,135981.2,0.3583,no
+Streckeisen Bischoff & Co,unknown,1866,1,13,47850.8,0.3583,no
+Davidson & Peter,unknown,1847,1,14,12416.3,0.3582,no
+F. T. Elworthy,unknown,1866,1,11,102652.5,0.3582,no
+Rossetto Carati & Co,unknown,1847,1,13,37475.9,0.3581,no
+Robinson & Fleming,unknown,1866,1,11,98829.3,0.3581,no
+James Steains & Co,unknown,1866,1,13,39511.4,0.3581,no
+Adams & Co,unknown,1847,1,13,38309.9,0.3581,no
+Barnetts Hoare & Co On Account Of The Clydesdale Banking Company,unknown,1857,1,4,302771.3,0.3581,no
+W M Andrew & Sons,unknown,1866,1,12,54748.6,0.3579,no
+Thomas Gabriel & Son,unknown,1847,1,13,28571.1,0.3579,no
+Gillespies M & Co,unknown,1847,1,12,54797.0,0.3579,no
+Cruikshank M & Co,unknown,1847,1,13,30207.4,0.3579,no
+E H Brandts Son & Co,unknown,1857,1,12,58408.1,0.3579,no
+Ritchie Bros,unknown,1847,1,13,24289.6,0.3578,no
+Bank Of New South Wales,foreign_or_colonial_financial,1866,1,3,316000.0,0.3578,no
+W Pemberton & Co,unknown,1847,1,13,21269.2,0.3578,no
+Warre Bros,unknown,1847,1,13,16183.7,0.3577,no
+"L. Goddard, Finch & Co",unknown,1866,1,13,16738.4,0.3577,no
+Schunck Souchay & Co,unknown,1857,1,9,133838.2,0.3577,no
+Leonino Bros,unknown,1847,1,11,69310.1,0.3576,no
+T.M. Mackay & Co,unknown,1866,1,12,41439.0,0.3576,no
+Lyall Bros & Co,unknown,1847,1,11,69449.2,0.3576,no
+Jas Deacon & Sons,unknown,1847,1,13,13730.0,0.3576,no
+H J Einthoven & Sons,unknown,1857,1,10,101176.6,0.3576,no
+Josh Holl & Co,unknown,1847,1,13,6031.3,0.3575,no
+Todd Bros,unknown,1847,1,13,9196.3,0.3575,no
+Robinson & Flemming,unknown,1857,1,11,68694.9,0.3575,no
+Barry & Hayward,unknown,1847,1,13,7593.3,0.3575,no
+Joseph Anderson & Son,unknown,1866,1,12,34443.9,0.3575,no
+Arthur & Co,unknown,1866,1,10,91624.9,0.3574,no
+C & J Webb & Co,unknown,1847,1,12,28970.5,0.3574,no
+H Hoffmann,unknown,1857,1,12,28198.7,0.3573,no
+Ellis Everington & Co,unknown,1857,1,10,85429.1,0.3573,no
+"John Jones, Lloyd",unknown,1847,1,12,23699.8,0.3573,no
+H Casement & Son,unknown,1847,1,12,18692.9,0.3572,no
+W. & T. Devas & Co,unknown,1857,1,12,20600.8,0.3572,no
+Puzey & Pallett,unknown,1847,1,12,23087.9,0.3572,no
+Todhunter & Sancton,unknown,1847,1,12,17415.6,0.3571,no
+Vivanti Annett & Co,unknown,1866,1,12,15058.3,0.3571,no
+C Hancock C S,unknown,1847,1,12,16600.1,0.3571,no
+Steven Brothers,unknown,1866,1,6,190961.6,0.3571,no
+G Matveieff,unknown,1847,1,12,13855.4,0.3571,no
+J Leonino & Co,unknown,1857,1,10,74117.9,0.3571,no
+Laforest & Co,unknown,1847,1,12,9796.8,0.357,no
+Sambourne & Bell,unknown,1847,1,12,8931.1,0.357,no
+George Cross & Co,unknown,1866,1,12,11374.3,0.357,no
+Fras Chambers,unknown,1847,1,12,10403.3,0.357,no
+M L Bensusan & Co,unknown,1847,1,12,9960.9,0.357,no
+J F Burrell,unknown,1847,1,12,11083.6,0.357,no
+J M Waters,unknown,1847,1,12,10852.3,0.357,no
+C Trueman & Co,unknown,1847,1,11,34054.3,0.3569,no
+Edward Robinson,unknown,1847,1,11,33034.4,0.3569,no
+Cassavetti C & Co,unknown,1847,1,11,27809.4,0.3568,no
+Bradbury Greatorex & Co,unknown,1857,1,10,54910.1,0.3567,no
+Union Bank Of Canada,clearing_or_joint_stock_bank,1914,1,7,142161.4,0.3567,no
+National Bank Of India Ltd,foreign_or_colonial_financial,1914,1,2,290808.1,0.3567,no
+J Bult Son & Co,unknown,1847,1,9,80572.4,0.3567,no
+Kelsalls & Co,unknown,1847,1,10,54376.3,0.3567,no
+W Mitcalfe,unknown,1847,1,11,24888.3,0.3567,no
+"Soanes, Son & Page",unknown,1866,1,8,112536.3,0.3567,no
+H F Wallaston,unknown,1847,1,11,20422.7,0.3566,no
+Gilbert Kerr & Co,unknown,1866,1,11,19634.2,0.3566,no
+T. W. Smith & Co,unknown,1857,1,11,22222.1,0.3566,no
+Trimmer & Grainger,unknown,1866,1,11,20571.6,0.3566,no
+Leaf Coles Smith & Co,unknown,1847,1,10,46947.4,0.3566,no
+W. Rattray & Co,unknown,1866,1,11,15877.4,0.3565,no
+Lackerstein J & Co,unknown,1847,1,11,15143.5,0.3565,no
+Geo Soanes & Co,unknown,1857,1,10,44889.1,0.3565,no
+B Simon & A Jacoby,unknown,1857,1,8,101706.3,0.3565,no
+Edward Meyer,unknown,1847,1,10,44845.0,0.3565,no
+J Deacon & Sons,unknown,1847,1,11,14233.9,0.3565,no
+J Stuart & Son,unknown,1847,1,11,12645.8,0.3565,no
+Hyde & Hodge & Co,unknown,1847,1,11,14903.2,0.3565,no
+W E Franks & Son,unknown,1857,1,11,11307.1,0.3564,no
+Aug: Wehmer,unknown,1866,1,11,8428.5,0.3564,no
+Hugh Jones & Co,unknown,1866,1,11,8699.4,0.3564,no
+Langton & Bicknell,unknown,1847,1,10,35790.8,0.3564,no
+Jno Feltham & Co,unknown,1847,1,11,10304.6,0.3564,no
+Keith Shoobridge & Co,unknown,1847,1,11,8104.0,0.3564,no
+Allnutts & Arbain,unknown,1847,1,11,10650.2,0.3564,no
+Wilson & Lancaster,unknown,1847,1,10,35645.7,0.3563,no
+G Loder,unknown,1857,1,4,209526.2,0.3563,no
+Stone & Gunter,unknown,1847,1,11,5759.3,0.3563,no
+Lewellin Truman & Co,unknown,1847,1,10,35112.5,0.3563,no
+J & T Hepburn & Sons,unknown,1866,1,10,27638.1,0.3562,no
+Foster & Porter & Co,unknown,1847,1,10,29995.2,0.3562,no
+Bennison Lermard,unknown,1857,1,9,55207.2,0.3562,no
+Smith & Simmonds,unknown,1847,1,9,54405.7,0.3562,no
+H.J. Enthoven & Sons,unknown,1866,1,8,89306.2,0.3562,no
+Price Coker & Co,unknown,1857,1,10,25920.6,0.3562,no
+Bradbury G & Co,unknown,1847,1,9,56988.8,0.3562,no
+Glyn & Co O/A Union Bank Of Scotland,foreign_or_colonial_financial,1857,1,1,285729.9,0.3561,no
+Walker Parker & Co,unknown,1847,1,9,54058.9,0.3561,no
+John Mollett,unknown,1847,1,9,53395.0,0.3561,no
+The London Brazilian Bank,clearing_or_joint_stock_bank,1866,1,1,282000.0,0.356,no
+N E Bieber,unknown,1847,1,10,15609.1,0.356,no
+J Harrison & Co,unknown,1847,1,10,16512.0,0.356,no
+Turck Barclay & Co,clearing_or_joint_stock_bank,1857,1,10,16278.0,0.356,no
+John Locke & Co,unknown,1847,1,10,16243.5,0.356,no
+C Walton & Sons,unknown,1857,1,10,16462.0,0.356,no
+G Soanes,unknown,1847,1,9,48198.6,0.356,no
+A G Da Costa,unknown,1857,1,10,10678.6,0.3559,no
+C Stainbank & Son,unknown,1847,1,10,14775.5,0.3559,no
+Cockin & Seamer,unknown,1847,1,10,10443.8,0.3559,no
+Matthew Bros & B,unknown,1847,1,10,11901.8,0.3559,no
+T Shephens & Co,unknown,1847,1,10,11462.2,0.3559,no
+Thomas & Chapman,unknown,1847,1,9,42194.4,0.3559,no
+Thomas McGregor,unknown,1847,1,10,11665.8,0.3559,no
+Roger Cunliffe,unknown,1847,1,8,72874.9,0.3559,no
+Thurburn & Co,unknown,1847,1,9,42183.8,0.3559,no
+W. Spotten & Co,unknown,1866,1,10,14756.2,0.3559,no
+H. W. Elder & Son,unknown,1866,1,9,40914.8,0.3559,no
+D. E. Power,unknown,1866,1,10,10848.4,0.3559,no
+Aviesim & Co,unknown,1866,1,9,34595.9,0.3558,no
+H & E Muggeridge,unknown,1847,1,10,8932.0,0.3558,no
+Sam & Phillips & Co,unknown,1847,1,9,38166.0,0.3558,no
+J P Thol & Co,unknown,1847,1,10,4677.5,0.3558,no
+P Dickson & Co,unknown,1847,1,9,29366.6,0.3557,no
+Byass & Son,unknown,1866,1,8,59925.4,0.3557,no
+Cavan Brothers & Co,unknown,1857,1,6,115135.2,0.3556,no
+John Pirie,unknown,1847,1,9,28466.5,0.3556,no
+T. M. Comas & Co,unknown,1866,1,9,25732.0,0.3556,no
+Imp Merchant Credit Limited,unknown,1866,1,4,175000.0,0.3556,no
+H D & J Blyth & Green,unknown,1847,1,8,56940.4,0.3556,no
+R. Cunliffe Son & Co,unknown,1866,1,4,170000.0,0.3555,no
+Coulon & Co,unknown,1857,1,9,20085.6,0.3555,no
+W Anderson Hunt & Co,unknown,1857,1,9,17352.0,0.3554,no
+H A S & H Pigeon,unknown,1847,1,8,46262.4,0.3554,no
+I F Pawson & Co,unknown,1857,1,8,47409.8,0.3554,no
+H. W. Eaton,unknown,1866,1,6,103359.6,0.3554,no
+Gillespie Churchill & Co,unknown,1866,1,8,42089.6,0.3554,no
+Barker & Co,unknown,1847,1,9,13106.8,0.3554,no
+T & W Smith,unknown,1866,1,9,14123.9,0.3554,no
+Houghton Burnett & Co,unknown,1847,1,9,12408.5,0.3553,no
+Howse & Mead,unknown,1857,1,9,11409.4,0.3553,no
+Heywood & Co,unknown,1857,1,3,184334.5,0.3553,no
+J Collinson,unknown,1857,1,9,8872.1,0.3553,no
+Hood & Ward,unknown,1857,1,9,8022.6,0.3553,no
+Richard Walford,unknown,1847,1,9,9983.5,0.3553,no
+Hinton Brothers & Co,unknown,1857,1,9,9201.1,0.3553,no
+Abet Brothers,unknown,1857,1,9,10802.1,0.3553,no
+D. D. Cama & Co,unknown,1866,1,7,64075.0,0.3552,no
+Sims Williams & Co,unknown,1847,1,8,32628.1,0.3552,no
+Henry Kendall & Sons,unknown,1866,1,8,37603.0,0.3552,no
+J & T Hepburn,unknown,1847,1,9,7556.3,0.3552,no
+Price & Pierce Ltd,unknown,1914,1,7,64340.0,0.3552,no
+Tanner & Ward,unknown,1847,1,9,5377.0,0.3552,no
+Jacob Walter & Co,unknown,1914,1,7,63587.5,0.3552,no
+Stiebel Bros,unknown,1847,1,8,34348.2,0.3552,no
+Weber & Co,unknown,1847,1,8,36009.1,0.3552,no
+H Cox & Co,unknown,1857,1,8,29488.1,0.3551,no
+J. Mosenthal & Co,unknown,1866,1,8,29828.6,0.3551,no
+W J & H Beale,unknown,1847,1,8,29656.7,0.3551,no
+Chalmers G & Co,unknown,1847,1,7,58670.7,0.3551,no
+P & C Van Notten & Co,unknown,1866,1,8,27388.0,0.3551,no
+J Kingston & Co,unknown,1847,1,8,29769.1,0.3551,no
+Norris & Chaplin,unknown,1866,1,8,30396.7,0.3551,no
+"Bagallay, Westall & Spence",unknown,1866,1,8,25287.6,0.355,no
+H Bull,unknown,1847,1,8,22370.7,0.355,no
+T. Lowndes & Co,unknown,1866,1,8,24549.7,0.355,no
+J W Cater Collett & Co,unknown,1847,1,8,22761.0,0.355,no
+J D Thomson,unknown,1847,1,8,21446.4,0.355,no
+Eyles Evans & Co,unknown,1857,1,8,18747.1,0.3549,no
+Shaw & Caffary,unknown,1847,1,8,18127.4,0.3549,no
+Brockelbank & Rolt,unknown,1857,1,8,16345.0,0.3548,no
+F. Gade & Son,unknown,1866,1,8,15751.0,0.3548,no
+J Gore & Co,unknown,1847,1,8,16135.8,0.3548,no
+W. Vaughan & Co,unknown,1866,1,8,14278.9,0.3548,no
+F. Bennoch & Co,unknown,1866,1,8,13279.6,0.3548,no
+Ovingtons & Co,unknown,1847,1,8,11759.7,0.3548,no
+Thomas Russell & Co,unknown,1847,1,8,13988.3,0.3548,no
+Broadwood & Barclay,clearing_or_joint_stock_bank,1857,1,7,44659.9,0.3548,no
+D Satow & Co,unknown,1847,1,8,11296.8,0.3548,no
+J. & C. Boyd & Co,unknown,1857,1,7,44251.3,0.3548,no
+H & E Downs,unknown,1847,1,8,13195.9,0.3548,no
+Frederick Harrison & Co,unknown,1847,1,8,11162.6,0.3548,no
+Bedwell Yates & Co,unknown,1847,1,8,8317.5,0.3547,no
+Spalding & Hodges,unknown,1857,1,8,8668.4,0.3547,no
+L. Hart & Son,unknown,1866,1,7,36609.2,0.3547,no
+Esdaile & Co,unknown,1866,1,8,8331.6,0.3547,no
+"Copestake Moore, Crampton & Co",unknown,1857,1,7,35890.5,0.3547,no
+Barclay & Friend,clearing_or_joint_stock_bank,1847,1,8,8721.2,0.3547,no
+W. E. Franks & Son,unknown,1866,1,8,8667.4,0.3547,no
+Alison Cumberlege & Co,unknown,1847,1,7,38329.4,0.3547,no
+F Castelli,unknown,1857,1,8,7628.8,0.3547,no
+Josh Jackson S & Co,unknown,1847,1,8,7416.0,0.3547,no
+Northumberland & Durham Coal Co,unknown,1857,1,8,8870.5,0.3547,no
+Fenn Kemm & Fenn,unknown,1857,1,8,9267.3,0.3547,no
+W & I Hall & Co,unknown,1866,1,7,31329.1,0.3546,no
+Fullers & Co,unknown,1847,1,5,89330.9,0.3546,no
+"Crocker, Sons & Turner",unknown,1866,1,7,30892.0,0.3546,no
+Jno Cape,unknown,1847,1,8,4209.1,0.3546,no
+J Littlewood & Co,unknown,1847,1,8,5882.0,0.3546,no
+Rodocanachi S & Co,unknown,1847,1,7,30937.7,0.3546,no
+James Fowa,unknown,1857,1,6,63486.1,0.3546,no
+Robert Benson & Co,unknown,1866,1,4,115514.8,0.3545,no
+Blyth & Greene,unknown,1847,1,7,29314.8,0.3545,no
+Bardgett & Picard,unknown,1857,1,7,20954.5,0.3544,no
+"Kess, Scott & Co",unknown,1866,1,7,22517.6,0.3544,no
+H Pollacks Erben,unknown,1847,1,7,21122.3,0.3544,no
+A & J Hill,unknown,1847,1,7,15566.2,0.3543,no
+B W Laroche,unknown,1847,1,7,15864.8,0.3543,no
+C Tottie & Sons,unknown,1857,1,7,18483.7,0.3543,no
+Rob & Carter & Co,unknown,1847,1,7,15391.1,0.3543,no
+J Lunham & Co,unknown,1847,1,7,16898.9,0.3543,no
+T R & W Browning & Co,unknown,1847,1,7,15789.0,0.3543,no
+John Gladstone & Co,unknown,1857,1,7,17700.5,0.3543,no
+John Hubbard & Co,unknown,1866,1,6,46897.1,0.3543,no
+London & Venezuela Bank Limited,clearing_or_joint_stock_bank,1866,1,6,41011.0,0.3542,no
+"Ellis, Howell & Co",unknown,1866,1,6,43867.4,0.3542,no
+E Bernoulli,unknown,1847,1,7,10070.8,0.3542,no
+T P Lloyd & Co,unknown,1847,1,7,11477.8,0.3542,no
+Dickson Bros & Co,unknown,1847,1,7,14995.0,0.3542,no
+Churchill & Son,unknown,1847,1,6,44410.4,0.3542,no
+Swewells & Neck,unknown,1857,1,6,44537.6,0.3542,no
+Rayner & Co,unknown,1866,1,7,14037.5,0.3542,no
+L Bunn & Co,unknown,1857,1,7,12765.6,0.3542,no
+"Quenene, Furney & Co",unknown,1857,1,2,157927.1,0.3542,no
+Phillips & Burton,unknown,1847,1,7,11323.7,0.3542,no
+William Leask,unknown,1857,1,7,13096.4,0.3542,no
+Hardcastle & Co.,unknown,1866,1,7,11791.0,0.3542,no
+Higgins Eagle & Hutchinson,unknown,1866,1,7,11417.5,0.3542,no
+W N De Mattos,unknown,1857,1,7,10400.2,0.3542,no
+James Matthews & Co,unknown,1866,1,7,12559.7,0.3542,no
+C & W Brunshill,unknown,1847,1,7,9948.0,0.3542,no
+Fras Ede & Son,unknown,1847,1,7,11586.3,0.3542,no
+I B W Nevill & Co,unknown,1857,1,7,13898.0,0.3542,no
+Vaughan & Sheldon,unknown,1847,1,7,11694.7,0.3542,no
+Sellicoe & Wix,unknown,1847,1,7,11726.9,0.3542,no
+W Venning & Co,unknown,1847,1,7,9960.0,0.3542,no
+J Hartley & Co,unknown,1857,1,7,9028.8,0.3541,no
+Z Harris & Sons,unknown,1847,1,7,7657.5,0.3541,no
+Fras Rebello,unknown,1847,1,7,7126.8,0.3541,no
+Thomas Urwick Son & D,unknown,1847,1,7,6809.8,0.3541,no
+Mitchell Yeames & Co,unknown,1866,1,5,65324.2,0.3541,no
+Jas Renshaw & Co,unknown,1847,1,7,9684.5,0.3541,no
+W Leschallas,unknown,1847,1,7,7256.9,0.3541,no
+"Dennistoun, Cross & Co",unknown,1866,1,4,97344.6,0.3541,no
+M J Soares,unknown,1847,1,7,8732.5,0.3541,no
+Pickernell Bros,unknown,1847,1,7,4334.4,0.354,no
+"Tamvaco, Micrulachi & Co",unknown,1866,1,6,31521.1,0.354,no
+I.H.H. Holm,unknown,1866,1,6,31678.8,0.354,no
+Graham Tobias & Co,unknown,1857,1,6,25755.9,0.3539,no
+"Iwing, Ebsworth & Holmes",unknown,1866,1,5,50642.9,0.3538,no
+Rehder & Baldemann,unknown,1857,1,6,18197.9,0.3538,no
+N Garrett & Sons,unknown,1866,1,6,19799.4,0.3538,no
+N Cohen,unknown,1857,1,5,52029.9,0.3538,no
+L H Haslewood,unknown,1847,1,6,23823.7,0.3538,no
+C Sutherland & Co,unknown,1857,1,6,23410.5,0.3538,no
+Robert Christie & Co,unknown,1866,1,6,13986.4,0.3537,no
+Royal Bank Of Canada,clearing_or_joint_stock_bank,1914,1,2,135458.0,0.3537,no
+Jno Schneider & Co,unknown,1847,1,5,44278.9,0.3537,no
+N Fisher & Sons,unknown,1866,1,6,16024.1,0.3537,no
+Thomson Hankey & Co,unknown,1847,1,6,16929.6,0.3537,no
+E Wigan & Co,unknown,1847,1,5,44877.3,0.3537,no
+George Smeed,unknown,1866,1,6,14646.3,0.3537,no
+"Gellatly, Hankey & Sewell",unknown,1866,1,6,18031.1,0.3537,no
+Jeff Pelly,unknown,1847,1,6,16148.0,0.3537,no
+Pye Field & T,unknown,1847,1,6,12745.9,0.3536,no
+James Wiseman,unknown,1866,1,6,12552.9,0.3536,no
+Swindell Matthews & Sendall,unknown,1866,1,6,13036.6,0.3536,no
+W B Hutton & Sons,unknown,1847,1,6,10357.9,0.3536,no
+Lascaridi & Co,unknown,1857,1,6,12359.4,0.3536,no
+Lat Discount Co Lo,unknown,1857,1,3,100272.1,0.3536,no
+Montoya S & Co,unknown,1847,1,5,38155.4,0.3536,no
+Bennock & T,unknown,1847,1,6,13351.8,0.3536,no
+Christopher Sutherland,unknown,1847,1,6,9751.9,0.3536,no
+H Hewetson,unknown,1847,1,6,8981.2,0.3536,no
+James Norris,unknown,1857,1,6,7992.5,0.3535,no
+D W Wetton & Co,unknown,1847,1,6,8225.4,0.3535,no
+N Anderson Son & Co,unknown,1847,1,6,5308.5,0.3535,no
+John Fair & Co,unknown,1866,1,5,34466.2,0.3535,no
+Wilson Swale & Co,unknown,1866,1,6,8265.0,0.3535,no
+J Stephens & Co,unknown,1847,1,6,8058.2,0.3535,no
+Cockerell & Co,unknown,1847,1,4,65763.2,0.3535,no
+D Harris & Sons,unknown,1847,1,6,6240.3,0.3535,no
+Josh Stuart & Son,unknown,1847,1,6,4981.0,0.3535,no
+J Lackerstein & Sons,unknown,1847,1,6,7987.6,0.3535,no
+F H & J J Wawn,unknown,1847,1,6,5447.9,0.3535,no
+Elder Stevens & Co,unknown,1866,1,6,8775.8,0.3535,no
+Lester & Buskin,unknown,1857,1,6,8648.3,0.3535,no
+Puget & Co,unknown,1847,1,5,32369.7,0.3535,no
+A. Mongredien & Co,unknown,1866,1,5,26447.0,0.3534,no
+"Rose, Graham & Wilson",unknown,1866,1,5,28586.6,0.3534,no
+Weston & Co,unknown,1866,1,5,31000.0,0.3534,no
+H D Greverus,unknown,1847,1,5,25148.4,0.3533,no
+J & A Crocker,unknown,1857,1,5,24516.0,0.3533,no
+Jno Anderson & Sons,unknown,1847,1,5,23176.9,0.3533,no
+Hoare Buxton & Co,unknown,1857,1,4,52019.3,0.3533,no
+Siordet Meyer & Co,unknown,1857,1,5,23694.7,0.3533,no
+B. Jubini & Co,unknown,1866,1,5,23873.9,0.3533,no
+"Pye, Field & Co",unknown,1866,1,5,16146.6,0.3532,no
+Sapte & Co,unknown,1847,1,4,48860.2,0.3532,no
+Baltazzi Sons & Co,unknown,1857,1,5,17748.9,0.3532,no
+R. W. Kennard & Co,unknown,1866,1,5,16264.7,0.3532,no
+Edwards Chuck,unknown,1847,1,5,19661.6,0.3532,no
+Young Harrison & Co,unknown,1847,1,5,17164.6,0.3532,no
+L Engstrom L & Co,unknown,1847,1,5,17421.2,0.3532,no
+Samuel Courtaula & Co,unknown,1866,1,5,17535.5,0.3532,no
+J. Kynaston & Sons,unknown,1866,1,5,20538.9,0.3532,no
+Spicer Brothers,unknown,1857,1,5,17966.1,0.3532,no
+"Barker, Benwell & Co.",unknown,1866,1,2,110000.0,0.3532,no
+T Kinnersley & Sons,unknown,1847,1,4,47500.0,0.3532,no
+Thompson & Pattinson,unknown,1866,1,5,17515.3,0.3532,no
+Stealfeild Lancence,unknown,1857,1,4,41142.0,0.3531,no
+Gould Davis & M,unknown,1847,1,5,15184.0,0.3531,no
+John Horstman,unknown,1847,1,4,45733.3,0.3531,no
+J. H. Rudall & Son,unknown,1866,1,5,13551.7,0.3531,no
+Jas Campbell B S,unknown,1847,1,5,15100.8,0.3531,no
+John Feltham & Co,unknown,1857,1,5,12205.5,0.3531,no
+Harrison & Hardcastle,unknown,1847,1,5,11336.9,0.3531,no
+Ollier & Co,unknown,1866,1,5,11782.2,0.3531,no
+P R Poland & Son,unknown,1847,1,5,12397.2,0.3531,no
+Jas Bischoff & Sons,unknown,1847,1,5,6970.5,0.353,no
+C Joyce,unknown,1847,1,5,5797.7,0.353,no
+Jos Stuart & Son,unknown,1847,1,5,7695.0,0.353,no
+Clay & Gillman,unknown,1847,1,5,5772.9,0.353,no
+Laurie Hamilton & Co,unknown,1847,1,5,7167.8,0.353,no
+Rob Chuter,unknown,1847,1,5,5977.1,0.353,no
+Samuel Gibson,unknown,1866,1,5,8614.8,0.353,no
+W C Braddon,unknown,1847,1,5,9859.3,0.353,no
+"B Smith, Duke",unknown,1847,1,5,8046.2,0.353,no
+C J Mare & Co,unknown,1847,1,5,9507.2,0.353,no
+Ricketts Boutcher & Co,unknown,1857,1,4,35981.8,0.353,no
+H Sillem Son & Co,unknown,1847,1,4,39723.6,0.353,no
+H. Butler & Son,unknown,1866,1,5,9900.0,0.353,no
+W & H Brand & Co,unknown,1857,1,5,7638.2,0.353,no
+Charleton & Watson,unknown,1847,1,5,8348.5,0.353,no
+Richard Hallett & Sons,unknown,1847,1,5,9982.0,0.353,no
+E. Lloyd & Co,unknown,1866,1,5,9915.6,0.353,no
+Jno Mair,unknown,1847,1,5,6961.5,0.353,no
+Bery Lawrence,unknown,1847,1,5,7231.0,0.353,no
+Thomas Kettlewell,unknown,1847,1,5,6885.6,0.353,no
+H Sherwood Co,unknown,1914,1,1,123022.2,0.353,no
+Foster Porter & Co,unknown,1857,1,4,33454.6,0.3529,no
+C S Fowler,unknown,1847,1,5,4799.1,0.3529,no
+John Rapp & Co,unknown,1857,1,4,34399.6,0.3529,no
+W & J Kynaston,unknown,1847,1,5,5366.6,0.3529,no
+Forman & Hadow,unknown,1847,1,5,5689.0,0.3529,no
+W Oswald,unknown,1847,1,5,5579.7,0.3529,no
+B Smith Greenwich,unknown,1847,1,5,4197.8,0.3529,no
+F. De Lizardi & Co,unknown,1866,1,4,33830.4,0.3529,no
+John Constable,unknown,1847,1,5,5138.8,0.3529,no
+Manning & A,unknown,1847,1,4,32765.8,0.3529,no
+"Prince, Ogg & Co",unknown,1866,1,4,31987.0,0.3529,no
+Copestake Moore & Co,unknown,1866,1,4,32732.1,0.3529,no
+Mayniae & Co,unknown,1847,1,3,62874.0,0.3529,no
+G S Cundell,unknown,1847,1,5,4575.0,0.3529,no
+Donaldson Lambert & Co,unknown,1866,1,4,28140.0,0.3528,no
+English Joint & Stock Bank Limited,clearing_or_joint_stock_bank,1866,1,3,58000.0,0.3528,no
+Hanson Bros & Co,unknown,1847,1,4,27768.8,0.3528,no
+L J Enthoven & Co,unknown,1847,1,4,26066.4,0.3528,no
+Standard Bank Of Africa Limited,foreign_or_colonial_financial,1866,1,4,27407.4,0.3528,no
+Rt Lowes & Co,unknown,1857,1,2,79212.0,0.3527,no
+Bank Of Egypt,foreign_or_colonial_financial,1857,1,3,54201.6,0.3527,no
+W Jackson & Co,unknown,1866,1,4,21350.8,0.3527,no
+"Heilbut, Symons & Co",unknown,1866,1,4,19241.7,0.3526,no
+A. L. Elder,unknown,1866,1,3,48583.7,0.3526,no
+Alexander Bell,unknown,1847,1,4,20000.1,0.3526,no
+John Armitage & Co,unknown,1866,1,4,18300.0,0.3526,no
+Daniel Hawkins,unknown,1857,1,4,16580.0,0.3526,no
+Morgan Yellibrand & Co,merchant_bank,1914,1,4,17665.8,0.3526,no
+"Bennoch, Twentyman & Rigg",unknown,1857,1,4,13591.4,0.3525,no
+Spicer Bros,unknown,1847,1,4,10447.7,0.3525,no
+R Farrand,unknown,1847,1,4,11886.1,0.3525,no
+Hoge & Williamson,unknown,1857,1,3,43469.4,0.3525,no
+Sieveking Droop & Co,unknown,1866,1,4,14112.5,0.3525,no
+John Tellham & Co,unknown,1857,1,4,11139.1,0.3525,no
+Harryman & White,unknown,1857,1,4,14193.2,0.3525,no
+E. C. M Da Costa,unknown,1866,1,4,14185.9,0.3525,no
+Vagliano Brothers,unknown,1866,1,4,14575.0,0.3525,no
+Sanderman F & Co,unknown,1847,1,4,12808.3,0.3525,no
+J. Gaury & Co,unknown,1866,1,4,12817.9,0.3525,no
+Fowler Neph & Co,unknown,1847,1,3,41514.9,0.3525,no
+Fraser Neilson,unknown,1847,1,4,13733.2,0.3525,no
+A S Petrie & Co,unknown,1847,1,4,11011.9,0.3525,no
+Bhimsey Sewjee & Co,unknown,1866,1,4,13545.8,0.3525,no
+Peter Dickson & Co,unknown,1847,1,4,12345.2,0.3525,no
+Alison C & Co,unknown,1847,1,4,13742.4,0.3525,no
+Crowe Christian & Co,unknown,1857,1,4,11478.4,0.3525,no
+Stuart & Sharpe,unknown,1847,1,4,13190.0,0.3525,no
+Draper Pietroni & Co,unknown,1857,1,4,13138.0,0.3525,no
+Bowes Game & Moren,unknown,1866,1,4,13891.5,0.3525,no
+Moese Bros,unknown,1847,1,4,7530.5,0.3524,no
+Jon Hopkinson,unknown,1847,1,4,4862.4,0.3524,no
+J R & N Browning & Co,unknown,1847,1,4,7368.5,0.3524,no
+Gabain & Co,unknown,1847,1,4,6748.1,0.3524,no
+Fincham M & Co,unknown,1847,1,4,5379.6,0.3524,no
+J Maurenbrecker Co,unknown,1847,1,4,8957.6,0.3524,no
+G & I. A. Noble,unknown,1866,1,4,9041.2,0.3524,no
+Jas Duke,unknown,1847,1,4,8567.3,0.3524,no
+Sam & Sadler & Co,unknown,1847,1,4,6856.2,0.3524,no
+Jas Stuart & Sons,unknown,1847,1,4,6387.2,0.3524,no
+J G Tyrie,unknown,1847,1,4,9766.6,0.3524,no
+David Taylor & Sons,unknown,1866,1,4,8614.2,0.3524,no
+J C White,unknown,1847,1,4,5467.2,0.3524,no
+H Cayley & Co,unknown,1847,1,4,5615.0,0.3524,no
+Carliles Pittman & Co,unknown,1847,1,4,4256.5,0.3523,no
+Leonon Hart & Son,unknown,1857,1,3,28165.5,0.3522,no
+W I & H Thompson,unknown,1866,1,3,26580.0,0.3522,no
+Byas & Thomas,unknown,1847,1,3,22631.7,0.3521,no
+J & W Nicholson & Co,unknown,1847,1,3,19355.0,0.3521,no
+Caldecott & Sons W,unknown,1857,1,3,20072.8,0.3521,no
+Cook Son & Co,unknown,1866,1,3,19279.6,0.3521,no
+John Currie & Co,unknown,1857,1,3,22240.7,0.3521,no
+Joseph Traves & Sons,unknown,1866,1,3,15883.8,0.352,no
+"Foster, Porter & Co",unknown,1866,1,3,16621.4,0.352,no
+Feo Foss & Co,unknown,1857,1,3,13230.0,0.352,no
+Coaeno Gurney Co,unknown,1847,1,1,74914.8,0.352,no
+John Young & Co,unknown,1857,1,3,15644.1,0.352,no
+Bateman & Co,unknown,1866,1,2,47501.0,0.352,no
+Gresend & Co,unknown,1857,1,1,73000.0,0.352,no
+Ashton & Co,unknown,1857,1,3,16185.0,0.352,no
+J Dowson & Co,unknown,1857,1,3,15454.7,0.352,no
+Chs Coles & Son,unknown,1847,1,3,7840.2,0.3519,no
+Fincham Matson Potts & Co,unknown,1857,1,3,8899.8,0.3519,no
+Brown Davis & Co,unknown,1866,1,3,10364.6,0.3519,no
+Price'S Patent Candle Co Limited,unknown,1866,1,3,8353.0,0.3519,no
+Rawson Sons & Co,unknown,1857,1,3,11287.2,0.3519,no
+Richard Walford & Co,unknown,1866,1,3,10480.1,0.3519,no
+Walford Tainen & Co,unknown,1857,1,3,8773.3,0.3519,no
+George Goss & Co,unknown,1857,1,3,10327.3,0.3519,no
+A Joachim,unknown,1857,1,3,9689.1,0.3519,no
+T H Elinenhurst,unknown,1847,1,3,9520.8,0.3519,no
+James Coster & Co,unknown,1857,1,3,11132.4,0.3519,no
+Jos. Bridgette & Co,unknown,1857,1,3,12554.0,0.3519,no
+James Duncan & Co,unknown,1866,1,3,11755.8,0.3519,no
+G Brette & Co,unknown,1847,1,3,11908.2,0.3519,no
+W Bell & Co,unknown,1847,1,3,9681.3,0.3519,no
+James Spicer & Sons,unknown,1866,1,3,12199.1,0.3519,no
+Skeen & Leary,unknown,1847,1,3,7879.8,0.3519,no
+Edwards Matthie,unknown,1857,1,3,7871.9,0.3519,no
+Bischoff & Sons,unknown,1847,1,3,7891.0,0.3519,no
+J Wreford & Co,unknown,1847,1,3,5984.2,0.3518,no
+N Milcalfe,unknown,1847,1,3,6573.9,0.3518,no
+Fras Nalder & Son,unknown,1847,1,3,4120.9,0.3518,no
+Dennistoun Cross & Co,unknown,1857,1,2,36836.8,0.3518,no
+Rob Brooks,unknown,1847,1,3,6829.9,0.3518,no
+Coventry & Son,unknown,1847,1,3,5692.1,0.3518,no
+Anderson & Cattley,unknown,1847,1,3,5567.2,0.3518,no
+Rouyemont Bros,unknown,1847,1,3,5135.7,0.3518,no
+C Armstrong,unknown,1847,1,3,5045.0,0.3518,no
+Sanderson & Murray,bill_broker,1866,1,3,4857.6,0.3518,no
+Egyptian Tubale Acct,unknown,1857,1,1,63804.5,0.3518,no
+Merchant Bank & Co Limited,clearing_or_joint_stock_bank,1866,1,2,37537.1,0.3518,no
+W & A Daniels,unknown,1847,1,3,4787.6,0.3518,no
+Laurence Phillips & Sons,unknown,1847,1,3,5916.1,0.3518,no
+Thomas Moore B L,unknown,1847,1,3,5224.1,0.3518,no
+E. B. Meyes,unknown,1866,1,1,60000.0,0.3517,no
+A Sellean Son & Co,unknown,1857,1,2,31077.0,0.3517,no
+I. K. Gilliat & Co,unknown,1866,1,2,28417.1,0.3517,no
+Cj Howell & Son,unknown,1857,1,2,29766.6,0.3517,no
+Thomson,unknown,1847,1,2,28301.5,0.3517,no
+Imp Merchant Credit Australia,unknown,1866,1,2,25800.0,0.3516,no
+P H van Natteu & Co,unknown,1847,1,2,24689.1,0.3516,no
+New Zealand Bank,clearing_or_joint_stock_bank,1866,1,2,26860.0,0.3516,no
+"Pinto Perez, Ashley & Co",unknown,1866,1,2,17670.0,0.3515,no
+Mullens Marshall & Co,unknown,1857,1,1,50000.0,0.3515,no
+Lewells + Nick,unknown,1857,1,2,18469.0,0.3515,no
+Redfern Alexander & Co,unknown,1866,1,2,21100.9,0.3515,no
+Lawes & Co R,unknown,1847,1,2,15808.2,0.3514,no
+John Crossley & Sons Limited,unknown,1866,1,2,14355.8,0.3514,no
+Edward Erolty & Co,unknown,1857,1,2,12374.3,0.3514,no
+Alex & Roberston,unknown,1847,1,2,16223.8,0.3514,no
+Taccivace Lucklacke,unknown,1857,1,2,16838.0,0.3514,no
+Norman Thorne,unknown,1847,1,2,14373.5,0.3514,no
+H + E Muggeridge,unknown,1857,1,2,12504.2,0.3514,no
+Hinkpatrick & Belguy,unknown,1866,1,2,13604.2,0.3514,no
+Price'S Patent Candle Company Limited,unknown,1857,1,2,12489.9,0.3514,no
+Woverhamption & Staffordshire Banking Corporation By ?,unknown,1857,1,1,45756.0,0.3514,no
+H D J Hugh & Co,unknown,1847,1,2,16785.0,0.3514,no
+Clawfow Coloui & Co,unknown,1857,1,2,15550.2,0.3514,no
+B T Laveo & Co,unknown,1857,1,1,45834.4,0.3514,no
+Callmann & Son,unknown,1847,1,2,6902.4,0.3513,no
+Pollacks Erben,unknown,1847,1,2,10195.6,0.3513,no
+Geo: Hitchcock W: H & Co,unknown,1866,1,2,9200.7,0.3513,no
+L J Enthovson & Co,unknown,1847,1,2,10768.2,0.3513,no
+J Ruth & Co,unknown,1847,1,1,38597.6,0.3513,no
+Springfield Son & Co,unknown,1847,1,2,10093.5,0.3513,no
+Rowson Norton & Co,unknown,1847,1,2,11118.8,0.3513,no
+Paris & Tower,unknown,1847,1,2,11106.9,0.3513,no
+George Lawrence,unknown,1857,1,2,11654.1,0.3513,no
+Tamvaco M & M,unknown,1847,1,2,6778.0,0.3513,no
+John Anderson & Sons,unknown,1857,1,2,11817.6,0.3513,no
+Cafsovette Co,unknown,1847,1,2,9861.8,0.3513,no
+Foster & Porter,unknown,1866,1,2,11599.1,0.3513,no
+Jimder Co,unknown,1847,1,2,10524.1,0.3513,no
+Henry Powell & Sons,unknown,1857,1,2,8641.4,0.3513,no
+Welch Margeston & Co,unknown,1866,1,2,8675.2,0.3513,no
+Hop Planters Joint Stock Company,unknown,1866,1,2,11579.9,0.3513,no
+Oastler & Palmer,unknown,1866,1,2,9853.1,0.3513,no
+Dimsdale & Co,unknown,1857,1,1,38475.9,0.3513,no
+Geo Bretsle & Co,unknown,1857,1,2,11142.4,0.3513,no
+T. D. Henry,unknown,1866,1,2,9985.0,0.3513,no
+Siondet Mayer & Co,unknown,1857,1,2,10525.1,0.3513,no
+W Mc Andrew & Sons,unknown,1857,1,2,7619.7,0.3513,no
+Fishers & Robinson,unknown,1857,1,2,9882.2,0.3513,no
+Nelson & Lancaster,unknown,1847,1,2,6142.5,0.3512,no
+W & J Woodley,unknown,1847,1,2,6529.0,0.3512,no
+Kingsford & Lay,unknown,1847,1,2,5735.3,0.3512,no
+Rofsetto C & Co,unknown,1847,1,2,5224.1,0.3512,no
+Cattley & Stephenson,unknown,1847,1,2,4435.5,0.3512,no
+Janner & Ward,unknown,1847,1,2,4614.2,0.3512,no
+Walker,unknown,1847,1,2,4329.4,0.3512,no
+Cheswright S & Co,unknown,1847,1,2,4637.3,0.3512,no
+Colonial Land,foreign_or_colonial_financial,1847,1,2,6460.0,0.3512,no
+I.K. Gilliat & Co,unknown,1866,1,1,34348.5,0.3512,no
+Barber Bros,unknown,1847,1,2,4972.6,0.3512,no
+A Lindgren,unknown,1847,1,2,4354.6,0.3512,no
+R Real,unknown,1847,1,2,4517.6,0.3512,no
+Duke & Hill,unknown,1847,1,2,5330.4,0.3512,no
+Bicken & Co,unknown,1857,1,1,25987.8,0.3511,no
+Cocherell Larpeut & Co,unknown,1847,1,1,27999.5,0.3511,no
+The Bank Of Egypt,foreign_or_colonial_financial,1866,1,1,27816.0,0.3511,no
+Morgan Jnr & Ridge,merchant_bank,1847,1,2,929.1,0.3511,no
+Thomas Phehan & Co,unknown,1857,1,1,26663.0,0.3511,no
+J L Lensome & Co,unknown,1857,1,1,19390.8,0.351,no
+Gauge & Co,unknown,1857,1,1,19287.5,0.351,no
+Same Hawkey & Co,unknown,1866,1,1,20113.2,0.351,no
+James Bult Son & Co,unknown,1857,1,1,22803.6,0.351,no
+Roger Cunliffe Son Co,unknown,1857,1,1,20000.0,0.351,no
+A Lillen Son & Co,unknown,1857,1,1,22361.4,0.351,no
+Atfu Heseundes & Co,unknown,1857,1,1,24414.1,0.351,no
+Semme & Co J L,unknown,1847,1,1,16378.9,0.3509,no
+Arch & Hastic,unknown,1847,1,1,18456.0,0.3509,no
+A Robertson,unknown,1847,1,1,16608.0,0.3509,no
+Caraun Co,unknown,1847,1,1,18699.2,0.3509,no
+Ja Bull Sons Co,unknown,1857,1,1,8956.7,0.3508,no
+R J Anderson,unknown,1847,1,1,9227.4,0.3508,no
+Robert Badger,unknown,1857,1,1,15000.0,0.3508,no
+Crewett & Co,unknown,1847,1,1,10120.4,0.3508,no
+Richard Little Co,unknown,1847,1,1,12986.9,0.3508,no
+Gowen Neph Co,unknown,1847,1,1,9691.9,0.3508,no
+W + A Riand & Co,unknown,1857,1,1,9450.0,0.3508,no
+Crekerell & Co,unknown,1847,1,1,11595.7,0.3508,no
+Rrid Jimmy Co,unknown,1847,1,1,9434.9,0.3508,no
+Jas Hill & Sons,unknown,1847,1,1,10916.1,0.3508,no
+Shern Bros,unknown,1847,1,1,9696.6,0.3508,no
+R Eghntin Co,unknown,1847,1,1,9403.1,0.3508,no
+T. Courtauld & Co,unknown,1866,1,1,14527.7,0.3508,no
+Dienis B & Co,unknown,1847,1,1,13440.7,0.3508,no
+Allen,unknown,1847,1,1,9844.6,0.3508,no
+E Lohrab,unknown,1847,1,1,9600.0,0.3508,no
+D Coutauld & Co,unknown,1847,1,1,12686.2,0.3508,no
+Junnes Coster Co,unknown,1847,1,1,9609.4,0.3508,no
+Afillem Son Co,unknown,1847,1,1,11704.9,0.3508,no
+Alexiadi Delta & Co,unknown,1857,1,1,8984.7,0.3508,no
+M C Calmont Bros & Co,unknown,1847,1,1,11362.9,0.3508,no
+Momson D L,unknown,1847,1,1,9450.6,0.3508,no
+"Thomas, B L",unknown,1847,1,1,11171.9,0.3508,no
+M Salmon B & Co,unknown,1847,1,1,11090.1,0.3508,no
+The Egyptian Tribute,unknown,1866,1,1,13663.8,0.3508,no
+Gilliat & Co,unknown,1847,1,1,10363.5,0.3508,no
+Reed Georery Co,unknown,1847,1,1,14213.7,0.3508,no
+"H. Rogess, Sons & Co",unknown,1866,1,1,9914.2,0.3508,no
+GB Nettle & Co,unknown,1847,1,1,9251.4,0.3508,no
+T Prehn & Co,unknown,1857,1,1,13950.0,0.3508,no
+C J Alambro & Son,unknown,1847,1,1,11711.6,0.3508,no
+A Hastie,unknown,1847,1,1,12690.0,0.3508,no
+James Still & Sons,unknown,1866,1,1,14653.7,0.3508,no
+Edward Liddell Manager Of The Sheffield Union Banking Company,unknown,1857,1,1,13904.8,0.3508,no
+J scheider & Co,unknown,1847,1,1,9746.9,0.3508,no
+Melpuish G & Co,unknown,1847,1,1,11871.1,0.3508,no
+Jt Docoson & Co,unknown,1857,1,1,13356.6,0.3508,no
+"Catesworth, P Co",unknown,1847,1,1,9682.0,0.3508,no
+Cotesworth & Powell,unknown,1866,1,1,14800.0,0.3508,no
+P & C van Notten & Co,unknown,1847,1,1,10071.8,0.3508,no
+Gaschen,unknown,1847,1,1,12338.4,0.3508,no
+Chas Coles Jnr,unknown,1847,1,1,4787.4,0.3507,no
+Pims Willyarm & Co,unknown,1847,1,1,8001.3,0.3507,no
+Thompson & Forman,unknown,1847,1,1,7441.3,0.3507,no
+Fledstones & Co,unknown,1847,1,1,7060.1,0.3507,no
+Taster Oortens & Co,unknown,1857,1,1,7731.0,0.3507,no
+A D J Blynt & Co,unknown,1847,1,1,7600.0,0.3507,no
+Apactali & Co,unknown,1847,1,1,7628.2,0.3507,no
+Elvian & Co,unknown,1847,1,1,8275.7,0.3507,no
+Lydle Bros Co,unknown,1847,1,1,6000.8,0.3507,no
+I. W. Cater Sons & Co,unknown,1866,1,1,8750.5,0.3507,no
+Matthew Parker & Co,unknown,1847,1,1,6028.7,0.3507,no
+Elligan & Co,unknown,1847,1,1,8648.6,0.3507,no
+Mortoy S Co,unknown,1847,1,1,6017.1,0.3507,no
+H+J Johnston & Co,unknown,1847,1,1,8677.4,0.3507,no
+Edward & Megan Co,unknown,1847,1,1,6288.7,0.3507,no
+J Butt Son & Co,unknown,1857,1,1,8753.5,0.3507,no
+D Dodree & Son,unknown,1847,1,1,8230.0,0.3507,no
+Luckensteen Son & Co,unknown,1847,1,1,6045.0,0.3507,no
+Richards L & Co,unknown,1847,1,1,6735.5,0.3507,no
+S Dobree & Sons,unknown,1847,1,1,6388.8,0.3507,no
+Ranson Co,unknown,1847,1,1,4750.0,0.3507,no
+Rob & Lowe & Co,unknown,1847,1,1,5014.2,0.3507,no
+L J Entheren & Co,unknown,1847,1,1,5145.2,0.3507,no
+Priget & Co,unknown,1847,1,1,6843.8,0.3507,no
+Rio & Co,unknown,1847,1,1,7391.0,0.3507,no
+Bence B & Co,unknown,1847,1,1,6734.2,0.3507,no
+Reed Groery Co,unknown,1847,1,1,8750.4,0.3507,no
+R Busch & Co,unknown,1847,1,1,5333.6,0.3507,no
+J Thomson T Brown & Co,unknown,1847,1,1,5323.9,0.3507,no
+John Young Ehlers & Co,unknown,1866,1,1,8460.0,0.3507,no
+Pusch & Co,unknown,1847,1,1,5451.3,0.3507,no
+A Alexander & Co,unknown,1847,1,1,8392.3,0.3507,no
+Brochellank & Ralt,unknown,1847,1,1,4981.1,0.3507,no
+Jonules & Co,unknown,1847,1,1,5622.7,0.3507,no
+Randon H Co,unknown,1847,1,1,6580.0,0.3507,no
+C Coles Jnr,unknown,1847,1,1,4172.4,0.3506,no
+Alexs & Bell,unknown,1847,1,1,4381.1,0.3506,no
+A S Lavant & W,unknown,1847,1,1,4642.8,0.3506,no
+Edwin Morgan,merchant_bank,1847,1,1,95.5,0.3506,no
+Lloyd Morgan,merchant_bank,1847,1,1,0.0,0.3506,no
+D Mattos & De Leon,unknown,1847,1,1,4281.6,0.3506,no
+Pidgeon H A S & H,unknown,1847,1,1,4050.0,0.3506,no
+Lon S.Western Bk,merchant_bank,1914,1,45,1073072.5,0.3462,no
+N. M. Rothschild & Sons,merchant_bank,1914,1,12,1237482.4,0.3307,no
+Kleinwort Sons & Co,merchant_bank,1914,1,33,556727.5,0.3294,no
+J.H.Schroder & Co,merchant_bank,1914,1,10,1031112.9,0.3256,no
+Baring Bros & Co Ld,merchant_bank,1914,1,7,864269.1,0.3207,no
+Brightwen Gillet & Co,bill_broker,1866,1,9,232254.0,0.3096,no
+"Drake, Kleinwort & Cohen",merchant_bank,1866,1,7,238208.4,0.3086,no
+Brown Shipley & Co,merchant_bank,1914,1,7,205353.9,0.3079,no
+Credit Lyonnais Per Glyn Mills Currie,merchant_bank,1914,1,1,281915.3,0.306,no
+Frederick Huth & Co,merchant_bank,1866,1,2,203778.0,0.3051,no
+S.N.Schroder & Co,merchant_bank,1914,1,1,111542.3,0.3027,no
+Kleinwort & Cohen,merchant_bank,1857,1,3,33930.9,0.3024,no
+"Sanderson Frys, Rigge & Co",bill_broker,1866,1,3,8969.9,0.3019,no
+Baring Brothers & Co,merchant_bank,1857,1,1,59000.0,0.3017,no
+Baring & Co,merchant_bank,1857,1,1,60000.0,0.3017,no
+H. T Morgan & Co,merchant_bank,1866,1,1,53894.7,0.3016,no
+P. J. Morgan & Co,merchant_bank,1866,1,1,30825.0,0.3012,no
+Lloyd'S Bank Ltd,clearing_or_joint_stock_bank,1914,1,73,4051027.0,0.2696,no
+Union Smiths Bk Ho,unknown,1914,1,107,2573360.0,0.2603,no
+Union Smiths Bank Ld Lom St,clearing_or_joint_stock_bank,1914,1,147,1195134.2,0.2563,no
+Greenwood & Co,unknown,"1857,1866",2,9,8991.9,0.2553,no
+Clement Dresser,unknown,"1857,1866",2,8,10290.8,0.2547,no
+Luckie Brothers & Co,unknown,"1857,1866",2,8,3811.9,0.2546,no
+Gorton & Son,unknown,"1857,1866",2,7,9891.4,0.2542,no
+Browning Wood & Fox,unknown,"1857,1866",2,7,6577.5,0.2541,no
+Richard Johnson & Co,unknown,"1847,1866",2,7,4131.5,0.254,no
+W Howell & Co,unknown,"1847,1857",2,6,2041.6,0.2534,no
+John Sharp,unknown,"1847,1857",2,5,1716.3,0.2529,no
+Dawson Campbell & Co,unknown,"1847,1857",2,5,5411.2,0.2529,no
+J J Buttress,unknown,"1847,1857",2,5,1332.2,0.2528,no
+Samuel Sadler,unknown,"1857,1866",2,4,6211.6,0.2524,no
+A F Schleicher,unknown,"1847,1857",2,4,4795.6,0.2524,no
+Thomas Lee,unknown,"1847,1857",2,4,841.4,0.2523,no
+Puzey Pallett & Co,unknown,"1857,1866",2,4,4393.1,0.2523,no
+James Anderson & Co,unknown,"1857,1866",2,4,2815.0,0.2523,no
+John Getting,unknown,"1847,1866",2,4,364.9,0.2523,no
+Allen & Solly,unknown,"1847,1857",2,4,4535.8,0.2523,no
+Young Harrison & Bevan,unknown,"1857,1866",2,3,6039.4,0.2518,no
+Moses Solomon,unknown,"1857,1866",2,3,1773.5,0.2517,no
+A. S. Petrie & Co,unknown,"1857,1866",2,2,7877.3,0.2513,no
+Puget Bainbridges & Co,unknown,"1857,1866",2,2,9523.4,0.2513,no
+Robert Bentley & Sons,unknown,"1857,1866",2,2,8404.7,0.2513,no
+Lupton Hooton & Co,unknown,"1847,1857",2,2,4549.4,0.2512,no
+Thomas Stephings,unknown,"1857,1866",2,2,282.0,0.2511,no
+National Provincial Bk Of England Ltd,clearing_or_joint_stock_bank,1914,1,58,3309195.8,0.2468,no
+Lon Jt Stock Bk,unknown,1914,1,48,2215691.6,0.22,no
+Natl Bk Of India Ltd,unknown,1914,1,34,2594595.3,0.2194,no
+Parr'S Bank Ltd,clearing_or_joint_stock_bank,1914,1,90,835460.4,0.2171,no
+London & River Plate Bank Ltd,clearing_or_joint_stock_bank,1914,1,16,2805472.5,0.2133,no
+John Gladding & Son,unknown,1866,1,18,5099.4,0.2103,no
+Walter Howell & Co,unknown,1847,1,18,3930.1,0.2103,no
+Burdon & Gray,unknown,1847,1,17,2119.3,0.2097,no
+Arluthrot Ewart & Co,unknown,1914,1,15,24811.1,0.209,no
+W Wansey,unknown,1847,1,15,2937.7,0.2086,no
+The Bombay Co Ltd,unknown,1914,1,14,28800.9,0.2085,no
+T W Meade,unknown,1847,1,14,1714.2,0.208,no
+Brien & Parker,unknown,1857,1,13,2365.6,0.2074,no
+Frederick Sage,unknown,1866,1,12,745.6,0.2068,no
+M Kinsey,unknown,1847,1,11,3175.8,0.2063,no
+Colonial Bank,foreign_or_colonial_financial,"1866,1914",2,4,209025.7,0.2063,yes
+Pocock & Sons,unknown,1847,1,11,428.2,0.2062,no
+Josh Prestwich & S,unknown,1847,1,9,3333.7,0.2052,no
+J Jacobson & Co,unknown,1857,1,9,4542.5,0.2052,no
+E & A Prior,unknown,1857,1,9,6475.9,0.2052,no
+Rutherford Drury & Co,unknown,1866,1,9,7185.8,0.2052,no
+Hall & Nuttall,unknown,1866,1,9,3410.0,0.2052,no
+C Henry,unknown,1857,1,9,7528.1,0.2052,no
+T. I. & T. Powell,unknown,1914,1,9,5682.9,0.2052,no
+Lister & Biggs,unknown,1866,1,9,3148.0,0.2052,no
+W. Morhimore,unknown,1866,1,8,6445.5,0.2047,no
+H. Clarkson & Co,unknown,1866,1,8,7667.5,0.2047,no
+John Boulcott & Co,unknown,1847,1,8,3298.3,0.2046,no
+E J Cole,unknown,1857,1,8,1814.9,0.2046,no
+E. Tetley & Son,unknown,1866,1,8,2700.9,0.2046,no
+Northumberland & Durham Coal,unknown,1866,1,8,4907.0,0.2046,no
+E & G Hibbert,unknown,1847,1,8,2204.9,0.2046,no
+Pritchett & Sons,unknown,1866,1,8,5356.5,0.2046,no
+Comptoir National D'Escompte De Paris,foreign_or_colonial_financial,1914,1,31,1901110.5,0.2043,no
+Somervell & Co,unknown,1866,1,7,5758.3,0.2041,no
+F Ede Son & Noyes,unknown,1866,1,7,6952.3,0.2041,no
+Isaac Jacobson,unknown,1847,1,7,2632.8,0.204,no
+W J Fraser,unknown,1847,1,7,3059.6,0.204,no
+John Brooks B W,unknown,1847,1,7,874.2,0.204,no
+W B Gurney,unknown,1847,1,7,968.5,0.204,no
+J Lefever,unknown,1847,1,7,1854.2,0.204,no
+Mason & Taylor,unknown,1847,1,7,3050.1,0.204,no
+Rogers Bros,unknown,1847,1,7,2657.2,0.204,no
+George Routledge & Son,unknown,1866,1,7,3265.9,0.204,no
+Adamson & Ronaldson,unknown,1866,1,7,3492.0,0.204,no
+Hoston Megaw Co Ltd,unknown,1914,1,6,23022.3,0.2038,no
+J. Defries & Sons,unknown,1866,1,6,3069.8,0.2035,no
+L Goddard Finch & Co,unknown,1857,1,6,3247.8,0.2035,no
+E Bernouilli,unknown,1857,1,6,4844.2,0.2035,no
+Thomas Seamer & Son,unknown,1866,1,6,3384.2,0.2035,no
+"Wilson, Rose, Graham & Co",unknown,1857,1,6,6958.9,0.2035,no
+Prestwich J & Co,unknown,1847,1,6,2669.5,0.2035,no
+Mac Intyre Buchanan & Co,unknown,1857,1,6,4395.4,0.2035,no
+Charles Rayne,unknown,1866,1,6,5425.7,0.2035,no
+Samuel Magnus,unknown,1866,1,6,3565.5,0.2035,no
+Palmer & Co,unknown,1857,1,6,6738.4,0.2035,no
+John Hugher & Co,unknown,1866,1,6,3504.1,0.2035,no
+Teede & Bishop,unknown,1866,1,6,2817.9,0.2035,no
+J B Shuttleworth & Co,unknown,1847,1,6,0.0,0.2034,no
+F Tuke,unknown,1847,1,6,1959.9,0.2034,no
+Jas Simott,unknown,1847,1,6,0.0,0.2034,no
+J Clark B S,unknown,1847,1,6,2209.2,0.2034,no
+N Nansey,unknown,1847,1,6,1215.6,0.2034,no
+John Simmonds,unknown,1866,1,6,2004.1,0.2034,no
+George Peash,unknown,1857,1,6,1344.4,0.2034,no
+Barnett & Kimpton,unknown,1847,1,6,1913.3,0.2034,no
+Josh Angus,unknown,1847,1,6,1734.2,0.2034,no
+Arthur & Co Ltd,unknown,1914,1,5,18969.7,0.2032,no
+Hindley Co,unknown,1914,1,5,19230.8,0.2032,no
+Tw Bradley & Co,unknown,1857,1,5,5983.7,0.203,no
+Borrowman Phillipps & Co,unknown,1866,1,5,6436.0,0.203,no
+Thomas Lowndes & Co,unknown,1857,1,5,7360.2,0.203,no
+"Mac Intyre, Buchanan & Co",unknown,1866,1,5,5942.4,0.203,no
+Clairmonte Brothers,unknown,1857,1,5,5752.0,0.203,no
+James Shears & Sons,unknown,1857,1,5,6734.4,0.203,no
+Rees Glammong & Co,unknown,1866,1,5,648.1,0.2029,no
+H Bull Son & Co,unknown,1847,1,5,2796.2,0.2029,no
+J Foot & Son,unknown,1857,1,5,4829.3,0.2029,no
+Gunning & Duarrell,unknown,1847,1,5,1807.9,0.2029,no
+Swindell & Bankhead,unknown,1857,1,5,3190.7,0.2029,no
+John Walker,unknown,1857,1,5,1149.3,0.2029,no
+Hawes Stanbridge & Hedley,unknown,1857,1,5,4043.0,0.2029,no
+A Webber & Co,unknown,1857,1,5,4661.9,0.2029,no
+S Swownell & Son,unknown,1857,1,5,3442.8,0.2029,no
+T De La Rue & Co,unknown,1847,1,5,3531.6,0.2029,no
+Anderson & Newton,unknown,1847,1,5,1712.7,0.2029,no
+E. & I. Vickers & Co,unknown,1857,1,5,2850.7,0.2029,no
+D H Bushell,unknown,1857,1,5,607.2,0.2029,no
+Phillips Faithfull & Co,unknown,1857,1,5,5320.1,0.2029,no
+R. Johnson & Co,unknown,1866,1,5,2588.7,0.2029,no
+Josh Reid,unknown,1847,1,5,2369.8,0.2029,no
+Jno Udall,unknown,1847,1,5,1267.2,0.2029,no
+Jas Brooker,unknown,1847,1,5,1503.9,0.2029,no
+James Davidge,unknown,1857,1,5,806.5,0.2029,no
+John Barelli & Co,unknown,1866,1,5,4106.6,0.2029,no
+C H Olivier,unknown,1857,1,5,3744.0,0.2029,no
+Norton Megaw & Co Ltd,unknown,1914,1,4,27476.3,0.2028,no
+Frederick Dunhill,unknown,1866,1,5,424.2,0.2028,no
+Richard Mitchell,unknown,1866,1,5,276.4,0.2028,no
+Henderson & Constable,unknown,1857,1,4,6066.8,0.2024,no
+Allen Solly & Co,unknown,1866,1,4,6651.4,0.2024,no
+Wilson & Bellenger,unknown,1866,1,4,6729.4,0.2024,no
+C C Williams,unknown,1857,1,4,6615.0,0.2024,no
+J. H. Rudall,unknown,1857,1,4,5875.7,0.2024,no
+Henry Joachim,unknown,1857,1,4,6644.9,0.2024,no
+Grissell Brothers & Co,unknown,1857,1,4,5885.0,0.2024,no
+J & W J Courtenay,unknown,1857,1,4,6350.7,0.2024,no
+Cash + Ledgard,unknown,1857,1,4,7349.5,0.2024,no
+S. Northcote & Co,unknown,1866,1,4,4819.7,0.2024,no
+R Evans & Co,unknown,1857,1,4,7074.3,0.2024,no
+Richard Evans & Co,unknown,1866,1,4,6149.8,0.2024,no
+W Cann,unknown,1847,1,4,2213.6,0.2023,no
+G. Houghton & Sons,unknown,1857,1,4,1471.8,0.2023,no
+"Wilson, Seward & Swale",unknown,1857,1,4,4518.0,0.2023,no
+H J Lias & Son,unknown,1857,1,4,1075.4,0.2023,no
+C Sparks,unknown,1847,1,4,3527.2,0.2023,no
+T Hodgkinson & Co,unknown,1857,1,4,1629.2,0.2023,no
+Balfour Joseph,unknown,1847,1,4,3998.9,0.2023,no
+E Girdham & Co,unknown,1866,1,4,3086.0,0.2023,no
+James Mills,industrial_or_commercial,1866,1,4,2199.8,0.2023,no
+G E Mackieth,unknown,1857,1,4,383.6,0.2023,no
+Gillies & Horne,unknown,1847,1,4,1917.3,0.2023,no
+C. H. Noble,unknown,1866,1,4,3846.2,0.2023,no
+Jacobson,unknown,1847,1,4,1667.3,0.2023,no
+David Low,unknown,1847,1,4,911.5,0.2023,no
+H Davies,unknown,1857,1,4,3703.9,0.2023,no
+Jno Wood C S,unknown,1847,1,4,676.1,0.2023,no
+N Nicholls & Sons,unknown,1857,1,4,2359.8,0.2023,no
+B. Tucker & Co,unknown,1866,1,4,4112.5,0.2023,no
+Sharpe H & D,unknown,1847,1,4,1376.8,0.2023,no
+Howe & Sons,unknown,1847,1,4,3790.0,0.2023,no
+J W Liggins,unknown,1847,1,4,2801.9,0.2023,no
+J L Baker,unknown,1847,1,4,956.4,0.2023,no
+Learidge Smith,unknown,1847,1,4,3322.9,0.2023,no
+H Thompson CC,unknown,1847,1,4,379.0,0.2023,no
+R Chuter,unknown,1847,1,4,3338.0,0.2023,no
+Jos Holl & Co,unknown,1847,1,4,1505.3,0.2023,no
+Eyre & Spottiswoode,unknown,1866,1,4,2768.7,0.2023,no
+Escourt & Stanley,unknown,1866,1,4,4033.5,0.2023,no
+H. D. Baleh,unknown,1866,1,4,758.9,0.2023,no
+Leaf Barnett & Co,unknown,1847,1,4,1773.9,0.2023,no
+Naylor Benyon Co Ld,unknown,1914,1,3,25469.7,0.2022,no
+S .Japhet Co,unknown,1914,1,2,48500.0,0.2021,no
+S.Barrow & Bro Ltd,unknown,1914,1,3,19449.5,0.2021,no
+T.O. Stock & Co,unknown,1866,1,3,7800.0,0.2019,no
+W. Muggeridge & Co,unknown,1866,1,3,7850.7,0.2019,no
+G & J Prince,unknown,1857,1,3,3485.7,0.2018,no
+Mangles Brothers,unknown,1857,1,3,5458.1,0.2018,no
+I. W. Cripps,unknown,1866,1,3,5757.9,0.2018,no
+"Dae La Rue Thomas, & Co",unknown,1857,1,3,6051.8,0.2018,no
+Rowley & Davies,unknown,1866,1,3,6817.8,0.2018,no
+I Isaacs,unknown,1857,1,3,2847.2,0.2018,no
+G Johnson & Co,unknown,1847,1,3,3039.7,0.2018,no
+J H Randall,unknown,1857,1,3,3632.4,0.2018,no
+Sevidet Mayer & Co,unknown,1857,1,3,6937.4,0.2018,no
+Hartman & Mallet,unknown,1866,1,3,6218.3,0.2018,no
+T. De La Rue & Co,unknown,1866,1,3,3610.1,0.2018,no
+N. C. Frank & Sons,unknown,1866,1,3,3243.8,0.2018,no
+T. Husband & Co,unknown,1866,1,3,4057.1,0.2018,no
+Ditchburn & Mare,unknown,1847,1,3,2622.6,0.2018,no
+Horne & Watney,unknown,1857,1,3,7420.9,0.2018,no
+Green Humphry & Co,unknown,1866,1,3,3546.8,0.2018,no
+Venables Wilson & Co,unknown,1847,1,3,3100.6,0.2018,no
+H P Rouquette & Co,unknown,1857,1,3,6517.9,0.2018,no
+J & W Hoolon,unknown,1847,1,3,2599.9,0.2018,no
+"Hanson, Smiths & Stephens",unknown,1866,1,3,4856.1,0.2018,no
+Gunning & Duarell,unknown,1866,1,3,4382.6,0.2018,no
+W Smee & Sons,unknown,1857,1,3,3144.8,0.2018,no
+Pomsford Southall & Co,unknown,1866,1,3,5887.0,0.2018,no
+Thomas Walker,unknown,1866,1,3,4010.8,0.2018,no
+Brandram Bros,unknown,1847,1,3,4007.9,0.2018,no
+W & J Lowndes & Co,unknown,1847,1,3,2927.6,0.2018,no
+Simon & Carey,unknown,1857,1,3,7330.5,0.2018,no
+Thomas Severs,unknown,1847,1,3,2723.4,0.2018,no
+Novelli & Co,unknown,1866,1,3,7181.6,0.2018,no
+George Walker,unknown,1866,1,3,4050.0,0.2018,no
+Morlet + Horne,unknown,1857,1,3,5747.0,0.2018,no
+A. Salomons,unknown,1866,1,3,5245.5,0.2018,no
+Rob Muter,unknown,1847,1,3,2684.0,0.2018,no
+Forman & Hadon,unknown,1847,1,3,319.0,0.2017,no
+Hore + Gifford,unknown,1857,1,3,2388.7,0.2017,no
+J Cockburn & Co,unknown,1847,1,3,1425.0,0.2017,no
+C Tauntlory,unknown,1857,1,3,1800.0,0.2017,no
+P. Abraham,unknown,1866,1,3,1071.0,0.2017,no
+Chas Armstrong,unknown,1847,1,3,1357.2,0.2017,no
+Joseph Tetley & Co,unknown,1866,1,3,2316.6,0.2017,no
+"Meares, Absolom & Co",unknown,1866,1,3,998.0,0.2017,no
+Rob Christie & Co,unknown,1847,1,3,1902.1,0.2017,no
+Geo Houghton & Sons,unknown,1847,1,3,250.2,0.2017,no
+P Davey & Sons,unknown,1857,1,3,2475.3,0.2017,no
+T. Hodgekinson & Co,unknown,1866,1,3,1872.5,0.2017,no
+G. E Macketh,unknown,1866,1,3,368.5,0.2017,no
+T Wiggin & Co,unknown,1847,1,3,1919.0,0.2017,no
+Wornersley & Co,unknown,1847,1,3,1835.4,0.2017,no
+T M Waters,unknown,1857,1,3,2152.4,0.2017,no
+Favell & Beddome,unknown,1847,1,3,1830.8,0.2017,no
+J H Noding,unknown,1847,1,3,2350.7,0.2017,no
+Geo Simmons,unknown,1847,1,3,494.2,0.2017,no
+Oliver & Carr,unknown,1866,1,3,1252.7,0.2017,no
+Heitz & Deveze,unknown,1866,1,3,2015.6,0.2017,no
+J McCutcheon,unknown,1847,1,3,0.0,0.2017,no
+W Watts,unknown,1847,1,3,337.7,0.2017,no
+Parker Hine & Co,unknown,1857,1,3,2146.9,0.2017,no
+Resta Moore,unknown,1857,1,3,1362.5,0.2017,no
+David Brown,unknown,1847,1,3,944.6,0.2017,no
+N B Gurney & Sons,unknown,1847,1,3,931.5,0.2017,no
+Donaldson Laubert & Co,unknown,1847,1,3,0.0,0.2017,no
+John Cape,unknown,1847,1,3,1494.2,0.2017,no
+Cradock & Co,unknown,1847,1,3,0.0,0.2017,no
+John Reay Sons & Co,unknown,1857,1,3,2149.1,0.2017,no
+Thomas Reynolds Jnr,unknown,1847,1,3,866.6,0.2017,no
+John Riaff Sons & Co,unknown,1857,1,3,2017.1,0.2017,no
+W Learmouth & Co,unknown,1847,1,3,2462.7,0.2017,no
+Tho Biggs,unknown,1857,1,3,198.0,0.2017,no
+Lutwyike & Guys,unknown,1847,1,3,1069.5,0.2017,no
+Paul & Dastis,unknown,1847,1,3,2113.2,0.2017,no
+H Lancaster & Bull,unknown,1857,1,3,2135.5,0.2017,no
+Stephen Evans & Co,unknown,1866,1,3,2232.4,0.2017,no
+Standring Brothers,unknown,1857,1,3,2530.8,0.2017,no
+C Heaton & Co,unknown,1847,1,3,0.0,0.2017,no
+R Halls M L,unknown,1847,1,3,1615.9,0.2017,no
+Alex Webber & Co,unknown,1866,1,3,1972.1,0.2017,no
+London & Liverpool Bank Of Commerce Ltd,clearing_or_joint_stock_bank,1914,1,2,26964.1,0.2016,no
+Page & Welch,unknown,1866,1,2,6909.9,0.2013,no
+Judah Hard & Co,unknown,1866,1,2,7284.4,0.2013,no
+C Leary & Co,unknown,1857,1,2,7450.2,0.2013,no
+I T W Noakes,unknown,1857,1,2,6773.8,0.2013,no
+Poutus Kleman,unknown,1866,1,2,7440.0,0.2013,no
+J Carter & Co,unknown,1857,1,2,7272.1,0.2013,no
+"Jacomb, Hogg & Co",unknown,1866,1,2,7701.4,0.2013,no
+J Maurenbrecher & Co,unknown,1857,1,2,5038.2,0.2012,no
+Jno Kendall,unknown,1847,1,2,2287.1,0.2012,no
+Field & Sons,unknown,1866,1,2,3428.2,0.2012,no
+Swonnell Samuel & Son,unknown,1866,1,2,2327.4,0.2012,no
+Arthur Lewis,unknown,1847,1,2,2835.0,0.2012,no
+C Faintling,unknown,1857,1,2,2272.5,0.2012,no
+S. W. Silver & Co,unknown,1866,1,2,2599.1,0.2012,no
+J Mathew M L,unknown,1847,1,2,1669.9,0.2012,no
+David Lloyd & Co,unknown,1866,1,2,2563.6,0.2012,no
+J Main Sons & Co,unknown,1857,1,2,3622.6,0.2012,no
+W. H. Hindley,unknown,1866,1,2,2358.5,0.2012,no
+J & N Smith,unknown,1847,1,2,2611.9,0.2012,no
+J & C Ratliff,unknown,1847,1,2,3908.0,0.2012,no
+W Speir & Co,unknown,1847,1,2,2531.4,0.2012,no
+D Lloyd,unknown,1857,1,2,5115.3,0.2012,no
+"Dunbar, Dicksons & Co",unknown,1866,1,2,3806.3,0.2012,no
+Dufay & Isnard,unknown,1866,1,2,1915.3,0.2012,no
+Inglis & Wakefield,unknown,1866,1,2,6023.5,0.2012,no
+John Fore & Co,unknown,1857,1,2,3919.6,0.2012,no
+Cripps & Starkey,unknown,1857,1,2,2621.2,0.2012,no
+A Dimitris & Sons,unknown,1857,1,2,1610.3,0.2012,no
+Favell Beddome & Co,unknown,1857,1,2,2829.6,0.2012,no
+Washington & Davies,unknown,1857,1,2,1631.3,0.2012,no
+John Boyd,unknown,1866,1,2,1722.4,0.2012,no
+Thomas Stephens & Co,unknown,1866,1,2,6210.4,0.2012,no
+Jnr Leas & Son,unknown,1847,1,2,2947.7,0.2012,no
+Elvlvhisther,unknown,1847,1,2,1827.5,0.2012,no
+C Fauntheory,unknown,1847,1,2,1859.1,0.2012,no
+Tevan Kamon & Son,unknown,1857,1,2,2678.1,0.2012,no
+Thackrah L & Co,unknown,1847,1,2,2160.3,0.2012,no
+F Giesler & Co,unknown,1847,1,2,2312.0,0.2012,no
+It Tixcsen & Co,unknown,1857,1,2,2669.6,0.2012,no
+Cutler & Barker,unknown,1866,1,2,1956.5,0.2012,no
+Ruck Fenwick & Ruck,unknown,1857,1,2,4778.4,0.2012,no
+L Bisset & Co,unknown,1857,1,2,3109.1,0.2012,no
+W Vaughan & Co,unknown,1857,1,2,5791.4,0.2012,no
+Lapton Hootond & Co,unknown,1857,1,2,2867.1,0.2012,no
+Bidgorddons & Co,unknown,1857,1,2,2545.3,0.2012,no
+"Judah, Hart & Co",unknown,1866,1,2,2414.4,0.2012,no
+Wn De Hacelles,unknown,1857,1,2,6151.8,0.2012,no
+Wm Oliver & Sons Ltd,unknown,1914,1,2,5238.3,0.2012,no
+P Ruckham,unknown,1847,1,2,1719.9,0.2012,no
+Te Blatsphiel,unknown,1857,1,2,2005.3,0.2012,no
+Boyson & Hoyer,unknown,1847,1,2,3367.6,0.2012,no
+"Locke, Crosier & Edwards",unknown,1866,1,2,1631.3,0.2012,no
+"Bidgood, Jones & Wilson",unknown,1866,1,2,3865.6,0.2012,no
+Middleton Answorth & Co,unknown,1866,1,2,5199.2,0.2012,no
+"Porter, Schlusser & Co",unknown,1866,1,2,2760.0,0.2012,no
+Rowley & Co,unknown,1847,1,2,2912.5,0.2012,no
+Southall & Ponsford,unknown,1857,1,2,2417.4,0.2012,no
+Kemp Stone & Co,unknown,1866,1,2,4294.3,0.2012,no
+Buckler Woolbright,unknown,1866,1,2,5173.3,0.2012,no
+"Grierson, Cole & Co.",unknown,1866,1,2,1674.2,0.2012,no
+Hocking Hitchock & Co,unknown,1866,1,2,4293.6,0.2012,no
+Shield & Harwood,unknown,1847,1,2,1595.0,0.2012,no
+Smith & Lister,unknown,1866,1,2,5980.7,0.2012,no
+J. Hughes & Co,unknown,1866,1,2,1654.5,0.2012,no
+Balls Garrett,unknown,1866,1,2,1807.1,0.2012,no
+Gunning + Luarell,unknown,1857,1,2,1694.2,0.2012,no
+Seys Mason & Co,unknown,1847,1,2,2229.8,0.2012,no
+Gottschalch & Schrade,unknown,1847,1,2,1843.2,0.2012,no
+Burr Brother & Co,unknown,1866,1,2,2388.5,0.2012,no
+W Clowes & Co,unknown,1847,1,2,2823.4,0.2012,no
+Clode & Baker,unknown,1866,1,2,6336.4,0.2012,no
+Tambouru & Bell,unknown,1847,1,2,1925.1,0.2012,no
+Bridgewater Jones & Co,unknown,1866,1,2,1169.8,0.2011,no
+J Udall,unknown,1847,1,2,390.6,0.2011,no
+J Urwich & Sons,unknown,1847,1,2,1546.9,0.2011,no
+John Wood C S,unknown,1847,1,2,415.8,0.2011,no
+Joseph Callinson,unknown,1857,1,2,663.4,0.2011,no
+J. W Laird,unknown,1866,1,2,839.4,0.2011,no
+Rouney Bruce & Co,unknown,1847,1,2,1128.8,0.2011,no
+R & W J Roxby,unknown,1847,1,2,1128.0,0.2011,no
+C. E. Heinke,unknown,1866,1,2,329.9,0.2011,no
+"John Reay, Sons Co",unknown,1866,1,2,637.4,0.2011,no
+S Houghton & Son,unknown,1847,1,2,166.9,0.2011,no
+Isaac Walker,unknown,1847,1,2,755.5,0.2011,no
+George Wyatt,unknown,1857,1,2,61.1,0.2011,no
+I. W. Horsley,unknown,1866,1,2,610.3,0.2011,no
+I. E. Coleman,unknown,1857,1,2,1091.7,0.2011,no
+Preacher Osborne & Co,unknown,1847,1,2,918.7,0.2011,no
+J. Samuel & Emmanuel,unknown,1866,1,2,52.6,0.2011,no
+William Horn,unknown,1847,1,2,813.5,0.2011,no
+R J + R Swift,unknown,1857,1,2,178.6,0.2011,no
+A B Byass,unknown,1847,1,2,141.0,0.2011,no
+F. Dunhill,unknown,1866,1,2,105.8,0.2011,no
+Borker Sons & Co,unknown,1847,1,2,0.0,0.2011,no
+Jas Rundall,unknown,1847,1,2,227.1,0.2011,no
+William Howell & Co,unknown,1847,1,2,411.1,0.2011,no
+Jh Macku,unknown,1857,1,2,1409.0,0.2011,no
+J. P. Thol & Co,unknown,1866,1,2,656.8,0.2011,no
+R & N Nicholls,unknown,1847,1,2,489.9,0.2011,no
+Bl Leman,unknown,1857,1,2,310.0,0.2011,no
+Rob & Simmons,unknown,1847,1,2,577.5,0.2011,no
+Jr Browne,unknown,1857,1,2,238.1,0.2011,no
+J P Thal & Co,unknown,1857,1,2,780.0,0.2011,no
+Robert Adams,unknown,1866,1,2,0.0,0.2011,no
+R A Coward,unknown,1847,1,2,1422.4,0.2011,no
+S Swonnell & Son,unknown,1857,1,2,888.0,0.2011,no
+Eady & Paris,unknown,1866,1,2,344.6,0.2011,no
+Bier & Partner,unknown,1857,1,2,173.9,0.2011,no
+M L Magnus,unknown,1847,1,2,366.2,0.2011,no
+J Lias & Son,unknown,1847,1,2,464.3,0.2011,no
+J H Dart,unknown,1857,1,2,402.5,0.2011,no
+P J Meugsino,unknown,1857,1,2,1046.5,0.2011,no
+J F Stanford,unknown,1847,1,2,96.0,0.2011,no
+J H & G Scovell,unknown,1847,1,2,1197.6,0.2011,no
+J Cousens & Sons,unknown,1847,1,2,374.1,0.2011,no
+W B Hine Parker & Co,unknown,1847,1,2,963.0,0.2011,no
+Samuel Strickland,unknown,1866,1,2,198.6,0.2011,no
+J Burls,unknown,1847,1,2,584.2,0.2011,no
+T & W H Hirst,unknown,1847,1,2,881.0,0.2011,no
+J Boys,unknown,1847,1,2,429.5,0.2011,no
+Sayant Fridor Co,unknown,1847,1,2,945.0,0.2011,no
+J & W Rider,unknown,1866,1,2,87.9,0.2011,no
+J & W McCutcheon,unknown,1847,1,2,411.4,0.2011,no
+Alfred Towgood,unknown,1857,1,2,312.9,0.2011,no
+Thomas Drayton,unknown,1857,1,2,23.4,0.2011,no
+Sam & Vickers,unknown,1847,1,2,188.1,0.2011,no
+Sam Magnus,unknown,1847,1,2,1388.3,0.2011,no
+Tr Browne,unknown,1857,1,2,179.5,0.2011,no
+Beaudsell & Jackson,unknown,1866,1,2,1238.6,0.2011,no
+Bailey & Fox,unknown,1847,1,2,1517.1,0.2011,no
+W E Eddison,unknown,1857,1,2,929.6,0.2011,no
+Henckell Du Buisson Co,unknown,1914,1,2,1175.5,0.2011,no
+Thomas Nelson & Son,unknown,1866,1,2,1207.9,0.2011,no
+A L Crohn,unknown,1857,1,2,489.0,0.2011,no
+Union Life,unknown,1847,1,2,1524.5,0.2011,no
+W Jenkinson,unknown,1866,1,2,565.5,0.2011,no
+A Jackson & Co,unknown,1857,1,2,418.7,0.2011,no
+H Erswell,unknown,1847,1,2,1454.3,0.2011,no
+L Friedeberg,unknown,1847,1,2,259.0,0.2011,no
+E W Whistler,unknown,1847,1,2,1230.0,0.2011,no
+Thomas Fielding,unknown,1847,1,2,321.8,0.2011,no
+T Dunhill,unknown,1857,1,2,198.2,0.2011,no
+G. B. Yates & Son,unknown,1866,1,2,775.7,0.2011,no
+G F Gaubert,unknown,1847,1,2,1017.3,0.2011,no
+J. Hubbard & Co,unknown,1866,1,1,6900.0,0.2007,no
+Tamvaco Michrulachi,unknown,1857,1,1,5762.3,0.2007,no
+Truman Hitchcock & Co,unknown,1866,1,1,7045.3,0.2007,no
+Lom Bunudti Soms & Co,unknown,1866,1,1,5906.4,0.2007,no
+John Dickensgill & Son,unknown,1857,1,1,6003.9,0.2007,no
+A Jarohai,unknown,1857,1,1,5197.5,0.2007,no
+L. Brusewitz,unknown,1866,1,1,4700.0,0.2007,no
+H Ballin & Son,unknown,1857,1,1,5000.0,0.2007,no
+Frangopulo Agelasto Co,unknown,1866,1,1,7426.0,0.2007,no
+H Butler & Son,unknown,1857,1,1,7428.8,0.2007,no
+J. Tenny Clarke & Co,unknown,1866,1,1,5620.3,0.2007,no
+Morley Nephew & Co,unknown,1857,1,1,5852.2,0.2007,no
+Barry & Nephews,unknown,1866,1,1,4700.0,0.2007,no
+Sillem & Co,unknown,1866,1,1,5085.8,0.2007,no
+Robert Campbell,unknown,1866,1,1,5700.3,0.2007,no
+J G Marzetti,unknown,1847,1,1,0.0,0.2006,no
+Jinchess & Pawtucket,unknown,1847,1,1,202.0,0.2006,no
+H.C. Heut,unknown,1866,1,1,2345.3,0.2006,no
+James Simott,unknown,1847,1,1,0.0,0.2006,no
+Jas Holl & Co,unknown,1847,1,1,977.8,0.2006,no
+Jas Hall & Co,unknown,1847,1,1,467.5,0.2006,no
+Jas Chambers,unknown,1847,1,1,508.8,0.2006,no
+Janner & Son,unknown,1847,1,1,2240.0,0.2006,no
+Jameson M & M,unknown,1847,1,1,2850.0,0.2006,no
+HY Crosley,unknown,1847,1,1,0.0,0.2006,no
+Jas Jacobson,unknown,1847,1,1,160.7,0.2006,no
+James Mullins & Co,unknown,1857,1,1,1709.3,0.2006,no
+Hall Jos & Co,unknown,1847,1,1,597.2,0.2006,no
+Harley Nephew & Co,unknown,1857,1,1,1669.8,0.2006,no
+James Laurence,unknown,1857,1,1,0.0,0.2006,no
+Alex Jones,unknown,1847,1,1,817.4,0.2006,no
+Havenith & Co,unknown,1857,1,1,3870.0,0.2006,no
+J. L. Minel,unknown,1866,1,1,165.4,0.2006,no
+J & B Peade & Co,unknown,1866,1,1,1314.1,0.2006,no
+J. H. Dant,unknown,1866,1,1,376.0,0.2006,no
+J T Thol & Co,unknown,1847,1,1,850.5,0.2006,no
+J Frederick Son & Co,unknown,1847,1,1,1611.2,0.2006,no
+James Dicke,unknown,1847,1,1,2721.6,0.2006,no
+James Duke,unknown,1847,1,1,1942.0,0.2006,no
+M F Mackenzie,unknown,1866,1,1,188.0,0.2006,no
+Inglis Wakefield,unknown,1857,1,1,978.1,0.2006,no
+Hen Geoff,unknown,1857,1,1,1549.8,0.2006,no
+Castello,unknown,1847,1,1,2007.4,0.2006,no
+J T Burrell,unknown,1847,1,1,362.8,0.2006,no
+Charles & Jof,unknown,1857,1,1,533.0,0.2006,no
+"Chas Hancock, C S",unknown,1847,1,1,646.0,0.2006,no
+Calchesters & Woolman,unknown,1857,1,1,247.4,0.2006,no
+Fox & Thompson,unknown,1866,1,1,341.3,0.2006,no
+Joshun Saunders,unknown,1847,1,1,754.1,0.2006,no
+Jt Dow,unknown,1857,1,1,516.9,0.2006,no
+Henckell Du Buisson & Co,unknown,1866,1,1,3807.0,0.2006,no
+James Cerram,unknown,1847,1,1,177.7,0.2006,no
+James Brys,unknown,1847,1,1,327.8,0.2006,no
+Henry Rilli,unknown,1847,1,1,285.0,0.2006,no
+James Brokke,unknown,1847,1,1,194.0,0.2006,no
+Heppans & Co,unknown,1847,1,1,1010.8,0.2006,no
+Hicks Baylis & Hicks,unknown,1857,1,1,2552.4,0.2006,no
+Jacob Isaac,unknown,1866,1,1,1945.8,0.2006,no
+Hit Dellators,unknown,1857,1,1,3964.3,0.2006,no
+Hl Crohn,unknown,1857,1,1,94.5,0.2006,no
+Alex Stewart & W,unknown,1847,1,1,1406.2,0.2006,no
+Hodgson & Poweis,unknown,1847,1,1,52.0,0.2006,no
+Hoine Wahney,unknown,1857,1,1,2976.8,0.2006,no
+Hune P C,unknown,1847,1,1,693.6,0.2006,no
+I Hart & Co,unknown,1847,1,1,0.0,0.2006,no
+J Greaves,unknown,1847,1,1,0.0,0.2006,no
+J+G Boyd & Co,unknown,1847,1,1,3937.5,0.2006,no
+J H N Loundes & Co,unknown,1857,1,1,1374.0,0.2006,no
+Geo Stevenson Sons,unknown,1847,1,1,1455.0,0.2006,no
+J W Gibbon,unknown,1857,1,1,378.0,0.2006,no
+J D Park,unknown,1857,1,1,2019.0,0.2006,no
+Jno Gilliat & Co,unknown,1847,1,1,0.0,0.2006,no
+Jno Gore & Co,unknown,1847,1,1,1634.9,0.2006,no
+Jno James,unknown,1847,1,1,101.6,0.2006,no
+Gb Oyates & Son,unknown,1857,1,1,819.3,0.2006,no
+Geden W H,unknown,1847,1,1,970.0,0.2006,no
+Jones Alex,unknown,1847,1,1,242.5,0.2006,no
+Geo Keen,unknown,1847,1,1,945.0,0.2006,no
+Geo Noughton & Sons,unknown,1847,1,1,0.0,0.2006,no
+Geo Stevenson & Sons,unknown,1847,1,1,2425.9,0.2006,no
+Jonail Turner & Co,unknown,1847,1,1,0.0,0.2006,no
+J Simpson,unknown,1857,1,1,217.3,0.2006,no
+Anick & Son,unknown,1847,1,1,1311.3,0.2006,no
+Giesler & Co F,unknown,1847,1,1,1387.1,0.2006,no
+Gillson Cole & Co,unknown,1866,1,1,0.0,0.2006,no
+"Gilmour, Rankin, Strang & Co",unknown,1866,1,1,1305.5,0.2006,no
+John Walker WW,unknown,1847,1,1,312.6,0.2006,no
+Gould Dowre & M,unknown,1847,1,1,3670.7,0.2006,no
+John Smith,unknown,1866,1,1,186.0,0.2006,no
+Gallespie M C,unknown,1847,1,1,2880.0,0.2006,no
+G. & S. Kiteat,unknown,1914,1,1,408.4,0.2006,no
+G Friend,unknown,1857,1,1,0.0,0.2006,no
+Joseph Gonalaie,unknown,1857,1,1,94.5,0.2006,no
+J W Laird,unknown,1847,1,1,0.0,0.2006,no
+J Draeon & Co,unknown,1847,1,1,1855.0,0.2006,no
+J nr Lilley,unknown,1847,1,1,163.2,0.2006,no
+J+A Crocker,unknown,1847,1,1,2100.9,0.2006,no
+J H Pelly,unknown,1847,1,1,0.0,0.2006,no
+J Sharp,unknown,1847,1,1,133.9,0.2006,no
+J H Potter,unknown,1847,1,1,0.0,0.2006,no
+J Hart & Son,unknown,1847,1,1,3940.5,0.2006,no
+J Laussense,unknown,1847,1,1,282.0,0.2006,no
+J Lausseure Jnr,unknown,1847,1,1,0.0,0.2006,no
+J Lheais & Sons,unknown,1847,1,1,1605.6,0.2006,no
+J Meier,unknown,1847,1,1,357.1,0.2006,no
+J Tharp,unknown,1847,1,1,405.8,0.2006,no
+Alfred Stram,unknown,1866,1,1,110.9,0.2006,no
+J Usbounr J M,unknown,1847,1,1,3583.9,0.2006,no
+J W Courtman,unknown,1847,1,1,3306.0,0.2006,no
+Alich Bros,unknown,1847,1,1,977.6,0.2006,no
+J Brocker,unknown,1847,1,1,536.8,0.2006,no
+J Bunn,unknown,1847,1,1,410.1,0.2006,no
+J C Jacobson,unknown,1847,1,1,235.0,0.2006,no
+J. Bennock & Co,unknown,1866,1,1,1862.1,0.2006,no
+J. Ballauce & Son,unknown,1866,1,1,40.4,0.2006,no
+J C Shackleton,unknown,1847,1,1,141.8,0.2006,no
+Jno Fettham & Co,unknown,1847,1,1,262.2,0.2006,no
+J D Dow,unknown,1857,1,1,139.5,0.2006,no
+J Dickinson J & A,unknown,1847,1,1,0.0,0.2006,no
+Caran Bros,unknown,1847,1,1,2362.5,0.2006,no
+Carlthian & Corbierie,unknown,1857,1,1,488.2,0.2006,no
+C J Ellis,unknown,1847,1,1,598.5,0.2006,no
+Mae Jontque Buchanan & Co,unknown,1857,1,1,808.0,0.2006,no
+F Nalker & Co,unknown,1847,1,1,2171.7,0.2006,no
+L Engstrom Neame & Co,unknown,1857,1,1,3110.5,0.2006,no
+L Harris & Sons,unknown,1847,1,1,2956.9,0.2006,no
+Alex & Jones,unknown,1847,1,1,950.0,0.2006,no
+E Zohrab,unknown,1847,1,1,1633.0,0.2006,no
+E. H. Keeling & Son,unknown,1866,1,1,3225.1,0.2006,no
+Edward Johnson,unknown,1847,1,1,1920.0,0.2006,no
+B Faurntheroy,unknown,1847,1,1,935.0,0.2006,no
+B Douglas & Son,unknown,1847,1,1,0.0,0.2006,no
+Engstom L Co,unknown,1847,1,1,2371.0,0.2006,no
+Lawton & Bichnell,unknown,1847,1,1,1880.0,0.2006,no
+F Dean Leller,unknown,1847,1,1,1489.6,0.2006,no
+F Falt,unknown,1847,1,1,123.5,0.2006,no
+F J Montoya,unknown,1857,1,1,651.0,0.2006,no
+L Walker W W,unknown,1847,1,1,2565.0,0.2006,no
+L Spartali & L,unknown,1847,1,1,3163.5,0.2006,no
+L R & N Browning & Co,unknown,1847,1,1,1771.8,0.2006,no
+F Mutvrieff,unknown,1847,1,1,935.0,0.2006,no
+F E Blatspiel,unknown,1847,1,1,2299.2,0.2006,no
+Edward Sparkhall,unknown,1857,1,1,945.0,0.2006,no
+Loveing & Minton,unknown,1866,1,1,0.0,0.2006,no
+London S N Coy Limited,unknown,1866,1,1,1398.7,0.2006,no
+Messrs Berkefeld,unknown,1857,1,1,920.0,0.2006,no
+Brochoff & Sons,unknown,1847,1,1,1642.5,0.2006,no
+L Engstown Leach & Co,unknown,1847,1,1,1256.8,0.2006,no
+L Engstown L & Co,unknown,1847,1,1,2862.3,0.2006,no
+Bieber & Co.,unknown,1866,1,1,2005.0,0.2006,no
+F Siesler & Co,unknown,1847,1,1,1482.0,0.2006,no
+Jphn Prince,unknown,1847,1,1,349.7,0.2006,no
+Delennory & Co,unknown,1847,1,1,1808.7,0.2006,no
+E Beach Sons & Co,unknown,1857,1,1,1138.7,0.2006,no
+B Tippen,unknown,1847,1,1,0.0,0.2006,no
+B L Lomant,unknown,1857,1,1,0.0,0.2006,no
+B Leloa & Son,unknown,1847,1,1,3218.7,0.2006,no
+DeVANS,unknown,1847,1,1,4007.0,0.2006,no
+Lionel Friedeberg,unknown,1847,1,1,0.0,0.2006,no
+Deichaiu Smart & Co,unknown,1847,1,1,0.0,0.2006,no
+Culverwell Brooks Co,unknown,1914,1,1,3589.0,0.2006,no
+E Downs & Co,unknown,1857,1,1,724.8,0.2006,no
+J P Bunt & Co,unknown,1866,1,1,0.0,0.2006,no
+B Halberth & Sons,unknown,1857,1,1,900.0,0.2006,no
+Jw Silmer & Co,unknown,1857,1,1,3821.6,0.2006,no
+Finze & Williams,unknown,1847,1,1,607.2,0.2006,no
+Ashby Morris Ltd,unknown,1914,1,1,2335.8,0.2006,no
+Alex Bros,unknown,1847,1,1,1643.4,0.2006,no
+Kielsalls & Co,unknown,1847,1,1,1340.5,0.2006,no
+Fauntt & B,unknown,1847,1,1,0.0,0.2006,no
+Faudel & Phillips,unknown,1857,1,1,1624.5,0.2006,no
+Faster Porter & Co,unknown,1847,1,1,2040.4,0.2006,no
+F.T. Barry,unknown,1866,1,1,1995.6,0.2006,no
+L Busson & Co,unknown,1857,1,1,1724.7,0.2006,no
+Blogg Vellantini,unknown,1857,1,1,3442.5,0.2006,no
+Bidgood Jones & Wilson,unknown,1857,1,1,966.4,0.2006,no
+Butterworth & Sons,unknown,1857,1,1,417.6,0.2006,no
+BCJ Gray & Son,unknown,1847,1,1,980.2,0.2006,no
+Closley Vepher & Co,unknown,1857,1,1,2332.3,0.2006,no
+Cittanerck C S,unknown,1847,1,1,803.2,0.2006,no
+Chs Brischek,unknown,1847,1,1,1272.9,0.2006,no
+Lornman & Hadon,unknown,1847,1,1,0.0,0.2006,no
+Christopher Armstrong,unknown,1847,1,1,1589.5,0.2006,no
+Chris Cokes Jnr,unknown,1847,1,1,1551.0,0.2006,no
+Chrales & Fox,unknown,1847,1,1,486.7,0.2006,no
+Albers & Son,unknown,1847,1,1,499.7,0.2006,no
+Lovegrove & Leather,unknown,1847,1,1,1310.7,0.2006,no
+Fould Dowir & M,unknown,1847,1,1,1531.8,0.2006,no
+Chester & Co,unknown,1847,1,1,2078.1,0.2006,no
+Lut & George,unknown,1857,1,1,2417.4,0.2006,no
+Luys M C,unknown,1847,1,1,1064.0,0.2006,no
+Lyse Sons,unknown,1847,1,1,1940.0,0.2006,no
+Chas Watton & Sons,unknown,1857,1,1,1124.5,0.2006,no
+M Cape,unknown,1847,1,1,282.0,0.2006,no
+M Causens & Sons,unknown,1847,1,1,0.0,0.2006,no
+Mata,unknown,1847,1,1,2835.0,0.2006,no
+C Jamtterey,unknown,1857,1,1,1890.0,0.2006,no
+C Shudbolt & Co,unknown,1847,1,1,227.0,0.2006,no
+Akmagaroff & Gasparian,unknown,1857,1,1,0.0,0.2006,no
+C. Lloyd & Co,unknown,1866,1,1,2192.1,0.2006,no
+Magnus M L,unknown,1847,1,1,314.3,0.2006,no
+Bandier Tobias & Co,unknown,1857,1,1,2436.2,0.2006,no
+Beauvaisen + Leannard,unknown,1857,1,1,950.7,0.2006,no
+Millie & Palton,unknown,1847,1,1,370.5,0.2006,no
+N & A Daniels,unknown,1847,1,1,1520.0,0.2006,no
+Mme Cherry Co,unknown,1857,1,1,4332.8,0.2006,no
+Mody & Co,unknown,1866,1,1,968.2,0.2006,no
+Bennock & Twentyman,unknown,1847,1,1,2793.4,0.2006,no
+Moris Ashby Ltd,unknown,1914,1,1,3011.8,0.2006,no
+Morlel and Horne,unknown,1847,1,1,967.7,0.2006,no
+Morlet & Horne,unknown,1847,1,1,811.9,0.2006,no
+Morley & Powell,unknown,1866,1,1,4509.2,0.2006,no
+Ben Smith D. Co,unknown,1847,1,1,2343.8,0.2006,no
+Mothay & Co,unknown,1847,1,1,3971.9,0.2006,no
+Beller,unknown,1847,1,1,1702.4,0.2006,no
+Bell Alex,unknown,1847,1,1,1455.0,0.2006,no
+Bardburg & Cook,unknown,1866,1,1,1248.3,0.2006,no
+Bardon & Gray,unknown,1847,1,1,0.0,0.2006,no
+Barnard & Co,unknown,1857,1,1,930.8,0.2006,no
+"Bauley, Pegg & Co",unknown,1866,1,1,930.0,0.2006,no
+Bautcher Baltimore,unknown,1857,1,1,4331.9,0.2006,no
+Mepen & Co,unknown,1847,1,1,3010.8,0.2006,no
+"Bayliss, Jones & Bayliss",unknown,1866,1,1,782.0,0.2006,no
+N Volckman,unknown,1847,1,1,288.0,0.2006,no
+N S Coy & Co,unknown,1847,1,1,1266.8,0.2006,no
+N Daniels,unknown,1847,1,1,3078.5,0.2006,no
+Beiy Riley,unknown,1866,1,1,138.2,0.2006,no
+Bell & Hughes,unknown,1847,1,1,945.0,0.2006,no
+Fray & Mc Farlan,unknown,1847,1,1,756.0,0.2006,no
+Nalter Cossu & Son,unknown,1847,1,1,1543.8,0.2006,no
+Jp Thol & Co,unknown,1857,1,1,344.0,0.2006,no
+Secretan Campbell & Co,unknown,1866,1,1,958.8,0.2006,no
+Runey B,unknown,1847,1,1,285.0,0.2006,no
+S & J Peqq,unknown,1866,1,1,551.8,0.2006,no
+Schwann & Co,unknown,1866,1,1,1999.5,0.2006,no
+S A Hodgson,unknown,1857,1,1,120.0,0.2006,no
+W Nansey,unknown,1847,1,1,264.0,0.2006,no
+T D Henry,unknown,1847,1,1,314.7,0.2006,no
+Willaim Pringle,unknown,1847,1,1,708.8,0.2006,no
+P van de Wall,unknown,1847,1,1,0.0,0.2006,no
+Ridgemont Bros,unknown,1847,1,1,1776.0,0.2006,no
+New Zealand Loans Afe,unknown,1866,1,1,1500.0,0.2006,no
+Thomas Nalher N N,unknown,1847,1,1,206.3,0.2006,no
+Nirepen & co,unknown,1847,1,1,1904.5,0.2006,no
+Thomas M Gregor,unknown,1866,1,1,186.1,0.2006,no
+Wulff,unknown,1847,1,1,1440.0,0.2006,no
+Norman Nansey,unknown,1847,1,1,0.0,0.2006,no
+Rikiue Bros,unknown,1847,1,1,2320.0,0.2006,no
+Richard Poppleton,unknown,1866,1,1,1462.0,0.2006,no
+Thomas Lyde,unknown,1866,1,1,0.0,0.2006,no
+Thomas Hodgkinsons & Co,unknown,1857,1,1,235.0,0.2006,no
+Thomas Hodgkinson & Co,unknown,1857,1,1,230.0,0.2006,no
+Robert Froie,unknown,1857,1,1,0.0,0.2006,no
+R howards,unknown,1847,1,1,1009.8,0.2006,no
+R Von Glehn,unknown,1857,1,1,1143.0,0.2006,no
+Ruck Son & F,unknown,1847,1,1,1381.9,0.2006,no
+Sermon Bros,unknown,1847,1,1,1815.4,0.2006,no
+Tho Nelson & Son,unknown,1857,1,1,207.9,0.2006,no
+William Audlace & Sons,unknown,1857,1,1,322.0,0.2006,no
+S Ulwich Son & D,unknown,1847,1,1,900.4,0.2006,no
+Sam Parker,unknown,1847,1,1,662.7,0.2006,no
+"Puice, Coken & Co",unknown,1866,1,1,2704.4,0.2006,no
+W Wausay,unknown,1847,1,1,484.2,0.2006,no
+S Vander Willigen,unknown,1857,1,1,1756.3,0.2006,no
+S Willyams & Co,unknown,1847,1,1,3262.7,0.2006,no
+S. Lewis & Sons,unknown,1866,1,1,402.7,0.2006,no
+"Pye, Field & Tanqueray",unknown,1866,1,1,2758.9,0.2006,no
+William Kleen,unknown,1847,1,1,0.0,0.2006,no
+William Clowes & Sons,unknown,1857,1,1,3436.4,0.2006,no
+Smabourne & Bell,unknown,1847,1,1,0.0,0.2006,no
+S Jacobson,unknown,1847,1,1,567.4,0.2006,no
+S A Moore & Others,unknown,1857,1,1,198.4,0.2006,no
+Sinclair Hamilton & Co,unknown,1857,1,1,1268.7,0.2006,no
+Sinckin & Buck,unknown,1847,1,1,775.2,0.2006,no
+Rauson Norton & Co,unknown,1847,1,1,0.0,0.2006,no
+Shreatfeild L & Codo,unknown,1847,1,1,1506.0,0.2006,no
+Williamson,unknown,1847,1,1,606.7,0.2006,no
+Sheen & Leary,unknown,1847,1,1,3291.8,0.2006,no
+R F & R Swift,unknown,1857,1,1,0.0,0.2006,no
+William Nansey,unknown,1847,1,1,0.0,0.2006,no
+W. Hi & Andrew Form,unknown,1857,1,1,1937.2,0.2006,no
+Rt Saunders,unknown,1857,1,1,0.0,0.2006,no
+Tho Thomasset,unknown,1847,1,1,1140.0,0.2006,no
+Tho Husband & Co,unknown,1857,1,1,1039.5,0.2006,no
+Saman & Audont,unknown,1847,1,1,174.8,0.2006,no
+O. Roberts & Son,unknown,1866,1,1,3689.5,0.2006,no
+Tandel + Phillips,unknown,1857,1,1,3047.6,0.2006,no
+Rob & Hunter,unknown,1847,1,1,113.4,0.2006,no
+T. O. Stock & Co,unknown,1866,1,1,0.0,0.2006,no
+P Edwards,unknown,1847,1,1,0.0,0.2006,no
+White H,unknown,1847,1,1,1096.8,0.2006,no
+T+D Henry,unknown,1847,1,1,0.0,0.2006,no
+P Howard,unknown,1857,1,1,1039.5,0.2006,no
+R Knaphill,unknown,1847,1,1,0.0,0.2006,no
+T Walker WW,unknown,1847,1,1,1628.0,0.2006,no
+T Scott,unknown,1857,1,1,711.6,0.2006,no
+T Lawnde & Co,unknown,1857,1,1,701.2,0.2006,no
+T Knaus & Co,unknown,1866,1,1,330.9,0.2006,no
+T H Biggs,unknown,1857,1,1,79.4,0.2006,no
+Tannvaco M & Co,unknown,1847,1,1,2704.7,0.2006,no
+Tavell Beddone & Co,unknown,1857,1,1,1029.1,0.2006,no
+S. Rich,unknown,1866,1,1,828.0,0.2006,no
+Walford Fairer & Harrison,unknown,1857,1,1,4386.8,0.2006,no
+Tevan Kamon + Tevan,unknown,1857,1,1,636.9,0.2006,no
+Taylor & Whalley,unknown,1866,1,1,3290.0,0.2006,no
+Tevan Kamm Tevan,unknown,1857,1,1,930.8,0.2006,no
+White Greenwell,unknown,1847,1,1,697.1,0.2006,no
+Teument & Co,unknown,1857,1,1,283.5,0.2006,no
+Rob Clouter,unknown,1847,1,1,786.2,0.2006,no
+W Bamondi,unknown,1857,1,1,1074.5,0.2006,no
+W Anderson Haut & Co,unknown,1857,1,1,1890.0,0.2006,no
+Thomas Leamer,unknown,1857,1,1,392.4,0.2006,no
+Tho Frefor,unknown,1857,1,1,372.3,0.2006,no
+Rehdi & Baldermann,unknown,1857,1,1,3670.8,0.2006,no
+Thomas Walton,unknown,1857,1,1,166.5,0.2006,no
+Wesainder & Co,unknown,1847,1,1,1900.0,0.2006,no
+Rawlandson V A,unknown,1847,1,1,277.4,0.2006,no
+Abm Bish,unknown,1847,1,1,0.0,0.2006,no
+Vander Willigen Simon,unknown,1866,1,1,1445.3,0.2006,no
+A & N Nicholls,unknown,1847,1,1,127.3,0.2006,no
+"Unwick, Son & D",unknown,1847,1,1,1017.8,0.2006,no
+Unwick Son & Co,unknown,1847,1,1,1608.4,0.2006,no
+Reake & Grove,unknown,1847,1,1,1229.1,0.2006,no
+Redo Doofson & Co,unknown,1847,1,1,0.0,0.2006,no
+W & C Volckman,unknown,1847,1,1,307.2,0.2006,no
+Udall John,unknown,1847,1,1,689.7,0.2006,no
+Tw Madley & Co,unknown,1857,1,1,1083.9,0.2006,no
+W & H Braud & Co,unknown,1857,1,1,2650.5,0.2006,no
+Tuichaw Leatson P & Co,unknown,1857,1,1,2138.5,0.2006,no
+Ralli & Co,unknown,1847,1,1,1140.0,0.2006,no
+Neacher & Co,unknown,1847,1,1,380.0,0.2006,no
+Raff. Bascones,unknown,1866,1,1,1628.4,0.2006,no
+Tj Van Yellen Of Bauks,unknown,1857,1,1,47.2,0.2006,no
+Till & Flegor,unknown,1857,1,1,592.5,0.2006,no
+Tiedenick Tatt,unknown,1857,1,1,283.5,0.2006,no
+Tho Hodgkinson & Co,unknown,1857,1,1,472.5,0.2006,no
+Schaezleil,unknown,1847,1,1,807.5,0.2006,no
+A. M. Peebler & Son,unknown,1866,1,1,650.5,0.2006,no
+Samer Ward,unknown,1847,1,1,1973.8,0.2006,no
+H D Tho,unknown,1847,1,1,718.2,0.2006,no
+Jnr J H Pelly,unknown,1847,1,1,1410.0,0.2006,no
+Jnr Dowson & Co,unknown,1847,1,1,2748.7,0.2006,no
+Jno Williams & Sons,unknown,1847,1,1,619.7,0.2006,no
+H. Varasseus,unknown,1866,1,1,695.6,0.2006,no
+Jno McCulcheon,unknown,1847,1,1,0.0,0.2006,no
+H. & J. Johnson & Co,unknown,1857,1,1,480.2,0.2006,no
+H White & Co,unknown,1866,1,1,3246.6,0.2006,no
+John Brudertt Co,unknown,1847,1,1,0.0,0.2006,no
+John Courtenay,unknown,1857,1,1,2511.9,0.2006,no
+H C & Cabe,unknown,1857,1,1,465.0,0.2006,no
+John Pickergsill & Son,unknown,1847,1,1,4000.6,0.2006,no
+H Eubank,unknown,1847,1,1,0.0,0.2006,no
+John Kendall,unknown,1847,1,1,681.3,0.2006,no
+H G Buchler & Co,unknown,1847,1,1,402.6,0.2006,no
+John Lias & Son,unknown,1847,1,1,214.7,0.2006,no
+John Leltham & Co,unknown,1847,1,1,2366.8,0.2006,no
+H & W Treygon,unknown,1847,1,1,186.2,0.2006,no
+H H Willis,unknown,1847,1,1,0.0,0.2006,no
+John Kelsey,unknown,1847,1,1,43.7,0.2006,no
+John Keay Sons Co,unknown,1866,1,1,377.9,0.2006,no
+H Hillby & Sons,unknown,1866,1,1,0.0,0.2006,no
+H Huith,unknown,1857,1,1,1179.4,0.2006,no
+H Joey,unknown,1847,1,1,126.6,0.2006,no
+Anderson & Cathay,unknown,1847,1,1,2423.4,0.2006,no
+Jnr Main,unknown,1847,1,1,1422.2,0.2006,no
+H. J. V. Greenway,unknown,1866,1,1,95.9,0.2006,no
+Jnr Preskoick & Co,unknown,1847,1,1,420.5,0.2006,no
+Jns Angus,unknown,1847,1,1,0.0,0.2006,no
+Prior & Son Co,unknown,1847,1,1,3311.7,0.2006,no
+J R Glesias,unknown,1847,1,1,376.0,0.2006,no
+Joshua Jornalvico,unknown,1857,1,1,44.4,0.2006,no
+Frederick Smee,unknown,1866,1,1,65.8,0.2006,no
+John Schneider & Co,unknown,1857,1,1,0.0,0.2006,no
+Freinn Kennedy Percival (?),unknown,1857,1,1,921.2,0.2006,no
+Front Co,unknown,1847,1,1,2896.9,0.2006,no
+Josh & Holl & Co,unknown,1847,1,1,704.9,0.2006,no
+G A & J Swann,unknown,1847,1,1,423.0,0.2006,no
+G C Boy & Co,unknown,1847,1,1,3378.2,0.2006,no
+Joseph Preckorch & Co,unknown,1847,1,1,2137.5,0.2006,no
+G F Allcock,unknown,1847,1,1,362.9,0.2006,no
+Joseph Holl & Co,unknown,1847,1,1,0.0,0.2006,no
+Josh Dawson & Co,unknown,1847,1,1,2609.6,0.2006,no
+Judun Joseph,unknown,1847,1,1,388.2,0.2006,no
+John S Baike,unknown,1857,1,1,23.6,0.2006,no
+H Bettle Parker Co,unknown,1847,1,1,673.7,0.2006,no
+John Bowring,unknown,1847,1,1,2422.4,0.2006,no
+H. A Joseph,unknown,1866,1,1,1128.0,0.2006,no
+John Barelli,unknown,1857,1,1,1077.9,0.2006,no
+Joane Jackson & Co,unknown,1857,1,1,1162.3,0.2006,no
+Jns Rei,unknown,1847,1,1,399.9,0.2006,no
+Jns Prishock & Co,unknown,1847,1,1,225.9,0.2006,no
+H Thompson C C,unknown,1847,1,1,95.0,0.2006,no
+Fred Fratt,unknown,1857,1,1,394.8,0.2006,no
+Nash & Gurney,unknown,1847,1,1,22.1,0.2006,no
+R J Bayshaw,unknown,1847,1,1,1890.0,0.2006,no
+P. S. Galitti,unknown,1857,1,1,70.9,0.2006,no
+??Se Sons & Co,unknown,1866,1,1,2325.9,0.2006,no
+W Guitealfe,unknown,1847,1,1,1425.0,0.2006,no
+Robt Beattey & Sons,unknown,1857,1,1,529.2,0.2006,no
+Woolcombe & Co,unknown,1847,1,1,0.0,0.2006,no
+Wm Clay & Son,unknown,1847,1,1,720.0,0.2006,no
+W H & A Scott,unknown,1857,1,1,1472.0,0.2006,no
+Parker Son & Picktchef,unknown,1857,1,1,1206.7,0.2006,no
+Womersley Burts,unknown,1847,1,1,427.5,0.2006,no
+W Hunt & Co,unknown,1866,1,1,1598.0,0.2006,no
+Parkinson & Dilchick,unknown,1857,1,1,932.7,0.2006,no
+William,unknown,1847,1,1,1680.8,0.2006,no
+William Chevyt & Co,unknown,1857,1,1,948.5,0.2006,no
+Summers & Son,unknown,1847,1,1,96.9,0.2006,no
+A Goldson,unknown,1847,1,1,0.0,0.2006,no
+W H Cox & Sons,unknown,1857,1,1,2914.6,0.2006,no
+T . O. Stock & Co,unknown,1866,1,1,2350.0,0.2006,no
+A Lewis,unknown,1847,1,1,0.0,0.2006,no
+Sivendell & Baukland,unknown,1857,1,1,756.0,0.2006,no
+William Burnside,unknown,1857,1,1,2177.4,0.2006,no
+S Phillips & Co,unknown,1847,1,1,0.0,0.2006,no
+W T Fasn,unknown,1847,1,1,623.6,0.2006,no
+A Pollack Erben,unknown,1847,1,1,1079.2,0.2006,no
+W Cofser & Son,unknown,1847,1,1,1326.3,0.2006,no
+Parner Sons & Pictoned,unknown,1857,1,1,1606.5,0.2006,no
+Robinson & Brooking,unknown,1847,1,1,1303.9,0.2006,no
+Srordet M Co,unknown,1847,1,1,1931.6,0.2006,no
+Willyams & Co,unknown,1847,1,1,3162.0,0.2006,no
+Stinton Bard & Co,unknown,1857,1,1,904.4,0.2006,no
+Perram Jas,unknown,1847,1,1,347.5,0.2006,no
+Pesk Hooie,unknown,1857,1,1,472.5,0.2006,no
+Pesta Movie,unknown,1857,1,1,614.2,0.2006,no
+A Cose & Co,unknown,1857,1,1,3327.9,0.2006,no
+Peter Rackshaw,unknown,1847,1,1,1870.0,0.2006,no
+A Best,unknown,1847,1,1,306.3,0.2006,no
+Steve Blas,unknown,1857,1,1,2693.2,0.2006,no
+Peckanell Bros,unknown,1847,1,1,106.1,0.2006,no
+Robert Nuter,unknown,1847,1,1,378.0,0.2006,no
+A J Hill,unknown,1847,1,1,935.0,0.2006,no
+W Lewell Co,unknown,1847,1,1,250.9,0.2006,no
+A J Schleucher,unknown,1847,1,1,155.0,0.2006,no
+Roryemon & Sons,unknown,1847,1,1,1606.5,0.2006,no
+Spactati & Co,unknown,1847,1,1,2348.4,0.2006,no
+Nate Linds,unknown,1866,1,1,0.0,0.2006,no
+Soanes M J,unknown,1847,1,1,1358.0,0.2006,no
+Snr Gillian & Co,unknown,1847,1,1,3536.7,0.2006,no
+W Kindle,unknown,1857,1,1,688.0,0.2006,no
+R Forte Swift,unknown,1857,1,1,0.0,0.2006,no
+Rofus Bros,unknown,1847,1,1,440.9,0.2006,no
+Stuart & Son Bros,unknown,1847,1,1,2727.1,0.2006,no
+Union Smiths Bank Prescotts,clearing_or_joint_stock_bank,1914,1,68,274230.8,0.1938,no
+London & Brazilian Bank,clearing_or_joint_stock_bank,1914,1,8,1745684.9,0.1882,no
+Royal Bank Of Scotland,foreign_or_colonial_financial,1914,1,38,830776.0,0.1876,no
+Banque Belge,unknown,1914,1,25,1069739.9,0.1848,no
+Union Smiths Bk Ld,unknown,1914,1,35,667362.7,0.1827,no
+Deutsche Bank,foreign_or_colonial_financial,1914,1,9,1321208.7,0.1806,no
+Capital & Counties Bank Ltd,clearing_or_joint_stock_bank,1914,1,24,710577.2,0.1773,no
+Credito Italiano,unknown,1914,1,15,862855.5,0.1752,no
+Yokohama Bk Ltd,unknown,1914,1,7,1008933.2,0.1735,no
+Union Bank Of Scotland Ltd,foreign_or_colonial_financial,1914,1,11,881278.0,0.1732,no
+Standard Bk Of S.Africa,unknown,1914,1,17,619090.3,0.1716,no
+Barclay & Co Ltd,clearing_or_joint_stock_bank,1914,1,33,125872.1,0.1711,no
+National Bank Of Scotland,foreign_or_colonial_financial,1914,1,23,370236.9,0.1702,no
+Guaranty Trust Co Of New York,unknown,1914,1,7,653935.3,0.1666,no
+Agra & Mastermans Bank Limited,foreign_or_colonial_financial,1866,1,2,750000.0,0.1656,no
+Cater Greenwell & Co,unknown,1914,1,9,526436.9,0.1653,no
+Lon Provincial Bk,unknown,1914,1,24,74464.8,0.165,no
+Banca Commerciale Italiana,unknown,1914,1,11,443935.0,0.1648,no
+Lutgens & Ripley,unknown,1914,1,16,290912.8,0.1647,no
+Bank Of Montreal,foreign_or_colonial_financial,1914,1,15,317947.0,0.1646,no
+Barclay & Co,clearing_or_joint_stock_bank,1866,1,4,595188.2,0.1638,no
+Union Bank Of Australia Ltd,clearing_or_joint_stock_bank,1914,1,14,284327.4,0.1634,no
+British Bank Of Foreign Trade Ltd,clearing_or_joint_stock_bank,1914,1,9,401400.7,0.1629,no
+James Burness & Sons,unknown,1914,1,8,426901.5,0.1628,no
+Alliance Bank Limited,clearing_or_joint_stock_bank,1866,1,4,520000.0,0.1623,no
+Martin'S Bank Ltd,clearing_or_joint_stock_bank,1914,1,15,175712.9,0.1619,no
+Dresdner Bank,foreign_or_colonial_financial,1914,1,5,468421.2,0.1619,no
+London County Bank,clearing_or_joint_stock_bank,1866,1,3,505035.2,0.1615,no
+Manchester & Liverpool District Bkg Co Ltd,unknown,1914,1,7,358625.0,0.1609,no
+John Boy & Co,unknown,1857,1,17,32305.7,0.1602,no
+Williams Deacon'S Bank Ltd,clearing_or_joint_stock_bank,1914,1,10,213978.0,0.1598,no
+Lon Lpool Bk Of Comce,unknown,1914,1,12,141767.5,0.1595,no
+Swiss Bankverein,unknown,1914,1,5,346781.4,0.1595,no
+Bank Of London Limited,clearing_or_joint_stock_bank,1866,1,2,430000.0,0.1594,no
+Commercial Bank Of Scotland Ltd,foreign_or_colonial_financial,1914,1,9,198264.0,0.1589,no
+Gust Roos & Co,unknown,1866,1,14,28939.5,0.1585,no
+Robert Lawes & Co,unknown,1866,1,5,257800.0,0.1578,no
+Chilian Gout,unknown,1914,1,1,364090.3,0.1576,no
+Metrop Provincial Bank Limited,clearing_or_joint_stock_bank,1866,1,9,118475.7,0.1574,no
+Robarts Lubbock Co,unknown,1914,1,5,196156.9,0.1566,no
+Williams Overbury & Co,unknown,1866,1,10,42335.7,0.1565,no
+Morrison Dillon & Co,unknown,1857,1,9,66708.9,0.1564,no
+London Westminister Bank,clearing_or_joint_stock_bank,1866,1,1,300000.0,0.1564,no
+Konig Bros,unknown,1914,1,3,233761.9,0.1562,no
+The Bornes Co Limited,unknown,1866,1,5,168410.2,0.1561,no
+Commercial Banking Co. Of Of Sydney Ltd,unknown,1914,1,5,161863.9,0.156,no
+The City Bank,clearing_or_joint_stock_bank,1866,1,2,255049.2,0.156,no
+H. Bath & Son,unknown,1866,1,9,34991.1,0.1558,no
+Natl Bk Of Africa Ltd,unknown,1914,1,1,268612.5,0.1557,no
+Sheppard Pelly & Co,unknown,1866,1,4,169500.0,0.1555,no
+Josh Dodson,unknown,1847,1,9,8230.3,0.1553,no
+Direction Der Discounts,unknown,1914,1,1,243103.1,0.1553,no
+The London County Bank,clearing_or_joint_stock_bank,1866,1,1,239167.8,0.1552,no
+Bank Of Wales,clearing_or_joint_stock_bank,1914,1,2,201077.9,0.155,no
+Anglo Austrian Bank,foreign_or_colonial_financial,1914,1,2,186328.2,0.1547,no
+National Bank Of Australasia,foreign_or_colonial_financial,1866,1,4,123339.9,0.1546,no
+R Smith & Co,unknown,1857,1,6,53406.9,0.1544,no
+J C Bailey,unknown,1857,1,3,135000.0,0.1543,no
+Weston + Laurie,unknown,1857,1,6,49070.2,0.1543,no
+J C Cummins,unknown,1847,1,7,18888.7,0.1543,no
+Swayne & Bovill,unknown,1847,1,7,6360.0,0.1541,no
+Duncan Fox & Co,unknown,1914,1,4,87687.8,0.154,no
+Crawshay Bailey,unknown,1866,1,4,84394.7,0.1539,no
+Edward Higgin & Co,unknown,1866,1,6,24208.2,0.1538,no
+British Bank Of North America Ltd,clearing_or_joint_stock_bank,1914,1,4,80847.8,0.1538,no
+Consolidated Bank Limited,clearing_or_joint_stock_bank,1866,1,2,131190.3,0.1537,no
+A Pelly & Co,unknown,1857,1,6,15759.0,0.1537,no
+J. R. Jaffray & Co,unknown,1866,1,6,15300.0,0.1537,no
+H Moryssi Bro,unknown,1847,1,6,9004.5,0.1536,no
+Thos Walker,unknown,1857,1,6,7750.8,0.1535,no
+Oliver Worthington & Co,unknown,1847,1,6,4020.9,0.1535,no
+Williams Deacon & Co On Each Of The Dudley + West Bromwich Co,clearing_or_joint_stock_bank,1857,1,3,90000.0,0.1534,no
+Mildred Goyeneche & Co,unknown,1866,1,4,52289.4,0.1533,no
+B. C. T. Gray & Son,unknown,1857,1,5,17564.4,0.1532,no
+H. S. Lefevre & Co,unknown,1866,1,4,46328.4,0.1532,no
+Spence Baggallay & Co,unknown,1857,1,5,17235.6,0.1532,no
+Anglo Egyptian Bank Limited,foreign_or_colonial_financial,1866,1,3,79440.3,0.1532,no
+Imp. Ottoman Government,unknown,1866,1,1,135000.0,0.1532,no
+Dinsdale Drewell & Co,unknown,1857,1,2,101642.9,0.1531,no
+East London Bank Limited,clearing_or_joint_stock_bank,1866,1,3,73178.1,0.1531,no
+Charles Hemery,unknown,1866,1,5,12107.8,0.1531,no
+P Mordon & Co,unknown,1866,1,5,8704.2,0.153,no
+Lon: River Plate Bank Limited,clearing_or_joint_stock_bank,1866,1,2,99646.2,0.153,no
+European Bank Limited,clearing_or_joint_stock_bank,1866,1,4,40655.8,0.153,no
+Banca De Espana,unknown,1914,1,3,63926.4,0.1529,no
+London Bank Of Australia Ltd,clearing_or_joint_stock_bank,1914,1,3,62004.6,0.1529,no
+H & R Fowler,unknown,1866,1,4,22209.2,0.1527,no
+John Pickersgill & Son,unknown,1857,1,4,20673.0,0.1527,no
+C. Bailey,unknown,1866,1,3,50802.4,0.1527,no
+R Cunliffes & Co,unknown,1857,1,3,46262.8,0.1526,no
+English & Swedish Bank Limited,clearing_or_joint_stock_bank,1866,1,3,47062.3,0.1526,no
+Anglo Italian Bank Limited,foreign_or_colonial_financial,1866,1,2,70000.0,0.1525,no
+Benoliel Brothers,unknown,1857,1,4,9955.8,0.1525,no
+Nestle Andreae & Co,unknown,1866,1,4,13840.2,0.1525,no
+Bco & Del Rio De La Hala,unknown,1914,1,1,99407.0,0.1525,no
+W McAndrew Sons,unknown,1847,1,4,7588.6,0.1524,no
+Lambert Ridley & Co,unknown,1847,1,4,4709.9,0.1524,no
+A Dalrymple,unknown,1847,1,4,4970.2,0.1524,no
+Egyptian Commercial Trading Coy,unknown,1866,1,3,35028.9,0.1524,no
+Aberdare Iron Co.,industrial_or_commercial,1866,1,2,66444.3,0.1524,no
+Walhampton & Staffordshire,unknown,1857,1,1,91579.5,0.1523,no
+National Bank Of New Zealand,clearing_or_joint_stock_bank,1914,1,1,85217.8,0.1522,no
+C David & Co,unknown,1857,1,3,19557.0,0.1521,no
+Fore Street Warehouse & Co Limited,unknown,1866,1,2,47334.4,0.152,no
+Cj Hamlin & Sons,unknown,1857,1,2,44622.0,0.152,no
+R & H Green,unknown,1866,1,3,17613.9,0.152,no
+Gilmour Rankin Strong & Co,unknown,1857,1,3,9890.4,0.1519,no
+Mccalmont Bros & Co,unknown,1866,1,2,42273.0,0.1519,no
+Ebbw Vale & Co,unknown,1857,1,2,34500.0,0.1518,no
+Craster Humble & Son,unknown,1847,1,3,5836.4,0.1518,no
+M J de Lizardi,unknown,1847,1,3,7364.9,0.1518,no
+C Tottie & Son,unknown,1847,1,3,7657.3,0.1518,no
+English Scottish & Australian Bank Limited,clearing_or_joint_stock_bank,1866,1,2,37000.0,0.1518,no
+Argenti S & Co,unknown,1847,1,3,4643.2,0.1518,no
+G. J. Smith For The Shropshire Banking Coy,unknown,1866,1,2,35602.7,0.1518,no
+Heilbut Symons & Co,unknown,1914,1,1,64698.8,0.1518,no
+London County Bank For The Midland Bank,clearing_or_joint_stock_bank,1866,1,1,55000.0,0.1516,no
+Crowsley Bailey,unknown,1866,1,2,23299.2,0.1516,no
+Price & Co For The Bedford,unknown,1866,1,1,52116.3,0.1516,no
+T. A. Hawkey,unknown,1866,1,2,27000.0,0.1516,no
+William Deacon & Co For The Northampton Union Bank,clearing_or_joint_stock_bank,1866,1,1,46322.1,0.1515,no
+Jroing Ellsworth & Adams,unknown,1857,1,2,17148.6,0.1515,no
+Jno Shield & Co,unknown,1847,1,2,18204.0,0.1515,no
+J C Im Thuru & Co,unknown,1857,1,2,16755.3,0.1514,no
+Cuadra Romero,unknown,1857,1,2,12015.7,0.1514,no
+Rhymney Iron & Co,industrial_or_commercial,1866,1,2,12067.9,0.1514,no
+Palmer Mackillop Dent & Co,unknown,1857,1,1,45000.0,0.1514,no
+John Ranking & Co,unknown,1857,1,2,13837.5,0.1514,no
+Joseph Richard,unknown,1866,1,2,16241.8,0.1514,no
+The International Bank,clearing_or_joint_stock_bank,1866,1,2,17055.0,0.1514,no
+A. Grant Son & Co,unknown,1866,1,2,9144.9,0.1513,no
+Dwindale & Ho,unknown,1866,1,1,40000.0,0.1513,no
+I & E Corderoy & Co,unknown,1866,1,2,8836.2,0.1513,no
+G. Hitchcock Williams & Co,unknown,1866,1,2,8791.2,0.1513,no
+British Honduras Coy Limited,unknown,1866,1,2,11000.0,0.1513,no
+W H Cox & Co,unknown,1857,1,2,10938.6,0.1513,no
+Carneille David & Co,unknown,1857,1,2,11557.8,0.1513,no
+James Pin & Co,unknown,1866,1,2,9758.7,0.1513,no
+C. Candy & Co,unknown,1866,1,2,8487.9,0.1513,no
+Provincial Bank & Corp Limited,clearing_or_joint_stock_bank,1866,1,2,9373.5,0.1513,no
+John Torrance,unknown,1866,1,2,9725.0,0.1513,no
+J & H Taylor,unknown,1847,1,2,8594.0,0.1513,no
+The Oriental Br Corps,unknown,1857,1,1,34380.0,0.1512,no
+John Clifford,unknown,1847,1,2,4842.0,0.1512,no
+Frullen Baubury & Co,unknown,1866,1,1,35686.8,0.1512,no
+Albert Pelly & Co,unknown,1847,1,2,4931.3,0.1512,no
+Tjas + Robinson W Ebbie Rale Co,unknown,1857,1,1,31500.0,0.1512,no
+D A Scanavi,unknown,1847,1,2,5476.8,0.1512,no
+The European Bank,clearing_or_joint_stock_bank,1866,1,1,29100.6,0.1511,no
+Keith Sands & Co,unknown,1857,1,1,30000.0,0.1511,no
+The East London Bank Limited,clearing_or_joint_stock_bank,1866,1,1,28809.9,0.1511,no
+J R Thomason & Co,unknown,1857,1,1,27000.0,0.1511,no
+G. Credit & Finance Coy Limited,unknown,1866,1,1,22286.7,0.151,no
+Edinburgh & Glasgow B,unknown,1847,1,1,23209.0,0.151,no
+A. Ralli & Co,unknown,1866,1,1,23396.4,0.151,no
+L Cohen,unknown,1857,1,1,23384.7,0.151,no
+Josh Robinson + Ebbie Vale Co,unknown,1857,1,1,24300.0,0.151,no
+Harvey & Hudsons,unknown,1866,1,1,17343.0,0.1509,no
+Joseph Leese,unknown,1866,1,1,19000.0,0.1509,no
+Darent & Co,unknown,1857,1,1,18309.6,0.1509,no
+Cocker Biddulph & Co,unknown,1866,1,1,19000.0,0.1509,no
+Bailey & Co To Afe Of Bailey,unknown,1866,1,1,18325.1,0.1509,no
+"Randall, Wigan & Co",unknown,1866,1,1,20000.0,0.1509,no
+J Bulk Son & Co,unknown,1857,1,1,9900.0,0.1508,no
+Sims Willyams Nevill & Co,unknown,1857,1,1,8807.4,0.1508,no
+J. Young Ehlers & Co,unknown,1866,1,1,9900.0,0.1508,no
+J R Thomas & Co,unknown,1857,1,1,10800.0,0.1508,no
+F Le Breton,unknown,1857,1,1,14292.0,0.1508,no
+Crowns Agents For Colonies,unknown,1866,1,1,9000.0,0.1508,no
+Pinto Leite & Brothers,unknown,1857,1,1,9224.1,0.1508,no
+Truhling & Goschen,merchant_bank,1914,1,1,10412.9,0.1508,no
+Melhuish Sons & Co,unknown,1857,1,1,13973.0,0.1508,no
+Straham & Co,unknown,1847,1,1,14597.9,0.1508,no
+Miles Brother & Co,unknown,1866,1,1,9000.0,0.1508,no
+X. Balli,unknown,1866,1,1,14961.6,0.1508,no
+M Gray & Co,unknown,1847,1,1,13800.9,0.1508,no
+Ebbie Vale Co & Robbinson,unknown,1857,1,1,11799.9,0.1508,no
+Boysin Hoyer Tagart,unknown,1857,1,1,10000.0,0.1508,no
+F Calvert,unknown,1857,1,1,9000.0,0.1508,no
+The Jone St Marehouse Co Limited,unknown,1866,1,1,9305.8,0.1508,no
+J T Harris,unknown,1847,1,1,5819.0,0.1507,no
+T & N Kind,unknown,1847,1,1,8602.5,0.1507,no
+Unity Mutual Bank,clearing_or_joint_stock_bank,1857,1,1,8253.7,0.1507,no
+Famraes M Co,unknown,1847,1,1,6033.8,0.1507,no
+H Rogers Sons & Co,unknown,1857,1,1,8175.6,0.1507,no
+J Rult Sons Co,unknown,1847,1,1,6672.8,0.1507,no
+T H Elmenhorst,unknown,1847,1,1,4790.4,0.1507,no
+Eastern Amos & Sons,merchant_bank,1866,1,1,2046.6,0.1506,no
+James Stern & Sons,merchant_bank,1847,1,1,859.3,0.1506,no
+Sevayne & Bowell,unknown,1847,1,1,4033.3,0.1506,no
+Bambridge & Mews,unknown,1847,1,1,4162.3,0.1506,no
+Jomdes Co,unknown,1847,1,1,4070.6,0.1506,no
+Bank Of Scotland,foreign_or_colonial_financial,1914,1,9,27550.0,0.0056,no
+Borneo Co Ltd,unknown,1914,1,7,57205.2,0.0051,no
+Beith Stevenson & Co,unknown,1914,1,7,55956.1,0.005,no
+Britsh Linen Bank,clearing_or_joint_stock_bank,1914,1,8,4664.5,0.0046,no
+Fecan Kerrison & Flanne,unknown,1857,1,7,5768.0,0.0041,no
+Hy Rogers Sons & Co,unknown,1914,1,6,31711.9,0.004,no
+Bank Of British West Africa Ltd,foreign_or_colonial_financial,1914,1,5,51756.0,0.0038,no
+R&J Henderson,unknown,1914,1,6,17357.5,0.0037,no
+Puito Perry & Co,unknown,1857,1,6,7155.0,0.0035,no
+Pinto Leite & Nephews,unknown,1914,1,4,35807.4,0.003,no
+G.F. Neame Co,unknown,1914,1,3,44054.3,0.0026,no
+Chesnutt Cooper Co,unknown,1914,1,4,12332.5,0.0025,no
+T. R. Merton,unknown,1914,1,3,41302.2,0.0025,no
+Arbuthnot Latham Co,unknown,1914,1,3,34247.5,0.0024,no
+Peek Brothers & Co,unknown,1866,1,4,8010.0,0.0024,no
+Carr & Hoare,unknown,1866,1,4,5448.6,0.0024,no
+Natl Bk Of Belgium,unknown,1914,1,3,34546.8,0.0024,no
+Warre Brothers,unknown,1857,1,4,4545.6,0.0023,no
+Wf Moore,unknown,1857,1,4,2958.6,0.0023,no
+Ps Galatti,unknown,1857,1,4,3156.3,0.0023,no
+A. Haliener & Co,unknown,1866,1,4,536.4,0.0023,no
+Owthwaite & Co,unknown,1857,1,4,556.9,0.0023,no
+Bedell Prior & Co,unknown,1866,1,4,3042.9,0.0023,no
+Mildred Goyenchi & Co,unknown,1914,1,2,50968.4,0.0021,no
+J & I Batten & Co,unknown,1914,1,3,8166.7,0.0019,no
+Rodocanachi Sons & Co,unknown,1914,1,3,4465.0,0.0018,no
+Bheonutt Booper & Co,unknown,1914,1,3,5320.0,0.0018,no
+J Montefiore & Son,unknown,1847,1,3,3316.3,0.0018,no
+Phirias Abraham,unknown,1857,1,3,7141.5,0.0018,no
+Gladstone Ewart & Co,unknown,1866,1,3,5985.9,0.0018,no
+John Haurie Nephew,unknown,1866,1,3,2813.4,0.0018,no
+Alex Crowe & Co,unknown,1847,1,3,3156.8,0.0018,no
+I. & B. Pearse & Co,unknown,1857,1,3,6290.0,0.0018,no
+J. O. Beetron,unknown,1866,1,3,38.7,0.0017,no
+C Humble & Son,unknown,1847,1,3,2380.6,0.0017,no
+Byfield & Richards,unknown,1866,1,3,140.4,0.0017,no
+A.Branwell Co Ltd,unknown,1914,1,3,434.1,0.0017,no
+Walker Howell & Co,unknown,1857,1,3,2477.7,0.0017,no
+E. F. Oelricks & Co,unknown,1866,1,3,531.7,0.0017,no
+Natl Bk Of Australasia,unknown,1914,1,2,29144.1,0.0017,no
+Coles Child & Co,unknown,1847,1,3,2224.6,0.0017,no
+F&A Delcomyn,unknown,1914,1,2,26681.7,0.0016,no
+Robinson Fleming & Co,unknown,1914,1,1,55506.6,0.0016,no
+Jones & Brown,unknown,1914,1,2,19419.9,0.0015,no
+J.R Belltman,unknown,1914,1,2,20936.1,0.0015,no
+Horstman Co,unknown,1914,1,2,14109.4,0.0014,no
+Wilson Leward & Swale,unknown,1857,1,2,7180.0,0.0013,no
+T. & D. Henry,unknown,1857,1,2,7009.3,0.0013,no
+Ross & Ash,unknown,1866,1,2,6750.0,0.0013,no
+Da Costa & Kiell,unknown,1866,1,2,7200.0,0.0013,no
+W.Ladenburg & Co,unknown,1914,1,2,7896.4,0.0013,no
+James & Brown,unknown,1914,1,1,35987.9,0.0013,no
+Clydesdale Bank Ltd,clearing_or_joint_stock_bank,1914,1,2,8669.7,0.0013,no
+Carvalho Brother & Co,unknown,1866,1,2,1822.5,0.0012,no
+W. Halford & Co,unknown,1914,1,2,5605.0,0.0012,no
+Brown & Laws,unknown,1866,1,2,3507.3,0.0012,no
+D.Sasson Co Ltd,unknown,1914,1,1,33251.9,0.0012,no
+E. Higgin & Co,unknown,1866,1,2,3780.0,0.0012,no
+Edward Corry,unknown,1866,1,2,2565.0,0.0012,no
+Poppleton Gibs & Co,unknown,1914,1,2,6122.2,0.0012,no
+English Scottish & Australian Bank Ltd,clearing_or_joint_stock_bank,1914,1,1,30060.8,0.0012,no
+Wm Hooten Yates,unknown,1914,1,2,2290.4,0.0012,no
+Kipling Pain & Co,unknown,1866,1,2,1980.9,0.0012,no
+Neville Reid Prestwich & Co,unknown,1857,1,2,4247.1,0.0012,no
+A. Wehmes,unknown,1866,1,2,2245.0,0.0012,no
+John Goie & Co,unknown,1857,1,2,2564.6,0.0012,no
+R. W. Starkey & Son,unknown,1866,1,2,1789.2,0.0012,no
+T. Hubbuck & Son Ltd,unknown,1914,1,2,3522.6,0.0012,no
+Koebel Jameson & Co,unknown,1866,1,2,2385.0,0.0012,no
+R W Kein & Co,unknown,1857,1,2,2162.9,0.0012,no
+Prier P Candle & Co,unknown,1857,1,2,6490.3,0.0012,no
+Fw Caseus,unknown,1857,1,2,1816.2,0.0012,no
+David Sasson & Co Ld,unknown,1914,1,1,35195.6,0.0012,no
+Delhi & London Bank Ltd,clearing_or_joint_stock_bank,1914,1,1,32758.1,0.0012,no
+C Warwick,unknown,1847,1,2,1776.9,0.0012,no
+Smellgrove & Leach,unknown,1866,1,2,5202.0,0.0012,no
+R + Paul,unknown,1857,1,2,3071.7,0.0012,no
+Locke Lanccaster W W R Johnson Sons Ltd,unknown,1914,1,2,2184.1,0.0012,no
+Chas Belier,unknown,1914,1,2,1710.0,0.0012,no
+Saplding & Hodge,unknown,1847,1,2,2707.7,0.0012,no
+W C Laming & Co,unknown,1847,1,2,1839.6,0.0012,no
+G. Andreae & Co,unknown,1866,1,2,2092.5,0.0012,no
+Castelli Brothers,unknown,1866,1,2,5669.1,0.0012,no
+W. H. Laird,unknown,1857,1,2,1935.0,0.0012,no
+J T Bells & Co,unknown,1847,1,2,2941.3,0.0012,no
+C T Miller & Sons,unknown,1847,1,2,2452.2,0.0012,no
+Ew Fernie,unknown,1857,1,2,2642.4,0.0012,no
+J & W J Coutenay,unknown,1847,1,2,1886.2,0.0012,no
+B. De Castro & Co,unknown,1866,1,2,1800.0,0.0012,no
+Bank Of Australia,clearing_or_joint_stock_bank,1914,1,1,26456.5,0.0011,no
+C J Miller & Sons,unknown,1847,1,2,0.0,0.0011,no
+T. O. Beeton,unknown,1866,1,2,0.0,0.0011,no
+Thomas Seamer,unknown,1857,1,2,1018.8,0.0011,no
+Child & Co,unknown,1914,1,2,296.4,0.0011,no
+C A Jonas & Co,unknown,1857,1,2,452.7,0.0011,no
+David Kidd & Son,unknown,1866,1,2,1465.2,0.0011,no
+Beo Befand Del Rio Co,unknown,1914,1,1,28644.4,0.0011,no
+Josh Foot & Son,unknown,1847,1,2,1539.0,0.0011,no
+Sromidill & Beckham,unknown,1857,1,2,945.0,0.0011,no
+Adi Denielrio & Sons,unknown,1857,1,2,90.0,0.0011,no
+Julius Jacoby,unknown,1866,1,2,266.4,0.0011,no
+James Lawrence,unknown,1866,1,2,1498.5,0.0011,no
+L.Boy.W.Bk Bk Chas Comiys Co,unknown,1914,1,2,877.8,0.0011,no
+G. Routledge & Sons Ld,unknown,1914,1,2,1499.1,0.0011,no
+S Fafhet & Co,unknown,1914,1,1,28500.0,0.0011,no
+Bank Of Ireland,foreign_or_colonial_financial,1914,1,1,23750.0,0.001,no
+Rohinson Fleming & Co,unknown,1914,1,1,22656.5,0.001,no
+Dominion Bank,clearing_or_joint_stock_bank,1914,1,1,19192.8,0.001,no
+Ricard Freiwald,unknown,1914,1,1,17094.3,0.0009,no
+Hatsman & Co,unknown,1914,1,1,18326.5,0.0009,no
+S.Faphel & Co,unknown,1914,1,1,19000.0,0.0009,no
+Bowes Co Ltd,unknown,1914,1,1,16293.3,0.0009,no
+Commonwealth Bk Of Australia,unknown,1914,1,1,14382.0,0.0008,no
+H.S.Lefevre,unknown,1914,1,1,11156.8,0.0008,no
+Fisher King & Co,unknown,1914,1,1,9837.2,0.0008,no
+London Bank Of Australia,clearing_or_joint_stock_bank,1914,1,1,11131.1,0.0008,no
+Coutts & Co,unknown,1914,1,1,7247.5,0.0007,no
+H E + M Moses,unknown,1857,1,1,6440.0,0.0007,no
+John Pickessgill & Sons,unknown,1857,1,1,4661.1,0.0007,no
+F Engelhardt,unknown,1857,1,1,4940.1,0.0007,no
+H Lohnotamm,unknown,1914,1,1,7821.3,0.0007,no
+Thomas Stephen & Co,unknown,1866,1,1,7021.8,0.0007,no
+Tamvaco Utell,unknown,1857,1,1,5472.9,0.0007,no
+Stera Bros,unknown,1857,1,1,6258.6,0.0007,no
+Unity Joint,unknown,1857,1,1,7367.4,0.0007,no
+Bernard Elliot,unknown,1914,1,1,7330.2,0.0007,no
+J. G. Homere,unknown,1866,1,1,7380.9,0.0007,no
+I. Ciw Thaw & Co,unknown,1857,1,1,7612.2,0.0007,no
+Baker & Co,unknown,1857,1,1,7225.2,0.0007,no
+T Ralli Sons & Co,unknown,1857,1,1,7015.5,0.0007,no
+Unity St Something,unknown,1857,1,1,6702.6,0.0007,no
+"Caldecott, Sons & Willcocks",unknown,1866,1,1,6400.8,0.0007,no
+Geo Gore & Co,unknown,1857,1,1,4777.5,0.0007,no
+Stephen Kennard & Co,unknown,1866,1,1,4680.0,0.0007,no
+Higginson & Co,unknown,1914,1,1,4750.0,0.0007,no
+De Jersey & Co,unknown,1914,1,1,5905.2,0.0007,no
+Lanthe Buhnell,unknown,1866,1,1,8064.9,0.0007,no
+Sheyer Bros,unknown,1914,1,1,7708.3,0.0007,no
+Thos Pretu & Co,unknown,1857,1,1,4752.0,0.0007,no
+Gene Credit & Co Limited,unknown,1866,1,1,4881.6,0.0007,no
+Saml.Barrow & Bro Ld,unknown,1914,1,1,6627.2,0.0007,no
+T W Houces,unknown,1847,1,1,993.2,0.0006,no
+H Williamns & Co,unknown,1857,1,1,2375.1,0.0006,no
+G. J Thompson,unknown,1866,1,1,161.1,0.0006,no
+T Walker,unknown,1857,1,1,307.8,0.0006,no
+Springfield Sons & Co,unknown,1857,1,1,4125.6,0.0006,no
+T Le Princeton,unknown,1857,1,1,2048.4,0.0006,no
+G.G. Sandeman Sons Co,unknown,1914,1,1,1666.3,0.0006,no
+Gale & Frieud,unknown,1866,1,1,189.9,0.0006,no
+Joseph Balfour,unknown,1866,1,1,2900.0,0.0006,no
+Joseph Barwick,unknown,1866,1,1,696.6,0.0006,no
+R T + R Swift,unknown,1857,1,1,0.0,0.0006,no
+John Bill Dresser & Co,unknown,1857,1,1,0.0,0.0006,no
+Union Smiths Bank Ld Prescotts,clearing_or_joint_stock_bank,1914,1,1,931.9,0.0006,no
+L. Engstrom Browning & Co,unknown,1866,1,1,1405.8,0.0006,no
+Henry Cowell,unknown,1866,1,1,0.0,0.0006,no
+W F Brown,unknown,1857,1,1,159.3,0.0006,no
+Schwaan & Co,unknown,1914,1,1,1843.0,0.0006,no
+Stoman & Co,unknown,1866,1,1,3085.2,0.0006,no
+Unity St Jk Bank,clearing_or_joint_stock_bank,1857,1,1,1966.5,0.0006,no
+Unreadable,unknown,1857,1,1,0.0,0.0006,no
+"Davey, Thompson & Alder",unknown,1866,1,1,1593.9,0.0006,no
+Vivian & Younger,unknown,1866,1,1,675.0,0.0006,no
+Seamer,unknown,1847,1,1,912.3,0.0006,no
+Curteis Whitworth & Co,unknown,1866,1,1,1892.7,0.0006,no
+George Johnson & Co,unknown,1857,1,1,509.4,0.0006,no
+Jonas Simonsen & Co,unknown,1866,1,1,1458.0,0.0006,no
+H Bucknall & Sons Ltd,unknown,1914,1,1,4165.8,0.0006,no
+Joseph Bridgett & Co,unknown,1866,1,1,3143.7,0.0006,no
+John Mair Son & Co,unknown,1857,1,1,1881.0,0.0006,no
+Pye Field & Tanqueray,unknown,1857,1,1,2186.1,0.0006,no
+James Cook & Co,unknown,1857,1,1,4500.0,0.0006,no
+Tho' Stephens & Co,unknown,1857,1,1,1215.0,0.0006,no
+James Consens,unknown,1857,1,1,1188.0,0.0006,no
+Thomas Ainsworth,unknown,1866,1,1,2334.6,0.0006,no
+L&A Brown,unknown,1914,1,1,2019.7,0.0006,no
+G Costen,unknown,1866,1,1,3018.6,0.0006,no
+Richard Pearee,unknown,1857,1,1,20.5,0.0006,no
+Henry Caylay Co,unknown,1847,1,1,2350.0,0.0006,no
+Amayssi Sons,unknown,1847,1,1,1647.0,0.0006,no
+John Macfrige,unknown,1857,1,1,548.1,0.0006,no
+John Montefiore & Son,unknown,1857,1,1,1410.3,0.0006,no
+Angus Mackenzie,unknown,1857,1,1,180.0,0.0006,no
+Alepson Bros Co,unknown,1847,1,1,1651.2,0.0006,no
+H B Downing,unknown,1857,1,1,0.0,0.0006,no
+John Halles,unknown,1866,1,1,1354.5,0.0006,no
+Sugstrom Luch Co,unknown,1847,1,1,1894.3,0.0006,no
+John H Barbe,unknown,1857,1,1,22.5,0.0006,no
+Guillaume Coster,unknown,1866,1,1,4620.6,0.0006,no
+A. G. D Costa,unknown,1866,1,1,1260.0,0.0006,no
+Grosscuth & Lubodlt,unknown,1914,1,1,627.0,0.0006,no
+H R Fowler,unknown,1857,1,1,1098.5,0.0006,no
+H Richard & Sons,unknown,1857,1,1,233.6,0.0006,no
+Alex Collie & Co,unknown,1866,1,1,0.0,0.0006,no
+Cunliffe Bros,unknown,1914,1,1,3841.8,0.0006,no
+Perrott +Perrott,unknown,1857,1,1,644.0,0.0006,no
+Scott Alsion & Co,unknown,1847,1,1,1041.6,0.0006,no
+E Mansell + Ga Ellie & Co,unknown,1857,1,1,0.0,0.0006,no
+Edward Luckie,unknown,1866,1,1,900.0,0.0006,no
+Priei Cohen & Co,unknown,1857,1,1,2049.3,0.0006,no
+Henry Moul,unknown,1866,1,1,432.9,0.0006,no
+Thomas Southey & Son,unknown,1847,1,1,2256.0,0.0006,no
+Edward Beach,unknown,1847,1,1,1023.8,0.0006,no
+Shropshire Bank Coy ( To The Afe Of G. J. Smith ),clearing_or_joint_stock_bank,1866,1,1,2495.7,0.0006,no
+E.Pandorf,unknown,1914,1,1,0.0,0.0006,no
+E. Lloyd & Cp,unknown,1866,1,1,1710.0,0.0006,no
+Thos M Gregor,unknown,1857,1,1,319.5,0.0006,no
+"Lockie, Crosier & Edwards",unknown,1866,1,1,1737.0,0.0006,no
+Thos Wecom & Son,unknown,1857,1,1,1000.0,0.0006,no
+Le Gros Thompson & Co,unknown,1847,1,1,1228.6,0.0006,no
+Thomas Prehn,unknown,1847,1,1,2820.0,0.0006,no
+E Beach Frn & Rep,unknown,1866,1,1,992.7,0.0006,no
+Titus Nevrhouse,unknown,1866,1,1,360.0,0.0006,no
+J.Greenich & Sons Ld,unknown,1914,1,1,1333.2,0.0006,no
+Legros Thompson Co,unknown,1847,1,1,1142.0,0.0006,no
+Tp Lloyds & Co,clearing_or_joint_stock_bank,1857,1,1,1383.3,0.0006,no
+Alex,unknown,1847,1,1,2343.6,0.0006,no
+Doggett,unknown,1847,1,1,2301.2,0.0006,no
+Truman Hitchcock,unknown,1857,1,1,4080.6,0.0006,no
+Lengerke Caesar,unknown,1857,1,1,3645.9,0.0006,no
+Trvayice & Bovill,unknown,1847,1,1,0.0,0.0006,no
+Tw Eady,unknown,1857,1,1,314.6,0.0006,no
+Thomas Reeves,unknown,1847,1,1,0.0,0.0006,no
+Lacey Howard & Co,unknown,1847,1,1,282.0,0.0006,no
+Schwarm & Co,unknown,1866,1,1,1386.0,0.0006,no
+F Walter & Co,unknown,1914,1,1,950.0,0.0006,no
+J. M. Buston,unknown,1866,1,1,270.0,0.0006,no
+Philip Levi & Co,unknown,1866,1,1,0.0,0.0006,no
+J. H. Mackenzie,unknown,1866,1,1,3150.0,0.0006,no
+Serutton Sons & Co,unknown,1857,1,1,1980.0,0.0006,no
+W Allder,unknown,1847,1,1,0.0,0.0006,no
+Schrmann Bros,unknown,1914,1,1,1936.1,0.0006,no
+Alifson B,unknown,1847,1,1,1482.8,0.0006,no
+London Missionary Soc,unknown,1914,1,1,477.5,0.0006,no
+W B Hutton & Son,unknown,1847,1,1,868.3,0.0006,no
+J A Crocker,unknown,1847,1,1,1030.4,0.0006,no
+W Berkefeld,unknown,1857,1,1,4500.0,0.0006,no
+J. H Boobyer & Co,unknown,1866,1,1,434.7,0.0006,no
+Ehrmann Bros,unknown,1914,1,1,104.5,0.0006,no
+Perrott & Perrott,unknown,1866,1,1,730.8,0.0006,no
+W Clewes & Sons,unknown,1857,1,1,1000.8,0.0006,no
+Longton & Ricknell,unknown,1847,1,1,2625.3,0.0006,no
+Pellegrrice Rasselli,unknown,1847,1,1,200.2,0.0006,no
+Lroving Ebsworth & Co,unknown,1857,1,1,3794.1,0.0006,no
+Dawson Worth,unknown,1866,1,1,900.0,0.0006,no
+Pike Leake & Co,unknown,1857,1,1,2296.7,0.0006,no
+Henry Dresser & Co,unknown,1857,1,1,2340.9,0.0006,no
+Langton + Robinson,unknown,1857,1,1,489.6,0.0006,no
+Elizabeth Atkinson,unknown,1847,1,1,244.0,0.0006,no
+La Forest,unknown,1847,1,1,674.3,0.0006,no
+Hellertwaag Russel,unknown,1914,1,1,2079.5,0.0006,no
+N. H + A Scott,unknown,1857,1,1,1266.3,0.0006,no
+Hawes & Co,unknown,1866,1,1,1780.0,0.0006,no
+Banffo & Co,unknown,1866,1,1,720.0,0.0006,no
+Barff & Co,unknown,1866,1,1,748.8,0.0006,no
+S.Bobree & Sons,unknown,1914,1,1,1907.6,0.0006,no
+Battley & Butler,unknown,1866,1,1,353.7,0.0006,no
+J. D. Dow,unknown,1866,1,1,450.0,0.0006,no
+J. B. Minshall,unknown,1866,1,1,383.4,0.0006,no
+J S Betts & Co,unknown,1847,1,1,1448.4,0.0006,no
+W Tindall,unknown,1847,1,1,1184.4,0.0006,no
+J Hood Co,unknown,1847,1,1,277.5,0.0006,no
+W.H. Cox & Co,unknown,1866,1,1,3171.6,0.0006,no
+Newton B & Co,unknown,1857,1,1,741.6,0.0006,no
+W.R.Crow & Son,unknown,1914,1,1,2146.0,0.0006,no
+Ben Smith Duke,unknown,1847,1,1,426.9,0.0006,no
+J Davidge,unknown,1857,1,1,90.0,0.0006,no
+William Jackson,unknown,1857,1,1,943.2,0.0006,no
+J T Sines & Co,unknown,1847,1,1,3129.3,0.0006,no
+J Jackson & Co,unknown,1857,1,1,0.0,0.0006,no
+Walter Howell,unknown,1866,1,1,0.0,0.0006,no
+Sam Swownell & Son,unknown,1857,1,1,0.0,0.0006,no
+Bank Of Australasia,foreign_or_colonial_financial,1914,1,1,1851.5,0.0006,no
+Bucknell & Sons,unknown,1857,1,1,0.0,0.0006,no
+Brewell Y & Co,unknown,1847,1,1,1967.2,0.0006,no
+S Stuart,unknown,1857,1,1,909.0,0.0006,no
+Beverington Norris,unknown,1857,1,1,3548.7,0.0006,no
+Miller C & Co,unknown,1847,1,1,0.0,0.0006,no
+J. B Thompson,unknown,1866,1,1,1292.3,0.0006,no
+J. B. Elin,unknown,1866,1,1,2250.0,0.0006,no
+Nowoorjee Furdoonjee,unknown,1866,1,1,1351.8,0.0006,no
+Wm Lymington & Co,unknown,1914,1,1,2853.8,0.0006,no
+National Bk Ld,unknown,1914,1,1,989.9,0.0006,no
+Wm Rivet & Sons Ltd,unknown,1914,1,1,2558.3,0.0006,no
+Cha Heinery,unknown,1857,1,1,1671.3,0.0006,no
+Bayliss Jones & Bayliss,unknown,1914,1,1,180.5,0.0006,no
+J Woaker Callety,unknown,1847,1,1,2922.5,0.0006,no
+Abrahamson Lihme & Co,unknown,1866,1,1,0.0,0.0006,no
+M Levyson,unknown,1847,1,1,750.3,0.0006,no
+Charles Hoare Co,unknown,1914,1,1,814.1,0.0006,no
+S. H. Lucas & Son,unknown,1866,1,1,2527.2,0.0006,no
+Nara Matu,unknown,1866,1,1,236.7,0.0006,no
+M Da Costa + I. E. Coleman,unknown,1857,1,1,1514.7,0.0006,no
+W Hinkes Cay & Co,unknown,1866,1,1,3085.2,0.0006,no
+"Mackinlay, Reuss & Co",unknown,1866,1,1,800.0,0.0006,no
+Parker Son & Co,unknown,1857,1,1,897.3,0.0006,no
+Wm Norton Yates Lombard St,unknown,1914,1,1,2905.1,0.0006,no
+Yeames Lander & Co,unknown,1857,1,1,2718.9,0.0006,no
+J. G. Buskin,unknown,1866,1,1,45.0,0.0006,no
+M. Mayer & Co,unknown,1866,1,1,513.0,0.0006,no
+W M Crauston,unknown,1866,1,1,491.4,0.0006,no
+M. Z. Just & Co,unknown,1866,1,1,2102.4,0.0006,no
+Carvalho & Brother,unknown,1857,1,1,1557.0,0.0006,no
+Wr Crow & Son,unknown,1914,1,1,4266.4,0.0006,no
+N. H. Pantridge & Co,unknown,1866,1,1,1873.8,0.0006,no
+J. B. Elvis,unknown,1866,1,1,2000.0,0.0006,no
+J Samalvier,unknown,1857,1,1,45.0,0.0006,no
+Blyth Greene Jourdain Co Ld,unknown,1914,1,1,1894.3,0.0006,no
+James Dickson,unknown,1866,1,1,109.8,0.0006,no
+Francis Scott,unknown,1857,1,1,270.9,0.0006,no
+W. Ewart & Son Ltd,unknown,1914,1,1,3224.3,0.0006,no
+Rd Poppleton,unknown,1847,1,1,878.4,0.0006,no
+Lurek Barelay,unknown,1857,1,1,512.1,0.0006,no
+R + Rea & Co,unknown,1857,1,1,0.0,0.0006,no
+Jnr Miefro Co,unknown,1847,1,1,2913.8,0.0006,no
+Joseph Samalivies,unknown,1857,1,1,18.0,0.0006,no
+H. Thurburn,unknown,1866,1,1,765.0,0.0006,no
+Jersey Banking Coy,unknown,1866,1,1,2067.3,0.0006,no
+Josh Anderson,unknown,1857,1,1,4144.5,0.0006,no
+H.Kohnstamm,unknown,1914,1,1,402.8,0.0006,no
+R Gray,unknown,1847,1,1,1071.6,0.0006,no
+Hall & Gray,unknown,1914,1,1,333.6,0.0006,no
+Williams Meyustein,unknown,1866,1,1,1738.8,0.0006,no
+R Comber,unknown,1847,1,1,883.6,0.0006,no
+James Scott & Son,unknown,1866,1,1,2381.6,0.0006,no
+Finance Company Ld,unknown,1914,1,1,0.0,0.0006,no
+Fibacn & Co,unknown,1847,1,1,1642.4,0.0006,no
+Faundel & Phillips,unknown,1847,1,1,1674.9,0.0006,no
+Kraft Bros,unknown,1914,1,1,0.0,0.0006,no
+G E Mackreth,unknown,1857,1,1,143.1,0.0006,no
+Hanson Smiths & Stevens,unknown,1857,1,1,2725.2,0.0006,no
+Harvey Stambridge,unknown,1857,1,1,450.0,0.0006,no
+F. Horne & Co,unknown,1866,1,1,2687.4,0.0006,no
+F. Bowes & Co,unknown,1866,1,1,3000.0,0.0006,no
+S W Silver & Co,unknown,1857,1,1,3716.1,0.0006,no
+W. Pickford,unknown,1866,1,1,184.5,0.0006,no
+William Andew & Sons,unknown,1857,1,1,2646.9,0.0006,no
+N. Ganuap,unknown,1866,1,1,900.0,0.0006,no
+J Hash & Co,unknown,1857,1,1,1800.0,0.0006,no
+Blogg + Martin,unknown,1857,1,1,2082.6,0.0006,no
+Neumann Lueback & Co,unknown,1914,1,1,1265.4,0.0006,no
+Williams Deacon & Co,clearing_or_joint_stock_bank,1857,1,1,0.0,0.0006,no
+Mary Burton,unknown,1857,1,1,540.0,0.0006,no
+Saml Dobree & Sons,unknown,1914,1,1,0.0,0.0006,no
+Matthew Brothers,unknown,1857,1,1,1430.1,0.0006,no
+J E Ford,unknown,1857,1,1,757.8,0.0006,no
+Natl Bk Of England Ltd,unknown,1914,1,1,647.9,0.0006,no
+W Wilson & Co,unknown,1866,1,1,540.0,0.0006,no
+Wm Andrew & Sons,unknown,1857,1,1,1790.1,0.0006,no
+W. E. Eddison & Co,unknown,1866,1,1,756.0,0.0006,no
+C & S Grimmrade,unknown,1866,1,1,900.0,0.0006,no
+C E Fireman,unknown,1857,1,1,548.1,0.0006,no
+Wienholt Wehmer & Co,unknown,1857,1,1,3591.0,0.0006,no
+W. H & A Scott,unknown,1866,1,1,1755.9,0.0006,no
+N C Braddon,unknown,1847,1,1,0.0,0.0006,no
+S Block & Son,unknown,1847,1,1,3680.0,0.0006,no
+Nesleukings Bus,unknown,1866,1,1,0.0,0.0006,no
+W. H. Partridge & Co,unknown,1866,1,1,1800.0,0.0006,no
+C Chressperger,unknown,1847,1,1,0.0,0.0006,no
+W. J. Crook,unknown,1914,1,1,237.5,0.0006,no
+Nestle & Anglo Swiss C.Milk Co,unknown,1914,1,1,1496.2,0.0006,no
+W. Mepzstein,unknown,1866,1,1,2190.6,0.0006,no
+Harper Burne & Co,unknown,1857,1,1,990.8,0.0006,no

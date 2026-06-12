@@ -1,0 +1,8 @@
+institution,periods,n_periods,actor_type,persisted,source,confidence
+Union Discount Co.,Victorian; 1906; 1914; LDMA 1945; 1996,5,discount house,same firm,v3 ledgers; Accominotti 2025; BoE database,high
+"Seccombe, Marshall & Campion",1931; 1996,2,discount house / Bank agent,same firm,Romer 2025; BoE database,high
+National Discount Co.,Victorian; 1906,2,discount house,same firm,v3 ledgers; Accominotti 2025,high
+"Overend, Gurney & Co.",1847; 1857; 1866,3,discount house,same firm (failed 1866),v3 ledgers,high
+Gerrard & National,LDMA; 1996,2,discount house / authorised counterparty,same firm,BoE database,medium
+Barings; Rothschilds,Victorian; 1906,2,acceptance / merchant house,same firms,v3 context; Accominotti 2025,high
+DISCOUNT HOUSE (actor type),every period 1830-1997,7,type,TYPE persisted (the robust claim),all sources,high

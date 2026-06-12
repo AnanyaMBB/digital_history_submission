@@ -1,0 +1,2 @@
+series,months,range,nonzero_months,nonzero_share,mean,median,max,start_value,end_value,trend_per_month,cv,last12m_mean,earlier_mean,declines_before_1997,reads_as
+"RPMATJD (Bank sterling deposits placed with discount houses, £m)",124,1986-09-30 to 1996-12-31,105,0.85,254.2,170.5,1930.0,174.0,0.0,-1.36,1.24,217.0,258.2,yes,"routine but volatile use of the discount houses, not a one-off; still active in the mid-1990s"

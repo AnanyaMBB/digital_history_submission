@@ -1,0 +1,13 @@
+rule,quiet_weeks,alerts_in_quiet,alerts_per_decade,alerts_per_year
+threshold_score>=80,3514,616,91.16,9.116
+threshold_score>=90,3514,290,42.91,4.291
+threshold_score>=95,3514,79,11.69,1.169
+persistence_2of4_80,3514,668,98.85,9.885
+persistence_3of6_80,3514,583,86.27,8.627
+persistence_6of12_80,3514,480,71.03,7.103
+ewma_lam=0.2_2sigma,3514,49,7.25,0.725
+ewma_lam=0.1_2sigma,3514,74,10.95,1.095
+cusum_k=0.5_h=5,3514,69,10.21,1.021
+cusum_k=0.25_h=4,3514,138,20.42,2.042
+threshold_seasonal>=80,3514,554,81.98,8.198
+persistence_3of6_seasonal_80,3514,503,74.43,7.443

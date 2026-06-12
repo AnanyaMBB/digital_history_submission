@@ -1,0 +1,4 @@
+crisis,source,issue,report_date,verified_quote,note
+1857,The Bankers' Magazine (London),1857-12,1857-12-01,"""the crisis of 1857 ... has not reached its culminating point""; notes Bank Rate 8-9% on 5 Nov and ""The suspension of the Bank Act""","monthly, compiled at month-start -> lower bound / lagging for mid-month crises"
+1866,The Bankers' Magazine (London),1866-06,1866-06-01,"""THE PANIC OF 1866 ... it reached its culminating point on the afternoon of the 10th ... Overend, Gurney and Co., Limited, were ... compelled to close their doors""","monthly, compiled at month-start -> lower bound / lagging for mid-month crises"
+1890,The Bankers' Magazine (London),1890-12,1890-12-01,"""THE BARING CRISIS ... On Saturday, November 8th, the affairs of Messrs. Baring Brothers & Co. were disclosed to the directors of the Bank of England""","monthly, compiled at month-start -> lower bound / lagging for mid-month crises"

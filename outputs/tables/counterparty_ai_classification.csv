@@ -1,0 +1,1315 @@
+canonical_counterparty,ai_counterparty_type,rule_based_type,confidence,classification_reason,evidence_terms,manual_review_required
+??Se Sons & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+A & G W Alexander & Co,unknown,merchant,0.0,no rule matched,[],True
+A Bell & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+A Cose & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+A Dimitris & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+A F Schleicher,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+A Jackson & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+A Jarohai,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+A Joachim,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+A L Crohn,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+A Lillen Son & Co,unknown,merchant,0.0,no rule matched,[],True
+A Pelly & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+A Sellean Son & Co,unknown,merchant,0.0,no rule matched,[],True
+A Webber & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+A. G. D Costa,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+A. Grant Son & Co,unknown,merchant,0.0,no rule matched,[],True
+A. Haliener & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+A. L. Elder,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+A. M. Peebler & Son,unknown,other,0.0,no rule matched,[],True
+A. Mongredien & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+A. Ralli & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+A. Ruffer & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+A. S. Petrie & Co,unknown,merchant,0.0,no rule matched,[],True
+A. Salomons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+A. Wehmes,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+A.Branwell Co Ltd,industrial_or_corporate,merchant,0.3,matched rules: industrial_or_corporate,"[""joint-stock company suffix""]",False
+Aberdare Iron Co.,industrial_or_corporate,merchant,0.7,matched rules: industrial_or_corporate,"[""industrial commodity""]",False
+Abet Brothers,merchant_trading_firm,other,0.4,matched rules: merchant_trading_firm,"[""family firm pattern""]",False
+Abrahamson Lihme & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Absolom Crocker & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Adamson & Ronaldson,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Adi Denielrio & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Agra & Mastermans Bank Limited,commercial_bank,commercial_bank,0.95,curated match: Agra & Mastermans Bank — colonial joint-stock,"[""agra & mastermans""]",False
+Akmagaroff & Gasparian,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Alex Bell & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Alex Collie & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Alex Webber & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Alexander Cunliffes & Co,bill_broker,merchant,0.95,"curated match: Alexander, Cunliffe & Co. — bill brokers","[""alexander cunliffe""]",False
+Alexanders & Co Ltd,industrial_or_corporate,merchant,0.3,matched rules: industrial_or_corporate,"[""joint-stock company suffix""]",False
+Alexiadi Delta & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Alfred Stram,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Alfred Towgood,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Allen Harvey & Ross,discount_house,other,0.95,curated match: Allen Harvey & Ross — discount house,"[""allen harvey & ross""]",False
+Allen Solly & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Alliance Bank Limited,commercial_bank,commercial_bank,0.95,curated match: Alliance Bank — joint-stock bank,"[""alliance bank""]",False
+Andrew Jackson & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Andy Gibbs & Sons,individual_or_partnership,merchant_bank,0.55,"short bare name, no firm suffix",[],True
+Anglo Austrian Bank,individual_or_partnership,commercial_bank,0.55,"short bare name, no firm suffix",[],True
+Anglo Egyptian Bank Limited,commercial_bank,commercial_bank,0.9,"matched rules: commercial_bank, industrial_or_corporate","[""Bank Limited"", ""joint-stock company suffix""]",False
+Anglo Italian Bank Limited,commercial_bank,commercial_bank,0.9,"matched rules: commercial_bank, industrial_or_corporate","[""Bank Limited"", ""joint-stock company suffix""]",False
+Anglo South American Bank Ltd,commercial_bank,commercial_bank,0.9,"matched rules: commercial_bank, industrial_or_corporate","[""Bank Limited"", ""joint-stock company suffix""]",False
+Angus Mackenzie,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Arbuthnot Latham Co,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Arluthrot Ewart & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Arthur & Co Ltd,industrial_or_corporate,merchant,0.3,matched rules: industrial_or_corporate,"[""joint-stock company suffix""]",False
+Ashby Morris Ltd,industrial_or_corporate,merchant,0.3,matched rules: industrial_or_corporate,"[""joint-stock company suffix""]",False
+Ashton & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Atfu Heseundes & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Aug: Wehmer,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Aviesim & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+B Elkin & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+B Halberth & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+B L Lomant,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+B S & J Phillips & Co,unknown,merchant,0.0,no rule matched,[],True
+B Salomons & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+B Simon & A Jacoby,unknown,other,0.0,no rule matched,[],True
+B T Laveo & Co,unknown,merchant,0.0,no rule matched,[],True
+B. C. T. Gray & Son,unknown,other,0.0,no rule matched,[],True
+B. De Castro & Co,unknown,merchant,0.0,no rule matched,[],True
+B. Jubini & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+B. Tucker & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+B. W .Blydenstein & Co,unknown,merchant,0.0,no rule matched,[],True
+"Bagallay, Westall & Spence",individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Bailey & Co To Afe Of Bailey,unknown,merchant,0.0,no rule matched,[],True
+Bailey Pegg & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Baker Duncombe & Co Ltd,industrial_or_corporate,merchant,0.3,matched rules: industrial_or_corporate,"[""joint-stock company suffix""]",False
+Balls Garrett,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Baltazzi Sons & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Banca Commerciale Italiana,commercial_bank,other,0.5,matched rules: commercial_bank,"[""commercial""]",False
+Banca De Espana,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Bandier Tobias & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Banffo & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Bank Of Australasia,commercial_bank,commercial_bank,0.7,matched rules: commercial_bank,"[""Bank of \u2026""]",False
+Bank Of British West Africa Ltd,commercial_bank,commercial_bank,0.95,"matched rules: commercial_bank, industrial_or_corporate","[""Bank Limited"", ""Bank of \u2026"", ""joint-stock company suffix""]",False
+Bank Of Hindustan Limited,commercial_bank,commercial_bank,0.95,curated match: Bank of Hindustan — Anglo-Indian,"[""bank of hindustan""]",False
+Bank Of Ireland,commercial_bank,commercial_bank,0.7,matched rules: commercial_bank,"[""Bank of \u2026""]",False
+Bank Of London Limited,commercial_bank,commercial_bank,0.95,curated match: Bank of London Limited,"[""bank of london""]",False
+Bank Of Madras,commercial_bank,commercial_bank,0.95,curated match: Bank of Madras — colonial presidency bank,"[""bank of madras""]",False
+Bank Of Montreal,commercial_bank,commercial_bank,0.7,matched rules: commercial_bank,"[""Bank of \u2026""]",False
+Bank Of New South Wales,commercial_bank,commercial_bank,0.7,matched rules: commercial_bank,"[""Bank of \u2026""]",False
+Bank Of Scotland,commercial_bank,commercial_bank,0.7,matched rules: commercial_bank,"[""Bank of \u2026""]",False
+Banque Belge,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Barclay & Co Ltd,commercial_bank,merchant,0.95,curated match: Barclay & Co — joint-stock bank (incorporated 1896),"[""barclay""]",False
+Bardburg & Cook,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Bardgett & Picard,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Barff & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Baring Brothers & Co,merchant_bank,merchant_bank,0.95,curated match: Baring Brothers & Co — merchant bank (the firm rescued in 1890),"[""baring""]",False
+"Barker, Benwell & Co.",individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Barnard & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Barnett & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Barnetts Hoare & Co On Account Of The Clydesdale Banking Company,unknown,commercial_bank,0.0,no rule matched,[],True
+Barry & Nephews,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Bateman & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Battley & Butler,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+"Bauley, Pegg & Co",individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Bautcher Baltimore,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+"Bayliss, Jones & Bayliss",individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Bco & Del Rio De La Hala,unknown,merchant,0.0,no rule matched,[],True
+Beaudsell & Jackson,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Beauvaisen + Leannard,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Bedell Prior & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Beith Stevenson & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Beiy Riley,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Bell & Grant,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Bennison & Lennard,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Bennison Lermard,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+"Bennoch, Twentyman & Rigg",individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Benoliel Brothers,merchant_trading_firm,other,0.4,matched rules: merchant_trading_firm,"[""family firm pattern""]",False
+Beo Befand Del Rio Co,unknown,other,0.0,no rule matched,[],True
+Bernard Elliot,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Beverington Norris,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Bevington & Morris,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Bevingtons & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Bheonutt Booper & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Bhimsey Sewjee & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Bicken & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+"Bidgood, Jones & Wilson",individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Bidgorddons & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Bieber & Co.,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Bier & Partner,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Bischoffsheim & Goldschmidt,merchant_bank,merchant_bank,0.95,curated match: Bischoffsheim & Goldschmidt — Anglo-German merchant bank,"[""bischoffsheim""]",False
+Bl Leman,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Blogg & Martin,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Blogg Vellantini,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Blyth Greene Jourdain Co Ld,unknown,merchant,0.0,no rule matched,[],True
+Bomanjee Framjee Cama & Co,unknown,merchant,0.0,no rule matched,[],True
+Bordier Fabris & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Borneo Co Ltd,industrial_or_corporate,merchant,0.3,matched rules: industrial_or_corporate,"[""joint-stock company suffix""]",False
+Borrowman Phillipps & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Boutcher Mortimore & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Bowes Game & Moren,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Boysin Hoyer Tagart,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Bradbury & Cook,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Bradbury Greatorex & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Bridgewater Jones & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Brien & Parker,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Brightwen Gillet & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+British Bank Of Foreign Trade Ltd,commercial_bank,commercial_bank,0.95,"matched rules: commercial_bank, industrial_or_corporate, merchant_trading_firm","[""Bank Limited"", ""Bank of \u2026"", ""joint-stock company suffix"", ""trading""]",False
+British Bank Of North America Ltd,commercial_bank,commercial_bank,0.95,"matched rules: commercial_bank, industrial_or_corporate","[""Bank Limited"", ""Bank of \u2026"", ""joint-stock company suffix""]",False
+British Honduras Coy Limited,industrial_or_corporate,merchant,0.3,matched rules: industrial_or_corporate,"[""joint-stock company suffix""]",False
+Britsh Linen Bank,individual_or_partnership,commercial_bank,0.55,"short bare name, no firm suffix",[],True
+Broadwood & Barclay,commercial_bank,other,0.95,curated match: Barclay & Co — joint-stock bank (incorporated 1896),"[""barclay""]",False
+Brockelbank & Rolt,individual_or_partnership,commercial_bank,0.55,"short bare name, no firm suffix",[],True
+Brown & Laws,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Brown Davis & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Brown Shipley & Co,merchant_bank,merchant,0.95,"curated match: Brown, Shipley & Co — Anglo-American merchant bank","[""brown shipley""]",False
+Browning Wood & Fox,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Bruce Wilkinson & Co,bill_broker,merchant,0.95,"curated match: Bruce, Wilkinson & Co — bill brokers","[""bruce wilkinson""]",False
+Buckler Woolbright,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Bucknell & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Burr Brother & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Butterworth & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Byass & Son,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Byfield & Richards,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+C & S Grimmrade,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+C A Jonas & Co,unknown,merchant,0.0,no rule matched,[],True
+C C Williams,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+C David & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+C E Fireman,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+C Faintling,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+C Fauntleroy,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+C H Olivier,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+C Henry,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+C I Hambro & Son,merchant_bank,other,0.95,curated match: C. J. Hambro & Son — Anglo-Danish merchant bank,"[""hambro""]",False
+C Jamtterey,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+C Leary & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+C Sutherland & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+C Tauntlory,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+C Tottie & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+C Walton & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+C. & C. I. Coles,unknown,other,0.0,no rule matched,[],True
+C. Bailey,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+C. Candy & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+C. E. Heinke,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+C. H. Noble,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+C. Lloyd & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Calchesters & Woolman,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+"Caldecott, Sons & Willcocks",individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Cama & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Canadian Bank Of Commerce,commercial_bank,commercial_bank,0.75,matched rules: commercial_bank,"[""Bank of \u2026"", ""commercial""]",False
+Capital & Counties Bank Ltd,commercial_bank,commercial_bank,0.9,"matched rules: commercial_bank, industrial_or_corporate","[""Bank Limited"", ""joint-stock company suffix""]",False
+Carlthian & Corbierie,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Carneille David & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Carr & Hoare,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Carvalho Brother & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Cash + Ledgard,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Castelli Brothers,merchant_trading_firm,other,0.4,matched rules: merchant_trading_firm,"[""family firm pattern""]",False
+Cater Greenwell & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Cavan Brothers & Co,merchant_trading_firm,merchant,0.4,matched rules: merchant_trading_firm,"[""family firm pattern""]",False
+Cha Heinery,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Chaffey & Son,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Charles & Fox,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Charles & Jof,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Charles Hemery,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Charles Hoare Co,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Charles Rayne,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+"Chartered Bank Of India, Austrailia & China",commercial_bank,commercial_bank,0.95,"curated match: Chartered Bank of India, Australia & China","[""chartered bank""]",False
+Chartered Merchant Bank Of India Limited,commercial_bank,commercial_bank,0.95,"matched rules: commercial_bank, industrial_or_corporate, merchant_trading_firm","[""Bank Limited"", ""Bank of \u2026"", ""joint-stock company suffix"", ""merchants""]",False
+Chas Belier,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Chas Watton & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Chesnutt Cooper Co,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Child & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Chilian Gout,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Church Son & Stubbs,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Churchill & Sim,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Cj Hamlin & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Cj Howell & Son,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Clairmonte Brothers,merchant_trading_firm,other,0.4,matched rules: merchant_trading_firm,"[""family firm pattern""]",False
+Clawfow Coloui & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Clement Dresser,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Clode & Baker,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Closley Vepher & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Clydesdale Bank Ltd,commercial_bank,commercial_bank,0.9,"matched rules: commercial_bank, industrial_or_corporate","[""Bank Limited"", ""joint-stock company suffix""]",False
+Cocker Biddulph & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Colchesters & Woolner,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Cole Nichols & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Colonial Company Limited,industrial_or_corporate,merchant,0.3,matched rules: industrial_or_corporate,"[""joint-stock company suffix""]",False
+Commercial Bank Of Scotland Ltd,commercial_bank,commercial_bank,0.95,"matched rules: commercial_bank, industrial_or_corporate","[""Bank Limited"", ""Bank of \u2026"", ""commercial"", ""joint-stock company suffix""]",False
+Commercial Banking Co. Of Of Sydney Ltd,commercial_bank,commercial_bank,0.55,"matched rules: commercial_bank, industrial_or_corporate","[""commercial"", ""joint-stock company suffix""]",True
+Commonwealth Bk Of Australia,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Comptoir National D'Escompte De Paris,unknown,other,0.0,no rule matched,[],True
+Consolidated Bank Limited,commercial_bank,commercial_bank,0.9,"matched rules: commercial_bank, industrial_or_corporate","[""Bank Limited"", ""joint-stock company suffix""]",False
+Consolidated Discount Co Limited,discount_house,discount_house,0.9,"matched rules: discount_house, industrial_or_corporate","[""discount house"", ""joint-stock company suffix""]",False
+Conway Phelps & Hayward,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Cook Sons & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+"Copestake Moore, Crampton & Co",unknown,merchant,0.0,no rule matched,[],True
+Cotesworth & Powell,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Coulon & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Coutts & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Coventry Sheppard & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Cox Heisch & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Crawshay Bailey,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Credit Lyonnais Per Glyn Mills Currie,merchant_bank,other,0.95,"curated match: Glyn, Mills & Co — private bank operating in the City","[""glyn mills""]",False
+Credito Italiano,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Cripps & Starkey,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+"Crocker, Sons & Turner",individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Crowe Christian & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Crowns Agents For Colonies,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Crowsley Bailey,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Cuadra Romero,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Culverwell Brooks Co,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Cunliffe Bros,merchant_trading_firm,merchant,0.4,matched rules: merchant_trading_firm,"[""family firm pattern""]",False
+Cunliffes & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Curteis Whitworth & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Cutler & Barker,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+D & T J Warren,unknown,other,0.0,no rule matched,[],True
+D Drakeford & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+D H Bushell,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+D Lloyd,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+D T Morgan,merchant_bank,merchant_bank,0.95,"curated match: J. P. Morgan / Morgan, Grenfell — Anglo-American merchant bank","[""morgan""]",False
+D Taylor & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+D. D. Cama & Co,unknown,merchant,0.0,no rule matched,[],True
+D. E. Power,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+D.Sasson Co Ltd,industrial_or_corporate,merchant,0.3,matched rules: industrial_or_corporate,"[""joint-stock company suffix""]",False
+Da Costa & Kiell,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Dadabhai Naoroji & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+"Dae La Rue Thomas, & Co",unknown,merchant,0.0,no rule matched,[],True
+Daniel Hawkins,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Daniell Cafenove & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Daniell Dickinson & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Darent & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+"Davey, Thompson & Alder",individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+David Evans & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+David Kidd & Son,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+David Lloyd & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+David Sasson & Co Ld,unknown,merchant,0.0,no rule matched,[],True
+David Taylor & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Dawson Campbell & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Dawson Worth,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+De Jersey & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Delhi & London Bank Ltd,commercial_bank,commercial_bank,0.9,"matched rules: commercial_bank, industrial_or_corporate","[""Bank Limited"", ""joint-stock company suffix""]",False
+"Dennistoun, Cross & Co",individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Deutsche Bank,individual_or_partnership,commercial_bank,0.55,"short bare name, no firm suffix",[],True
+Dimsdale & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Dinsdale Drewell & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Direction Der Discounts,individual_or_partnership,discount_house,0.55,"short bare name, no firm suffix",[],True
+Discount Corporation Limited,discount_house,discount_house,0.95,curated match: Discount Corporation Limited,"[""discount corporation""]",False
+Do,unknown,other,0.0,no rule matched,[],True
+Dominion Bank,individual_or_partnership,commercial_bank,0.55,"short bare name, no firm suffix",[],True
+Donaldson Lambert & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+"Drake, Kleinwort & Cohen",merchant_bank,merchant_bank,0.95,curated match: Kleinwort Sons & Co — merchant bank,"[""kleinwort""]",False
+Draper Pietroni & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Dresdner Bank,individual_or_partnership,commercial_bank,0.55,"short bare name, no firm suffix",[],True
+Dudgeon & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Dufay & Isnard,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+"Dunbar, Dicksons & Co",individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Duncan Fox & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Durant & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Dwindale & Ho,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+E & A Prior,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+E Beach Frn & Rep,unknown,other,0.0,no rule matched,[],True
+E Bernouilli,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+E Downs & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+E Girdham & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+E H Brandts Son & Co,unknown,merchant,0.0,no rule matched,[],True
+E J Cole,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+E Mansell + Ga Ellie & Co,unknown,merchant,0.0,no rule matched,[],True
+E Sheldon & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+E Sieveking & Son,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+E. & I. Vickers & Co,unknown,merchant,0.0,no rule matched,[],True
+E. B. Meyes,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+E. C. M Da Costa,unknown,other,0.0,no rule matched,[],True
+E. F. Oelricks & Co,unknown,merchant,0.0,no rule matched,[],True
+E. H. Keeling & Son,unknown,other,0.0,no rule matched,[],True
+E. Higgin & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+E. Lloyd & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+E. Tetley & Son,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+E.Pandorf,unknown,other,0.0,no rule matched,[],True
+Eady & Paris,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Eastern Amos & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Eastern Bank Ltd,commercial_bank,commercial_bank,0.9,"matched rules: commercial_bank, industrial_or_corporate","[""Bank Limited"", ""joint-stock company suffix""]",False
+Ebbie Vale Co & Robbinson,unknown,merchant,0.0,no rule matched,[],True
+Edward Corry,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Edward Erolty & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Edward Higgin & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Edward Liddell Manager Of The Sheffield Union Banking Company,unknown,commercial_bank,0.0,no rule matched,[],True
+Edward Luckie,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Edward Sparkhall,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Edwards Eastty & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Edwards Matthie,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Egyptian Commercial Trading Coy,merchant_trading_firm,merchant,0.6,"matched rules: commercial_bank, merchant_trading_firm","[""commercial"", ""trading""]",True
+Egyptian Tubale Acct,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Ehrmann Bros,merchant_trading_firm,merchant,0.4,matched rules: merchant_trading_firm,"[""family firm pattern""]",False
+Elder Stevens & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Elias & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Ellis Everington & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+"Ellis, Howell & Co",individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+English & Swedish Bank Limited,commercial_bank,commercial_bank,0.9,"matched rules: commercial_bank, industrial_or_corporate","[""Bank Limited"", ""joint-stock company suffix""]",False
+English Joint & Stock Bank Limited,commercial_bank,commercial_bank,0.9,"matched rules: commercial_bank, industrial_or_corporate","[""Bank Limited"", ""joint-stock company suffix""]",False
+English Scottish & Australian Bank Limited,commercial_bank,commercial_bank,0.9,"matched rules: commercial_bank, industrial_or_corporate","[""Bank Limited"", ""joint-stock company suffix""]",False
+Escourt & Stanley,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Esdaile & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+European Bank Limited,commercial_bank,commercial_bank,0.9,"matched rules: commercial_bank, industrial_or_corporate","[""Bank Limited"", ""joint-stock company suffix""]",False
+Ew Fernie,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Eyles Evans & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Eyre & Spottiswoode,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+F & E Godsell,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+F Calvert,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+F Castelli,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+F Ede Son & Noyes,unknown,other,0.0,no rule matched,[],True
+F Engelhardt,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+F Harrison & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+F Huth & Co,merchant_bank,merchant_bank,0.95,curated match: Frederick Huth & Co — Anglo-German merchant bank,"[""huth""]",False
+F J Montoya,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+F Le Breton,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+F Walter & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+F&A Delcomyn,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+F. Bennoch & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+F. Bowes & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+F. De Lizardi & Co,unknown,merchant,0.0,no rule matched,[],True
+F. Dunhill,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+F. Gade & Son,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+F. Horne & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+F. T. Elworthy,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+F.Elles Son,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+F.T. Barry,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Faudel & Phillips,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Favell Beddome & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Fecan Kerrison & Flanne,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Fenn Kemm & Fenn,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Feo Foss & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Field & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Finance Company Ld,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Fincham Matson Potts & Co,unknown,merchant,0.0,no rule matched,[],True
+Finlay Campbell & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+"Finlay, Hodgeson & Co",individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Fisher King & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Fishers & Robinson,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Fore Street Warehouse & Co Limited,industrial_or_corporate,merchant,0.3,matched rules: industrial_or_corporate,"[""joint-stock company suffix""]",False
+"Foster, Porter & Co",individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Fox & Thompson,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Foy Morgan & Co,merchant_bank,merchant_bank,0.95,"curated match: J. P. Morgan / Morgan, Grenfell — Anglo-American merchant bank","[""morgan""]",False
+Francis Ede Son & Co,unknown,merchant,0.0,no rule matched,[],True
+Francis Scott,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Frangopulo Agelasto Co,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Fred Fratt,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Frederick Dunhill,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Frederick Huth & Co,merchant_bank,merchant_bank,0.95,curated match: Frederick Huth & Co — Anglo-German merchant bank,"[""huth""]",False
+Frederick Sage,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Frederick Smee,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Frederick Youle,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Freinn Kennedy Percival (?),individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Frith Sands & Co,bill_broker,merchant,0.95,"curated match: Frith, Sands & Co — bill brokers prominent in 1866","[""frith sands""]",False
+Fruhling & Goschen,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Frullen Baubury & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Fw Caseus,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+G & I. A. Noble,unknown,other,0.0,no rule matched,[],True
+G & J Prince,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+G B Carr,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+G Costen,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+G E Mackieth,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+G Friend,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+G H & J F Wulff,unknown,other,0.0,no rule matched,[],True
+G Loder,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+G Peabody & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+G&R Dewhurst Ltd,industrial_or_corporate,merchant,0.3,matched rules: industrial_or_corporate,"[""joint-stock company suffix""]",False
+G. & S. Kiteat,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+G. Andreae & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+G. B. Yates & Son,unknown,other,0.0,no rule matched,[],True
+G. Credit & Finance Coy Limited,industrial_or_corporate,merchant,0.3,matched rules: industrial_or_corporate,"[""joint-stock company suffix""]",False
+G. Hitchcock Williams & Co,unknown,merchant,0.0,no rule matched,[],True
+G. Houghton & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+G. J Thompson,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+G. J. Smith For The Shropshire Banking Coy,unknown,commercial_bank,0.0,no rule matched,[],True
+G. Routledge & Sons Ld,unknown,other,0.0,no rule matched,[],True
+G.F. Neame Co,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+G.G. Sandeman Sons Co,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Gale & Frieud,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Gauge & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Gb Oyates & Son,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+"Gellatly, Hankey & Sewell",individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Gene Credit & Co Limited,industrial_or_corporate,merchant,0.3,matched rules: industrial_or_corporate,"[""joint-stock company suffix""]",False
+Geo Bretsle & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Geo Gibbs & Son,individual_or_partnership,merchant_bank,0.55,"short bare name, no firm suffix",[],True
+Geo Gore & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Geo Soanes & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Geo: Hitchcock W: H & Co,unknown,merchant,0.0,no rule matched,[],True
+George Brettle & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+George Cross & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+George Johnson & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+George Lawrence,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+George Peash,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+George Routledge & Son,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+George Smeed,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+George Walker,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+George Wyatt,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Gilbert Kerr & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Giles Loder,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Gillespie Churchill & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Gillett Bros & Co,bill_broker,merchant,0.95,curated match: Gillett Brothers — bill brokers,"[""gillett""]",False
+Gillson Cole & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+"Gilmour, Rankin, Strang & Co.",unknown,merchant,0.0,no rule matched,[],True
+Gladstone Ewart & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Gledstanes & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Glyn & Co O/A Union Bank Of Scotland,commercial_bank,commercial_bank,0.7,matched rules: commercial_bank,"[""Bank of \u2026""]",False
+Glyn Mills Currie,merchant_bank,other,0.95,"curated match: Glyn, Mills & Co — private bank operating in the City","[""glyn mills""]",False
+Gorton & Son,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Graham Tobias & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Green Humphry & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Greenwood & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Gresend & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+"Grierson, Cole & Co.",individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Grissell Brothers & Co,merchant_trading_firm,merchant,0.4,matched rules: merchant_trading_firm,"[""family firm pattern""]",False
+Grosscuth & Lubodlt,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Guaranty Trust Co Of New York,unknown,merchant,0.0,no rule matched,[],True
+Guillaume Coster,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Gunning & Duarell,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Gunning + Luarell,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Gust Roos & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+H & C Kent,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+H & D Sharpe,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+H & R Fowler,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+H + E Muggeridge,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+H B Downing,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+H Ballin & Son,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+H Bateman,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+H Bucknall & Sons Ltd,industrial_or_corporate,merchant,0.3,matched rules: industrial_or_corporate,"[""joint-stock company suffix""]",False
+H C & Cabe,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+H Cox & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+H Davies,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+H E + M Moses,unknown,other,0.0,no rule matched,[],True
+H H Lindsay,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+H Hillby & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+H Hoffmann,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+H Huith,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+H J Einthoven & Sons,unknown,other,0.0,no rule matched,[],True
+H J Lias & Son,unknown,other,0.0,no rule matched,[],True
+H L & C Edwards & Co,unknown,merchant,0.0,no rule matched,[],True
+H Lancaster & Bull,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+H Lohnotamm,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+H P Rouquette & Co,unknown,merchant,0.0,no rule matched,[],True
+H Richard & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+H Sherwood Co,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+H Waithman & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+H White & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+H Williamns & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+H. & J. Johnson & Co,unknown,merchant,0.0,no rule matched,[],True
+H. A Joseph,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+H. Bath & Son,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+H. Butler & Son,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+H. Clarkson & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+H. D. Baleh,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+H. J. V. Greenway,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+"H. Rogess, Sons & Co",unknown,merchant,0.0,no rule matched,[],True
+H. S. Lefevre & Co,unknown,merchant,0.0,no rule matched,[],True
+H. T Morgan & Co,merchant_bank,merchant_bank,0.95,"curated match: J. P. Morgan / Morgan, Grenfell — Anglo-American merchant bank","[""morgan""]",False
+H. Thurburn,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+H. Varasseus,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+H. W. Eaton,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+H. W. Elder & Son,unknown,other,0.0,no rule matched,[],True
+H.C. Heut,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+H.Kohnstamm,unknown,other,0.0,no rule matched,[],True
+Haarbleichen Schumaum,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Haarbleicher Schumann,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Hall & Gray,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Hall & Nuttall,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+"Hanson, Smiths & Stephens",individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Hardcastle & Co.,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Harley Nephew & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Harper Burne & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Harryman & White,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Hartman & Mallet,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Harvey & Hudsons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Harvey Stambridge,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Harwood Knight & Allen,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Hatimal Discount Co Ltd,discount_house,discount_house,0.9,"matched rules: discount_house, industrial_or_corporate","[""discount house"", ""joint-stock company suffix""]",False
+Hatsman & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Havenith & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Hawes Stanbridge & Hedley,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Haycroft & Pethick,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+"Heilbut, Symons & Co",individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Heitz & Deveze,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Hellertwaag Russel,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Hen Geoff,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Henckell Du Buisson & Co,unknown,merchant,0.0,no rule matched,[],True
+Henderson & Constable,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Henry Clarke & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Henry Cowell,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Henry Dresser & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Henry Joachim,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Henry Kendall & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Henry Moul,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Henry Powell & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Heugh Balfour & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Heywood & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Hicks Baylis & Hicks,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Higgins Eagle & Hutchinson,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Higginson & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Hindley Co,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Hinkpatrick & Belguy,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Hinton Brothers & Co,merchant_trading_firm,merchant,0.4,matched rules: merchant_trading_firm,"[""family firm pattern""]",False
+Hit Dellators,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Hl Crohn,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Hoare Buxton & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Hocking Hitchock & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Hoge & Williamson,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Hohler & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Hoine Wahney,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Hong Kong & Shanghai Banking Corporation,commercial_bank,commercial_bank,0.95,curated match: Hongkong and Shanghai Banking Corporation,"[""hong kong""]",False
+Hood & Ward,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Hop Planters Joint Stock Company,commercial_bank,other,0.8,matched rules: commercial_bank,"[""joint-stock""]",False
+Hore + Gifford,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Horne & Watney,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Horstman & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Hoston Megaw Co Ltd,industrial_or_corporate,merchant,0.3,matched rules: industrial_or_corporate,"[""joint-stock company suffix""]",False
+Howse & Mead,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Hugh Jones & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Hy Rogers Sons & Co,unknown,merchant,0.0,no rule matched,[],True
+Hy Sherwood & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Hyde Hodge & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+I & E Corderoy & Co,unknown,merchant,0.0,no rule matched,[],True
+I B W Nevill & Co,unknown,merchant,0.0,no rule matched,[],True
+I Isaacs,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+I T W Noakes,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+I. & B. Pearse & Co,unknown,merchant,0.0,no rule matched,[],True
+I. Ciw Thaw & Co,unknown,merchant,0.0,no rule matched,[],True
+I. E. Coleman,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+I. F. Pawson & Co,unknown,merchant,0.0,no rule matched,[],True
+I. K. Gilliat & Co,unknown,merchant,0.0,no rule matched,[],True
+I. Leonino & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+I. W. Cater Inman & Co,unknown,merchant,0.0,no rule matched,[],True
+I. W. Cripps,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+I. W. Horsley,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+I.H.H. Holm,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Imp Merchant Credit Australia,merchant_trading_firm,other,0.7,matched rules: merchant_trading_firm,"[""merchants""]",False
+Imp. Ottoman Government,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Imperial Ottoman Bank,individual_or_partnership,commercial_bank,0.55,"short bare name, no firm suffix",[],True
+Inglis & Wakefield,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+International Banking Corporation,commercial_bank,commercial_bank,0.95,curated match: National Bank Limited,"[""national bank""]",False
+It Tixcsen & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+"Iwing, Ebsworth & Holmes",individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+J & A Crocker,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+J & B Peade & Co,unknown,merchant,0.0,no rule matched,[],True
+J & I Batten & Co,unknown,merchant,0.0,no rule matched,[],True
+J & J Vickers & Co,unknown,merchant,0.0,no rule matched,[],True
+J & R Morley,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+J & T Hepburn & Sons,unknown,other,0.0,no rule matched,[],True
+J & W J Courtenay,unknown,other,0.0,no rule matched,[],True
+J & W Rider,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+J Bischoff & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+J Bulk Son & Co,unknown,merchant,0.0,no rule matched,[],True
+J Butt Son & Co,unknown,merchant,0.0,no rule matched,[],True
+J C Bailey,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+J Carter & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+J Collinson,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+J D Park,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+J Davidge,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+J Davies & Son,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+J Dowson & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+J E Ford,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+J F Fixsen & Co,unknown,merchant,0.0,no rule matched,[],True
+J Foot & Son,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+J H Dart,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+J H N Loundes & Co,unknown,merchant,0.0,no rule matched,[],True
+J H Randall,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+J H Schroder & Co,merchant_bank,merchant_bank,0.95,curated match: J. Henry Schroder & Co — German-origin merchant bank,"[""schroder""]",False
+J Hart & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+J Hartley & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+J Hash & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+J J Buttress,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+J Jackson & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+J Jacobson & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+J L Lemme & Co,unknown,merchant,0.0,no rule matched,[],True
+J L Lensome & Co,unknown,merchant,0.0,no rule matched,[],True
+J Leonino & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+J Main Sons & Co,unknown,merchant,0.0,no rule matched,[],True
+J Maurenbrecher & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+J P Bunt & Co,unknown,merchant,0.0,no rule matched,[],True
+J R Thomason & Co,unknown,merchant,0.0,no rule matched,[],True
+J Samalvier,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+J Simpson,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+J W Gibbon,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+J. & C. Boyd & Co,unknown,merchant,0.0,no rule matched,[],True
+J. B Thompson,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+J. B. Elin,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+J. B. Elvis,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+J. B. Minshall,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+J. Ballauce & Son,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+J. Bennock & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+J. C. Im Thurm & Co,unknown,merchant,0.0,no rule matched,[],True
+J. D. Dow,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+J. Defries & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+J. G. Buskin,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+J. G. Homere,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+J. Gaury & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+J. H Boobyer & Co,unknown,merchant,0.0,no rule matched,[],True
+J. H. Dant,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+J. H. Mackenzie,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+J. H. Rudall & Son,unknown,other,0.0,no rule matched,[],True
+J. Hubbard & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+J. Hughes & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+J. Kynaston & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+J. L. Minel,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+J. M. Buston,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+J. Mosenthal & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+J. O. Beetron,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+J. P. Thol & Co,unknown,merchant,0.0,no rule matched,[],True
+J. R. Jaffray & Co,unknown,merchant,0.0,no rule matched,[],True
+J. S. Morgan & Co,merchant_bank,merchant_bank,0.95,"curated match: J. P. Morgan / Morgan, Grenfell — Anglo-American merchant bank","[""morgan""]",False
+J. Samuel & Emmanuel,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+J. Tenny Clarke & Co,unknown,merchant,0.0,no rule matched,[],True
+J. W Laird,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+J. Young Ehlers & Co,unknown,merchant,0.0,no rule matched,[],True
+J.Greenich & Sons Ld,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+J.R Belltman,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Ja Bull Sons Co,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Jacob Isaac,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Jacob Walter & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+"Jacomb, Hogg & Co",individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+James & Brown,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+James Anderson & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+James Barber & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+James Bult Son & Co,unknown,merchant,0.0,no rule matched,[],True
+James Burness & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+James Consens,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+James Cook & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+James Coster & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+James Davidge,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+James Dickson,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+James Duncan & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+James Fowa,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+James Lang,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+James Laurence,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+James Matthews & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+James Mills,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+James Mullins & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+James Norris,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+James Pin & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+James Scott & Son,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+James Shears & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+James Spicer & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+James Steains & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+James Still & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+James Watt & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+James Wiseman,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Jellicoe & Wix,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Jersey Banking Coy,individual_or_partnership,commercial_bank,0.55,"short bare name, no firm suffix",[],True
+Jh Macku,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Joane Jackson & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+John Anderson & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+John Armitage & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+John Barelli & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+John Bill Dresser & Co,unknown,merchant,0.0,no rule matched,[],True
+John Boy & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+John Boyd,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+John Courtenay,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+John Crossley & Sons Limited,industrial_or_corporate,merchant,0.3,matched rules: industrial_or_corporate,"[""joint-stock company suffix""]",False
+John Currie & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+John Feltham & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+John Fore & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+John Getting,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+John Gladding & Son,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+John Gladstone & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+John Goie & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+John H Barbe,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+John Halles,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+John Harbottle,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+John Haurie Nephew,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+John Hubbard & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+John Hugher & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+John Macfrige,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+John Mair Son & Co,unknown,merchant,0.0,no rule matched,[],True
+John Montefiore & Son,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+John Pickessgill & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+John Pirie & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+John Ranking & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+John Rapp & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+John Reay Sons & Co,unknown,merchant,0.0,no rule matched,[],True
+John Riaff Sons & Co,unknown,merchant,0.0,no rule matched,[],True
+John S Baike,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+John Schneider & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+John Schwartz,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+John Sharp,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+John Simmonds,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+John Smith,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+John Tellham & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+John Torrance,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+John Walker,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+John Williams & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+John Young Ehlers & Co,unknown,merchant,0.0,no rule matched,[],True
+Joint Stock Discount Co Limited,discount_house,discount_house,0.95,"matched rules: commercial_bank, discount_house, industrial_or_corporate","[""discount house"", ""joint-stock"", ""joint-stock company suffix""]",False
+Jonas Simonsen & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Jones & Brown,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Jos. Bridgette & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Joseph Allard,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Joseph Anderson & Son,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Joseph Balfour,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Joseph Barwick,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Joseph Bridgett & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Joseph Callinson,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Joseph Gonalaie,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Joseph Jackson,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Joseph Leese,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Joseph Richard,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Joseph Samalivies,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Joseph Tetley & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Joseph Traves & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Josh Anderson,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Josh Robinson + Ebbie Vale Co,unknown,other,0.0,no rule matched,[],True
+Joshua Jornalvico,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Jp Thol & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Jr Browne,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Jroing Ellsworth & Adams,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Jt Docoson & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Jt Dow,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+"Judah, Hart & Co",individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Julius Jacoby,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Jw Silmer & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Keith Sands & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Kemp Stone & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Kerr & Scott,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+"Kess, Scott & Co",individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+King & Foa,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+King Melvil & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Kipling Pain & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Kleinwort Sons & Co,merchant_bank,merchant_bank,0.95,curated match: Kleinwort Sons & Co — merchant bank,"[""kleinwort""]",False
+Koebel Jameson & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Konig Bros,merchant_trading_firm,merchant,0.4,matched rules: merchant_trading_firm,"[""family firm pattern""]",False
+Kraeutler & Mieville,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Kraft Bros,merchant_trading_firm,merchant,0.4,matched rules: merchant_trading_firm,"[""family firm pattern""]",False
+L Bisset & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+L Bunn & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+L Busson & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+L Cohen,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+L Engstrom Neame & Co,unknown,merchant,0.0,no rule matched,[],True
+L&A Brown,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+L. Brusewitz,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+L. Engstrom Browning & Co,unknown,merchant,0.0,no rule matched,[],True
+"L. Goddard, Finch & Co",unknown,merchant,0.0,no rule matched,[],True
+L. Hart & Son,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+L.Boy.W.Bk Bk Chas Comiys Co,unknown,other,0.0,no rule matched,[],True
+Langton + Robinson,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Lanthe Buhnell,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Lapton Hootond & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Lascaridi & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Lat Discount Co Lo,discount_house,discount_house,0.85,matched rules: discount_house,"[""discount house""]",False
+Leaf Sons & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Lemon Hart & Son,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Lengerke Caesar,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Leonon Hart & Son,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Lester & Buskin,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Lewells + Nick,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Lister & Biggs,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Lloyd & Attree,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Lloyd'S Bank Ltd,commercial_bank,commercial_bank,0.9,"matched rules: commercial_bank, industrial_or_corporate","[""Bank Limited"", ""joint-stock company suffix""]",False
+Locke Lanccaster W W R Johnson Sons Ltd,industrial_or_corporate,merchant,0.3,matched rules: industrial_or_corporate,"[""joint-stock company suffix""]",False
+"Locke, Crosier & Edwards",individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+"Lockie, Crosier & Edwards",individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Lom Bunudti Soms & Co,unknown,merchant,0.0,no rule matched,[],True
+Lon Hanseatic Bk Ld,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Lon Jt Stock Bk,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Lon Lpool Bk Of Comce,unknown,other,0.0,no rule matched,[],True
+Lon Provincial Bk,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Lon S.Western Bk,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Lon: Asiatic & American Coy Limited,industrial_or_corporate,merchant,0.3,matched rules: industrial_or_corporate,"[""joint-stock company suffix""]",False
+Lon: River Plate Bank Limited,commercial_bank,commercial_bank,0.9,"matched rules: commercial_bank, industrial_or_corporate","[""Bank Limited"", ""joint-stock company suffix""]",False
+London & Liverpool Bank Of Commerce Ltd,commercial_bank,commercial_bank,0.95,"matched rules: commercial_bank, industrial_or_corporate","[""Bank Limited"", ""Bank of \u2026"", ""commercial"", ""joint-stock company suffix""]",False
+London & Venezuela Bank Limited,commercial_bank,commercial_bank,0.9,"matched rules: commercial_bank, industrial_or_corporate","[""Bank Limited"", ""joint-stock company suffix""]",False
+London Bank Of Australia Ltd,commercial_bank,commercial_bank,0.95,"matched rules: commercial_bank, industrial_or_corporate","[""Bank Limited"", ""Bank of \u2026"", ""joint-stock company suffix""]",False
+London County Bank For The Midland Bank,commercial_bank,commercial_bank,0.95,curated match: London and County Bank,"[""london county bank""]",False
+London Discount Corporation,discount_house,discount_house,0.95,curated match: London Discount Corporation — late-19th-c discount house,"[""london discount""]",False
+London Missionary Soc,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+London River Place Bank Limited,commercial_bank,commercial_bank,0.9,"matched rules: commercial_bank, industrial_or_corporate","[""Bank Limited"", ""joint-stock company suffix""]",False
+London S N Coy Limited,industrial_or_corporate,merchant,0.3,matched rules: industrial_or_corporate,"[""joint-stock company suffix""]",False
+London Westminister Bank,individual_or_partnership,commercial_bank,0.55,"short bare name, no firm suffix",[],True
+Louis Cohen,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Loveing & Minton,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Lroving Ebsworth & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Luckie Brothers & Co,merchant_trading_firm,merchant,0.4,matched rules: merchant_trading_firm,"[""family firm pattern""]",False
+Lupton Hooton & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Lurek Barelay,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Lut & George,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Lutgens & Ripley,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Lyon & Lucker,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+M Da Costa + I. E. Coleman,unknown,other,0.0,no rule matched,[],True
+M F Mackenzie,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+M Levin & Adler,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+M. Mayer & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+M. Z. Just & Co,unknown,merchant,0.0,no rule matched,[],True
+"Mac Intyre, Buchanan & Co",unknown,merchant,0.0,no rule matched,[],True
+"Mackinlay, Reuss & Co",individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Mae Jontque Buchanan & Co,unknown,merchant,0.0,no rule matched,[],True
+Manchester & Liverpool District Bkg Co Ltd,industrial_or_corporate,merchant,0.3,matched rules: industrial_or_corporate,"[""joint-stock company suffix""]",False
+Mangles Brothers,merchant_trading_firm,other,0.4,matched rules: merchant_trading_firm,"[""family firm pattern""]",False
+Marshall Page & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Martin'S Bank Ltd,commercial_bank,commercial_bank,0.9,"matched rules: commercial_bank, industrial_or_corporate","[""Bank Limited"", ""joint-stock company suffix""]",False
+Mary Burton,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Matthew Brothers,merchant_trading_firm,other,0.4,matched rules: merchant_trading_firm,"[""family firm pattern""]",False
+Mccalmont Brothers & Co,merchant_trading_firm,merchant,0.4,matched rules: merchant_trading_firm,"[""family firm pattern""]",False
+"Meares, Absolom & Co",individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Melhuish Sons & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Mercantile Bank Of India Ltd,commercial_bank,commercial_bank,0.95,"matched rules: commercial_bank, industrial_or_corporate","[""Bank Limited"", ""Bank of \u2026"", ""joint-stock company suffix""]",False
+Merchant Bank & Co Limited,commercial_bank,commercial_bank,0.95,"matched rules: commercial_bank, industrial_or_corporate, merchant_trading_firm","[""Bank Limited"", ""joint-stock company suffix"", ""merchants""]",False
+Messrs Berkefeld,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Metrop Provincial Bank Limited,commercial_bank,commercial_bank,0.9,"matched rules: commercial_bank, industrial_or_corporate","[""Bank Limited"", ""joint-stock company suffix""]",False
+Middleton Answorth & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Mildred Goyeneche & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Miles Brother & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Miller & Potter,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Mitchell Yeames & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Mme Cherry Co,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Mody & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Morgan Yellibrand & Co,merchant_bank,merchant_bank,0.95,"curated match: J. P. Morgan / Morgan, Grenfell — Anglo-American merchant bank","[""morgan""]",False
+Moris Ashby Ltd,industrial_or_corporate,merchant,0.3,matched rules: industrial_or_corporate,"[""joint-stock company suffix""]",False
+Morlet + Horne,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Morley & Powell,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Morley Nephew & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Morrison Dillon & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Moses Brothers,merchant_trading_firm,other,0.4,matched rules: merchant_trading_firm,"[""family firm pattern""]",False
+Mullens Marshall & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+N Cohen,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+N Fisher & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+N Garrett & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+N Nicholls & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+N. C. Frank & Sons,unknown,other,0.0,no rule matched,[],True
+N. Ganuap,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+N. H + A Scott,unknown,other,0.0,no rule matched,[],True
+N. H. Pantridge & Co,unknown,merchant,0.0,no rule matched,[],True
+N. M. Rothschild & Sons,merchant_bank,merchant_bank,0.95,curated match: N. M. Rothschild & Sons — merchant banking dynasty,"[""rothschild""]",False
+Nara Matu,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Nate Linds,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Nathaniel Cohen,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+National Bank Of Australasia,commercial_bank,commercial_bank,0.95,curated match: National Bank Limited,"[""national bank""]",False
+National Bank Of India Ltd,commercial_bank,commercial_bank,0.95,curated match: National Bank Limited,"[""national bank""]",False
+National Bank Of New Zealand,commercial_bank,commercial_bank,0.95,curated match: National Bank Limited,"[""national bank""]",False
+National Bank Of Scotland,commercial_bank,commercial_bank,0.95,curated match: National Bank Limited,"[""national bank""]",False
+National Discount Co Of Limited,discount_house,discount_house,0.95,curated match: National Discount Company — major joint-stock discount house chartered 1856,"[""national discount""]",False
+National Provincial Bk Of England Ltd,commercial_bank,merchant,0.95,curated match: National Provincial Bank of England,"[""national provincial""]",False
+Natl Bk Of Africa Ltd,industrial_or_corporate,merchant,0.3,matched rules: industrial_or_corporate,"[""joint-stock company suffix""]",False
+Natl Bk Of Australasia,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Natl Bk Of Belgium,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Natl Bk Of England Ltd,industrial_or_corporate,merchant,0.3,matched rules: industrial_or_corporate,"[""joint-stock company suffix""]",False
+Natl Bk Of India Ltd,industrial_or_corporate,merchant,0.3,matched rules: industrial_or_corporate,"[""joint-stock company suffix""]",False
+Naylor Benyon Co Ld,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+"Naylor, Benzon & Co",individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Nesleukings Bus,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Nestle & Anglo Swiss C.Milk Co,unknown,other,0.0,no rule matched,[],True
+Nestle Andreae & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Neumann Lueback & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Neville Reid Prestwich & Co,unknown,merchant,0.0,no rule matched,[],True
+New Zealand Bank,individual_or_partnership,commercial_bank,0.55,"short bare name, no firm suffix",[],True
+New Zealand Loans Afe,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Newton B & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Nohler & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Norris & Chaplin,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Northumberland & Durham Coal Co,industrial_or_corporate,other,0.7,matched rules: industrial_or_corporate,"[""industrial commodity""]",False
+Norton Megaw & Co Ltd,industrial_or_corporate,merchant,0.3,matched rules: industrial_or_corporate,"[""joint-stock company suffix""]",False
+Novelli & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Nowoorjee Furdoonjee,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+O. Roberts & Son,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Oastler & Palmer,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Oliver & Carr,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Ollier & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Oriental Bank Corporation,commercial_bank,commercial_bank,0.95,curated match: Oriental Bank Corporation — colonial bank,"[""oriental bank""]",False
+Overend Gurney & Co,discount_house,merchant,0.95,"curated match: Overend, Gurney & Co. — the failed bill-broking firm; pre-1866 records and 1866-era counterparty","[""overend""]",False
+Owthwaite & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+P & C Van Notten & Co,unknown,merchant,0.0,no rule matched,[],True
+P Davey & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+P Grenfell & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+P Hava & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+P Howard,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+P J Meugsino,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+P Mordon & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+P T Ralli,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+P. Abraham,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+P. J. Morgan & Co,merchant_bank,merchant_bank,0.95,"curated match: J. P. Morgan / Morgan, Grenfell — Anglo-American merchant bank","[""morgan""]",False
+P. S. Galitti,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Page & Welch,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Palmer Mackillop Dent & Co,unknown,merchant,0.0,no rule matched,[],True
+Parker Son & Picktchef,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Parkinson & Dilchick,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Parner Sons & Pictoned,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Parr'S Bank Ltd,commercial_bank,commercial_bank,0.9,"matched rules: commercial_bank, industrial_or_corporate","[""Bank Limited"", ""joint-stock company suffix""]",False
+Pastre Brothers,merchant_trading_firm,other,0.4,matched rules: merchant_trading_firm,"[""family firm pattern""]",False
+Peek Brothers & Co,merchant_trading_firm,merchant,0.4,matched rules: merchant_trading_firm,"[""family firm pattern""]",False
+Perrott & Perrott,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Pesk Hooie,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Pesta Movie,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Peter Rolt & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Philip Levi & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Phillips Faithfull & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Phillips King & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Phirias Abraham,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Pike Leake & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Pinto Leite & Brothers,merchant_trading_firm,other,0.4,matched rules: merchant_trading_firm,"[""family firm pattern""]",False
+"Pinto Perez, Ashley & Co",unknown,merchant,0.0,no rule matched,[],True
+Pomsford Southall & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Poppleton Gibs & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+"Porter, Schlusser & Co",individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Poutus Kleman,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Price & Co For The Bedford,unknown,merchant,0.0,no rule matched,[],True
+Price & Pierce Ltd,industrial_or_corporate,merchant,0.3,matched rules: industrial_or_corporate,"[""joint-stock company suffix""]",False
+Price Coker & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Price'S Patent Candle Company Limited,industrial_or_corporate,merchant,0.3,matched rules: industrial_or_corporate,"[""joint-stock company suffix""]",False
+Priei Cohen & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Prier P Candle & Co,unknown,merchant,0.0,no rule matched,[],True
+"Prince, Ogg & Co",individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Prior Turner & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Pritchett & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Provincial Bank & Corp Limited,commercial_bank,commercial_bank,0.9,"matched rules: commercial_bank, industrial_or_corporate","[""Bank Limited"", ""joint-stock company suffix""]",False
+Ps Galatti,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Puget Bainbridges & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+"Puice, Coken & Co",individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Puito Perry & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Puzey Pallett & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+"Pye, Field & Tanqueray",individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+"Quenene, Furney & Co",individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+R & H Green,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+R & J Henderson,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+R + Paul,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+R + Rea & Co,unknown,merchant,0.0,no rule matched,[],True
+R Evans & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+R F & R Swift,unknown,other,0.0,no rule matched,[],True
+R Forte Swift,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+R Heine Semon & Co,unknown,merchant,0.0,no rule matched,[],True
+R J + R Swift,unknown,other,0.0,no rule matched,[],True
+R Lawes & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+R Rodger,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+R Smith & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+R Von Glehn,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+R W Kein & Co,unknown,merchant,0.0,no rule matched,[],True
+R&J Henderson,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+R. B. Byass,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+R. Cunliffe Son & Co,unknown,merchant,0.0,no rule matched,[],True
+R. Johnson & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+R. Raphael & Sons,merchant_bank,other,0.95,curated match: R. Raphael & Sons — merchant bank,"[""raphael""]",False
+R. W. Kennard & Co,unknown,merchant,0.0,no rule matched,[],True
+R. W. Starkey & Son,unknown,other,0.0,no rule matched,[],True
+Raff. Bascones,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Rainey Bruce & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Ralli & Mavrojani,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+"Randall, Wigan & Co",individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Randells & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Rawson Sons & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Rayner & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Redfern Alexander & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Rees Glammong & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Reeves Whitburn & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Rehder & Baldemann,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Rehdi & Baldermann,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Resta Moore,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Rhymney Iron & Co,industrial_or_corporate,merchant,0.7,matched rules: industrial_or_corporate,"[""industrial commodity""]",False
+Ricard Freiwald,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Richard Evans & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Richard Hooper & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Richard Johnson & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Richard Mitchell,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Richard Pearee,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Richard Poppleton,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Richard Walford & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Ricketts Boutcher & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Rob B Byass,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Robarts Lubbock Co,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Robert Adams,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Robert Badger,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Robert Benson & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Robert Bentley & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Robert Campbell,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Robert Christie & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Robert Froie,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Robert Lawes & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Robert Smith & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Robinson Fleming & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Robt Beattey & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Rodocanachi Sons & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Roger Cunliffe Son Co,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Rohinson Fleming & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+"Rose, Graham & Wilson",individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Ross & Ash,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Rowley & Davies,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Royal Bank Of Canada,commercial_bank,commercial_bank,0.7,matched rules: commercial_bank,"[""Bank of \u2026""]",False
+Royal Bank Of Scotland,commercial_bank,commercial_bank,0.7,matched rules: commercial_bank,"[""Bank of \u2026""]",False
+Rt Lowes & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Rt Saunders,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Ruck Fenwick & Ruck,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Rutherford Drury & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Ryder & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+S & J Peqq,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+S .Japhet Co,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+S A Hodgson,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+S A Moore & Others,unknown,other,0.0,no rule matched,[],True
+S Fafhet & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+S Reuter,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+S Stuart,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+S Swonnell & Son,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+S Vander Willigen,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+S. H. Lucas & Son,unknown,other,0.0,no rule matched,[],True
+S. Lewis & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+S. Northcote & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+S. Oppenheim & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+S. Rich,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+S. W. Silver & Co,unknown,merchant,0.0,no rule matched,[],True
+S.Barrow & Bro Ltd,industrial_or_corporate,merchant,0.3,matched rules: industrial_or_corporate,"[""joint-stock company suffix""]",False
+S.Bobree & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+S.Faphel & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+S.Montagu Co,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+S.N.Schroder & Co,merchant_bank,merchant_bank,0.95,curated match: J. Henry Schroder & Co — German-origin merchant bank,"[""schroder""]",False
+S.P. Framjee & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Sam Swownell & Son,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Same Hawkey & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Saml Dobree & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Saml.Barrow & Bro Ld,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Sampson Mitchell & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Samuel Courtaula & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Samuel Gibson,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Samuel Magnus,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Samuel Montagu & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Samuel Sadler,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Samuel Stone,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Samuel Strickland,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Sanderson & Murray,bill_broker,other,0.95,curated match: Sanderson & Co. — bill brokers,"[""sanderson""]",False
+"Sanderson Frys, Rigge & Co",bill_broker,merchant,0.95,curated match: Sanderson & Co. — bill brokers,"[""sanderson""]",False
+Sanderson Sandeman & Co,bill_broker,merchant,0.95,curated match: Sanderson & Co. — bill brokers,"[""sanderson""]",False
+Scheibler & Coenen,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Schilizzi & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Schrmann Bros,merchant_trading_firm,merchant,0.4,matched rules: merchant_trading_firm,"[""family firm pattern""]",False
+Schunck Souchay & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Schwaan & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Schwarm & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Secretan Campbell & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Serutton Sons & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Sevidet Mayer & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Sheppard Pelly & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Sheyer Bros,merchant_trading_firm,merchant,0.4,matched rules: merchant_trading_firm,"[""family firm pattern""]",False
+Shropshire Bank Coy ( To The Afe Of G. J. Smith ),commercial_bank,commercial_bank,0.7,matched rules: commercial_bank,"[""Bank of \u2026""]",False
+Sieveking Droop & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Sillem & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Simon & Carey,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Sims Willyams Nevill & Co,unknown,merchant,0.0,no rule matched,[],True
+Sinclair Hamilton & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Siondet Mayer & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Siordet Meyer & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Sivendell & Baukland,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Small & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Smellgrove & Leach,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Smith & Lister,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Smith Fleming & Co,merchant_trading_firm,merchant,0.95,curated match: Smith Fleming & Co — Anglo-Indian merchant firm,"[""smith fleming""]",False
+Smith Payne & Smiths,merchant_bank,other,0.95,"curated match: Smith, Payne & Smiths — private bank","[""smith payne""]",False
+Smith St Aubyn & Co,unknown,merchant,0.0,no rule matched,[],True
+"Soanes, Son & Page",individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Somervell & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Somes Mullens & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Southall & Ponsford,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Spalding & Hodges,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Spartali & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Spence Baggallay & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Spicer Brothers,merchant_trading_firm,other,0.4,matched rules: merchant_trading_firm,"[""family firm pattern""]",False
+Springfield Sons & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Sromidill & Beckham,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Standard Bank Of Africa Limited,commercial_bank,commercial_bank,0.95,"matched rules: commercial_bank, industrial_or_corporate","[""Bank Limited"", ""Bank of \u2026"", ""joint-stock company suffix""]",False
+Standring Brothers,merchant_trading_firm,other,0.4,matched rules: merchant_trading_firm,"[""family firm pattern""]",False
+Stealfeild Lancence,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Stephen Evans & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Stephen Kennard & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Stephenson Clarke,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Stera Bros,merchant_trading_firm,merchant,0.4,matched rules: merchant_trading_firm,"[""family firm pattern""]",False
+Stern Bros,merchant_trading_firm,merchant,0.4,matched rules: merchant_trading_firm,"[""family firm pattern""]",False
+Steve Blas,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Steven Brothers,merchant_trading_firm,other,0.4,matched rules: merchant_trading_firm,"[""family firm pattern""]",False
+Stinton Bard & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Stoman & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Streatfield Laurence & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Streckeisen Bischoff & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Sturt & Sharp,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Suse & Sibeth,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Swewells & Neck,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Swindell & Bankhead,individual_or_partnership,commercial_bank,0.55,"short bare name, no firm suffix",[],True
+Swindell Matthews & Sendall,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Swiss Bankverein,individual_or_partnership,commercial_bank,0.55,"short bare name, no firm suffix",[],True
+Swonnell Samuel & Son,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+T . O. Stock & Co,unknown,merchant,0.0,no rule matched,[],True
+T Dunhill,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+T H Biggs,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+T Knaus & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+T Lawnde & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+T Le Princeton,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+T M Waters,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+T Prehn & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+T Ralli Sons & Co,unknown,merchant,0.0,no rule matched,[],True
+T Scott,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+T Walker,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+T. & D. Henry,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+T. A. Hawkey,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+T. Courtauld & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+T. De La Rue & Co,unknown,merchant,0.0,no rule matched,[],True
+T. Hodgekinson & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+T. Hubbuck & Son Ltd,industrial_or_corporate,merchant,0.3,matched rules: industrial_or_corporate,"[""joint-stock company suffix""]",False
+T. Husband & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+T. I. & T. Powell,unknown,other,0.0,no rule matched,[],True
+T. Lowndes & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+T. M. Comas & Co,unknown,merchant,0.0,no rule matched,[],True
+T. O. Beeton,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+T. R. Merton,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+T. Tapling & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+T. W. Smith & Co,unknown,merchant,0.0,no rule matched,[],True
+T.M. Mackay & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Taccivace Lucklacke,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Tamvaco Utell,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+"Tamvaco, Micrulachi & Co",individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Tandel + Phillips,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Taster Oortens & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Tavell Beddone & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Taylor & Whalley,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Te Blatsphiel,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Teede & Bishop,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Teument & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Tevan Kamm Tevan,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Tevan Kamon + Tevan,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+The Bank Of Egypt,commercial_bank,commercial_bank,0.7,matched rules: commercial_bank,"[""Bank of \u2026""]",False
+The Bombay Co Ltd,merchant_trading_firm,merchant,0.65,"matched rules: industrial_or_corporate, merchant_trading_firm","[""India trade firm"", ""joint-stock company suffix""]",True
+The Bornes Co Limited,industrial_or_corporate,merchant,0.3,matched rules: industrial_or_corporate,"[""joint-stock company suffix""]",False
+The City Bank,commercial_bank,commercial_bank,0.95,curated match: The City Bank / City Bank Limited,"[""city bank""]",False
+The East London Bank Limited,commercial_bank,commercial_bank,0.9,"matched rules: commercial_bank, industrial_or_corporate","[""Bank Limited"", ""joint-stock company suffix""]",False
+The Ebbw Vale Co Ltd,industrial_or_corporate,merchant,0.3,matched rules: industrial_or_corporate,"[""joint-stock company suffix""]",False
+The Egyptian Tribute,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+The International Bank,commercial_bank,commercial_bank,0.95,curated match: National Bank Limited,"[""national bank""]",False
+The Jone St Marehouse Co Limited,industrial_or_corporate,merchant,0.3,matched rules: industrial_or_corporate,"[""joint-stock company suffix""]",False
+The London Brazilian Bank,individual_or_partnership,commercial_bank,0.55,"short bare name, no firm suffix",[],True
+The Oriental Br Corps,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Tho Biggs,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Tho Frefor,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Tho Hodgkinson & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Tho Husband & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Tho Nelson & Son,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Tho' Stephens & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Thomas Ainsworth,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Thomas Drayton,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Thomas Hodgkinsons & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Thomas Lee,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Thomas Lowndes & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Thomas Lyde,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Thomas M Gregor,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Thomas Nelson & Son,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Thomas Phehan & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Thomas Seamer & Son,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Thomas Stephens & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Thomas Stephings,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Thomas Tapling & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Thomas Walker,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Thomas Walton,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Thompson & Pattinson,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Thomson Bonar & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Thos M Gregor,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Thos Pretu & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Thos Walker,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Thos Wecom & Son,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Tiedenick Tatt,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Till & Flegor,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Timothy Wiggin & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Titus Nevrhouse,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Tj Van Yellen Of Bauks,unknown,other,0.0,no rule matched,[],True
+Tjas + Robinson W Ebbie Rale Co,unknown,other,0.0,no rule matched,[],True
+Tp Lloyds & Co,commercial_bank,merchant,0.95,curated match: Lloyds Bank — joint-stock,"[""lloyds""]",False
+Tr Browne,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Trimmer & Grainger,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Truhling & Goschen,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Truman Hitchcock & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Tuichaw Leatson P & Co,unknown,merchant,0.0,no rule matched,[],True
+Turck Barclay & Co,commercial_bank,merchant,0.95,curated match: Barclay & Co — joint-stock bank (incorporated 1896),"[""barclay""]",False
+Tw Bradley & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Tw Eady,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Tw Madley & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Union Bank Of Australia Ltd,commercial_bank,commercial_bank,0.95,"matched rules: commercial_bank, industrial_or_corporate","[""Bank Limited"", ""Bank of \u2026"", ""joint-stock company suffix""]",False
+Union Bank Of Canada,commercial_bank,commercial_bank,0.7,matched rules: commercial_bank,"[""Bank of \u2026""]",False
+Union Bank Of Scotland Ltd,commercial_bank,commercial_bank,0.95,"matched rules: commercial_bank, industrial_or_corporate","[""Bank Limited"", ""Bank of \u2026"", ""joint-stock company suffix""]",False
+Union Discount Co. Of London Ltd,discount_house,discount_house,0.9,"matched rules: discount_house, industrial_or_corporate","[""discount house"", ""joint-stock company suffix""]",False
+Union Smiths Bk Ho,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Unity Joint,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Unity Mutual Bank,individual_or_partnership,commercial_bank,0.55,"short bare name, no firm suffix",[],True
+Unity St Jk Bank,individual_or_partnership,commercial_bank,0.55,"short bare name, no firm suffix",[],True
+Unity St Something,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Unreadable,unknown,other,0.0,no rule matched,[],True
+Vagliano Brothers,merchant_trading_firm,other,0.4,matched rules: merchant_trading_firm,"[""family firm pattern""]",False
+Vander Willigen Simon,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Vivanti Annett & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Vivian & Younger,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Vyse Sons & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+W & H Brand & Co,unknown,merchant,0.0,no rule matched,[],True
+W & I Hall & Co,unknown,merchant,0.0,no rule matched,[],True
+W + A Riand & Co,unknown,merchant,0.0,no rule matched,[],True
+W Anderson Haut & Co,unknown,merchant,0.0,no rule matched,[],True
+W Bamondi,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+W Berkefeld,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+W Brandt'S Sons & Co,unknown,merchant,0.0,no rule matched,[],True
+W Clewes & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+W F Brown,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+W Hinkes Cay & Co,unknown,merchant,0.0,no rule matched,[],True
+W Howell & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+W I & H Thompson,unknown,other,0.0,no rule matched,[],True
+W Jackson & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+W Jameson & Son,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+W Jenkinson,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+W Kendle,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+W Kindle,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+W Klein,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+W M Crauston,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+W Mallaliew & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+W N De Mattos,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+W Smee & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+W Wilson & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+W. & T. Devas & Co,unknown,merchant,0.0,no rule matched,[],True
+W. E. Eddison & Co,unknown,merchant,0.0,no rule matched,[],True
+W. E. Franks & Son,unknown,other,0.0,no rule matched,[],True
+W. Ewart & Son Ltd,industrial_or_corporate,merchant,0.3,matched rules: industrial_or_corporate,"[""joint-stock company suffix""]",False
+W. H & A Scott,unknown,other,0.0,no rule matched,[],True
+W. H. Hindley,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+W. H. Laird,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+W. H. Partridge & Co,unknown,merchant,0.0,no rule matched,[],True
+W. Halford & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+W. Hi & Andrew Form,unknown,other,0.0,no rule matched,[],True
+W. J. Crook,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+W. Mepzstein,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+W. Morhimore,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+W. Muggeridge & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+W. Pickford,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+W. Rattray & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+W. Spotten & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+W. Vaughan & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+W.H. Cox & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+W.Ladenburg & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+W.R.Crow & Son,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Walford Fairer & Harrison,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Walford Tainen & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Walhampton & Staffordshire,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Walker Howell & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Wallace Bros & Co Ld,merchant_trading_firm,merchant,0.4,matched rules: merchant_trading_firm,"[""family firm pattern""]",False
+Walter Howell,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Warre Brothers,merchant_trading_firm,other,0.4,matched rules: merchant_trading_firm,"[""family firm pattern""]",False
+Washington & Davies,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Welch Margeston & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Weston & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Weston + Laurie,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Wf Moore,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+White & Shaxson,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Wienholt Wehmer & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+William Andew & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+William Audlace & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+William Brandt'S Sons & Co,unknown,merchant,0.0,no rule matched,[],True
+William Burnside,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+William Chevyt & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+William Clowes & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+William Deacon & Co For The Northampton Union Bank,unknown,commercial_bank,0.0,no rule matched,[],True
+William Jackson,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+William Leask,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Williams Deacon'S Bank Ltd,commercial_bank,commercial_bank,0.9,"matched rules: commercial_bank, industrial_or_corporate","[""Bank Limited"", ""joint-stock company suffix""]",False
+Williams Meyustein,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Williams Overbury & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Wilson & Bellenger,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+"Wilson, Rose, Graham & Co",unknown,merchant,0.0,no rule matched,[],True
+"Wilson, Seward & Swale",individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Wm Andrew & Sons,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Wm Hooten Yates,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Wm Lymington & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Wm Norton Yates Lombard St,unknown,other,0.0,no rule matched,[],True
+Wm Oliver & Sons Ltd,industrial_or_corporate,merchant,0.3,matched rules: industrial_or_corporate,"[""joint-stock company suffix""]",False
+Wm Rivet & Sons Ltd,industrial_or_corporate,merchant,0.3,matched rules: industrial_or_corporate,"[""joint-stock company suffix""]",False
+Wn De Hacelles,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Woverhamption & Staffordshire Banking Corporation By ?,unknown,commercial_bank,0.0,no rule matched,[],True
+Wr Crow & Son,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+X. Balli,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Yeames Lander & Co,individual_or_partnership,merchant,0.55,"short bare name, no firm suffix",[],True
+Yokohama Bk Ltd,industrial_or_corporate,merchant,0.3,matched rules: industrial_or_corporate,"[""joint-stock company suffix""]",False
+Young Harrison & Bevan,individual_or_partnership,other,0.55,"short bare name, no firm suffix",[],True
+Zarifi Brothers & Co,merchant_trading_firm,merchant,0.4,matched rules: merchant_trading_firm,"[""family firm pattern""]",False

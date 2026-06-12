@@ -1,0 +1,13 @@
+,1857,1866,1890,1914
+A1: + expanded ≥2×,1,1,1,1
+A2: + penalty rate ≥+2pp,1,1,0,1
+A3: + fast rate rise (≤14d),1,1,1,1
+A4: + fast lending peak (≤60d),1,1,1,1
+A5: − penalty rate ≤+1pp (muted),0,0,0,0
+tier_a_score,4,4,3,4
+B1: + low rejection rate (≤10%),1,1,n/a,1
+B2: + broad market support (top-5 ≤30%),0,1,n/a,1
+B3: − highly concentrated (top-5 >50%),0,0,n/a,0
+B4: − private-rescue tilt (mb share >20%),0,0,n/a,0
+tier_b_score,1,2,n/a,2
+combined_score,5,6,n/a,6

@@ -1,0 +1,8 @@
+period,named_institutions_visible,formal_eligibility_membership,bank_access_mediated,crisis_support_via_intermediaries,quantitative_evidence,direct_crisis_evidence,continuity_score,confidence
+1847-1914 Victorian crises,1,0,1,1,1,1,5,0.95
+1906 bill market,1,1,1,0,1,0,4,0.9
+1931 sterling crisis,1,1,1,1,0,1,5,0.8
+1830-1997 discount-market structure,1,1,1,1,0,0,4,0.85
+1973-75 lifeboat,1,1,1,1,1,1,6,0.85
+1976-96 authorised counterparties,1,1,1,0,1,0,4,0.9
+1997 reform,0,0,0,0,0,0,0,0.7

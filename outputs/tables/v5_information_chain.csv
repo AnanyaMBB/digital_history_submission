@@ -1,0 +1,8 @@
+crisis,cable_era,origin,stage1_innercircle_ledger,stage2_bank_rate_signal,stage3_specialist_press,stage4_public_press_surge,stage5_public_rupture,stage6_official_response,earliest_market_signal,lead_earliest_to_public_days,confidence
+1847,pre,endogenous,1847-01-24,1847-01-14,,1847-10-15,1847-10-18,1847-10-25,1847-01-14,277,medium
+1857,pre,external,1857-09-06,1857-10-15,1857-12-01,1857-11-15,1857-11-09,1857-11-12,1857-09-06,64,high
+1866,transition,endogenous,1866-03-04,1865-07-27,1866-06-01,1866-05-15,1866-05-11,1866-05-11,1865-07-27,288,high
+1873,post,external,,1873-09-25,,1873-05-15,1873-11-07,1873-11-07,1873-09-25,43,medium
+1890,post,endogenous,n/a (daily account books only),1890-06-26,1890-12-01,,1890-11-15,1890-11-15,1890-06-26,142,medium
+1907,post,external,,1907-08-15,,,1907-10-22,1907-11-07,1907-08-15,68,low
+1914,post,external,1914-07-12,1914-07-30,,,1914-07-31,1914-08-06,1914-07-12,19,low

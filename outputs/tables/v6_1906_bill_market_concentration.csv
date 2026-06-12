@@ -1,0 +1,5 @@
+stage,count,note
+drawers (borrowers worldwide),3554.0,originate the bill
+acceptors (acceptance houses),1439.0,guarantee the bill; top 15 ~35% of accepting
+discounters (discount houses),145.0,buy/hold the bill; top 15 >70% of discounting
+eligible houses at the Bank,,the Bank rediscounts only eligible discount houses (~2.47% of all 1906 bills)

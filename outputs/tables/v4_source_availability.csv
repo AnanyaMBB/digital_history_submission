@@ -1,0 +1,8 @@
+crisis,origin,bank_rate_daily,boe_ledger,hmd_general_press,bankers_magazine,hansard
+1847,endogenous,yes,yes,yes,no,yes
+1857,external,yes,yes,yes,yes,yes
+1866,endogenous,yes,yes,yes,yes,yes
+1873,external,yes,no,yes,no,no
+1890,endogenous,yes,no,no,yes,no
+1907,external,yes,no,no,no,no
+1914,external,yes,yes,no,no,yes

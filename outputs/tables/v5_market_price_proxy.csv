@@ -1,0 +1,8 @@
+crisis,imm_available,note,months_before,fin_index_6mo_before,fin_index_at_rupture,pre_rupture_return_pct,avg_share_declining,reads_as
+1847,no,IMM begins 1869,,,,,,
+1857,no,IMM begins 1869,,,,,,
+1866,no,IMM begins 1869,,,,,,
+1873,yes,,12.0,154.6,163.1,5.5,0.31,no clear pre-rupture decline
+1890,yes,,12.0,321.7,390.1,21.3,0.3,no clear pre-rupture decline
+1907,yes,,12.0,410.7,534.1,30.1,0.38,no clear pre-rupture decline
+1914,no,,,,,,,

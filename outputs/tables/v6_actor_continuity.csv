@@ -1,0 +1,7 @@
+actor_type,role,period,relation_to_bank,crisis_access,continuity
+bill brokers,match lenders and borrowers of short bills,early 19th c.,given Bank discount facility from 1830,precursor at the window,became discount houses
+acceptance / merchant houses,guarantee ('accept') bills for distant borrowers,19th c.-1930s,bills rediscounted by the Bank,1906 acceptors; 1931 acceptances rediscounted,"persist as merchant banks; some named (Barings, Rothschilds, Kleinwort)"
+discount houses,"hold and discount short bills, funded by call money",1830s-1997,the Bank's regular market counterparties; access to LLR,Victorian ledgers; 1906; 1931 OMO; 1976-96 counterparties,direct descendants of the bill brokers; the spine of the network
+clearing banks,main deposit banks; supply call money to the discount houses,late 19th c.-,hold accounts at the Bank; partner in rescues,1931 'Big Five'; 1973-75 lifeboat funders,the recognised core that funds and helps organise support
+secondary banks,1970s deposit-taking 'fringe' finance companies,1970s,"not fully recognised; rescued, not partners",recipients of the 1973-75 lifeboat,"the rescued outsiders, defining the club by exclusion"
+authorised money-market counterparties,recognised dealing counterparties of the Bank,1980s-1990s,the Bank operates through them,formalised access (7 houses in 1996),"the Victorian club, now a formal list"

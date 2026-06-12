@@ -1,0 +1,86 @@
+page_image,date,day_of_week,minimum_discount_rate,bank_rate_d1,bank_rate_match,banking_reserve_notes_coin,banking_total_assets,banking_govt_securities,banking_other_securities,issue_notes_total,issue_bullion_total,confidence,notes,validation_status
+C1-38_063,1890-10-01,Wednesday,5,5.0,True,11122.0,51575.0,13999.0,10723.0,35596.0,19126.0,medium,"Public deposits split into Exchequer 695, Other Public 1752, Council of India 567, Supreme Court 409, Bankers 12391. Aggregated public deposits not summed on page. Operations side does not include Wednesday Oct 1.",pass
+C1-38_063,1890-10-02,Thursday,5,5.0,True,10879.0,50610.0,13999.0,10718.0,35483.0,19083.0,medium,"Public deposit breakdown: Exchequer 1121, Other Public 1501, Council of India 592, Supreme Court 409, Bankers 11256.",pass
+C1-38_063,1890-10-03,Friday,5,5.0,True,10444.0,50151.0,13999.0,10718.0,35258.0,18808.0,medium,"Exchequer 1249, Other Public 1155, Council of India 612, Supreme Court 426, Bankers 11065.",pass
+C1-38_063,1890-10-04,Saturday,5,5.0,True,10492.0,53438.0,13999.0,10718.0,35090.0,18640.0,medium,"Audit Roll 2586, Exchequer 1544, Other Public 2272, Council 545, Supreme Court 413, Bankers 10360.",pass
+C1-38_063,1890-10-06,Monday,5,5.0,True,10542.0,52367.0,13999.0,10718.0,35144.0,18694.0,medium,"Audit Roll 391, Exchequer 1716, Other Public 1630, Council 556, Supreme Court 862, Bankers 12160.",pass
+C1-38_063,1890-10-07,Tuesday,5,5.0,True,10547.0,51867.0,13999.0,10718.0,35049.0,18599.0,medium,"Audit Roll 515, Exchequer 1346, Other Public 1689, Council 582, Supreme Court 822, Bankers 11812.",pass
+C1-38_064,1890-10-08,Wednesday,5,5.0,True,10591.0,51284.0,13999.0,10718.0,35049.0,18599.0,medium,"Wednesday is balances-only here; operations columns start Thursday. Public deposits row computed from header sum '4653' but individual lines: Audit Roll 400, Exchequer 380, Other Public 1410, Council India 1513, Supreme Court 558. Some values uncertain.",pass
+C1-38_064,1890-10-09,Thursday,5,5.0,True,10731.0,51461.0,13999.0,10718.0,35103.0,18653.0,medium,Public/other deposits aggregate columns hard to read individually.,pass
+C1-38_064,1890-10-10,Friday,5,5.0,True,10529.0,51589.0,13999.0,10718.0,34960.0,18510.0,medium,,pass
+C1-38_064,1890-10-11,Saturday,5,5.0,True,10455.0,50794.0,13999.0,10718.0,34898.0,18448.0,medium,,pass
+C1-38_064,1890-10-13,Monday,5,5.0,True,10995.0,50892.0,13999.0,10718.0,35050.0,18600.0,medium,,pass
+C1-38_064,1890-10-14,Tuesday,5,5.0,True,10990.0,51064.0,13999.0,10718.0,35276.0,18826.0,medium,,pass
+C1-38_065,1890-10-15,Wednesday,5,5.0,True,11194.0,51533.0,13999.0,10718.0,35324.0,18874.0,medium,"Wednesday only appears on Balances side, not Operations. Public deposits broken into sub-rows; not summing.",pass
+C1-38_065,1890-10-16,Thursday,5,5.0,True,11280.0,51438.0,13999.0,10718.0,35283.0,18833.0,medium,Advances total 311 may include B/S/C sub-components.,pass
+C1-38_065,1890-10-17,Friday,5,5.0,True,11041.0,50977.0,13999.0,10716.0,35208.0,18758.0,medium,,pass
+C1-38_065,1890-10-18,Saturday,5,5.0,True,11182.0,50533.0,13999.0,10714.0,35104.0,18654.0,medium,London discounts cell appears blank.,pass
+C1-38_065,1890-10-20,Monday,5,5.0,True,11280.0,50353.0,13999.0,10714.0,35126.0,18676.0,medium,,pass
+C1-38_065,1890-10-21,Tuesday,5,5.0,True,11354.0,50802.0,13999.0,10714.0,35069.0,18619.0,medium,Advances total 160 may not match sub-rows; possibly partial.,pass
+C1-38_065,1890-10-22,Wednesday,5,5.0,True,,,,,,,medium,Wednesday 22 appears only on Operations side.,pass
+C1-38_066,1890-10-22,Wednesday,5,5.0,True,11519.0,50672.0,13999.0,10714.0,35102.0,18652.0,medium,"Wednesday is balance-only; operations columns start Thursday. Public Deposits row not clearly read (Exchequer 1056, Other Public 1438, Council 563, Supreme 327, Bankers 12856).",pass
+C1-38_066,1890-10-23,Thursday,5,5.0,True,11545.0,50402.0,13999.0,10714.0,35097.0,18647.0,medium,Public deposits sub-rows visible but composite not summed here.,pass
+C1-38_066,1890-10-24,Friday,5,5.0,True,11324.0,50235.0,13999.0,10744.0,35063.0,18613.0,medium,,pass
+C1-38_066,1890-10-25,Saturday,5,5.0,True,11527.0,50199.0,13999.0,10594.0,35068.0,18618.0,medium,,pass
+C1-38_066,1890-10-27,Monday,5,5.0,True,11461.0,50304.0,13999.0,10594.0,35115.0,18665.0,low,ops_total_advances reading unclear,pass
+C1-38_066,1890-10-28,Tuesday,5,5.0,True,11443.0,50267.0,13999.0,10594.0,35099.0,18629.0,medium,London discount cell appears blank,pass
+C1-38_067,1890-10-29,Wednesday,5,5.0,True,11603.0,50553.0,13999.0,10594.0,35207.0,18757.0,medium,Wednesday is the prior-week column on operations side; ops fields begin Thursday.,pass
+C1-38_067,1890-10-30,Thursday,5,5.0,True,11339.0,50298.0,13999.0,10594.0,35146.0,18696.0,medium,London discounts column blank for this day,pass
+C1-38_067,1890-10-31,Friday,5,5.0,True,11195.0,50516.0,13999.0,10583.0,35185.0,18735.0,medium,,pass
+C1-38_067,1890-11-01,Saturday,5,5.0,True,11169.0,49920.0,13999.0,10582.0,35051.0,18601.0,medium,,pass
+C1-38_067,1890-11-03,Monday,5,5.0,True,11181.0,49868.0,13999.0,10582.0,35062.0,18612.0,medium,,pass
+C1-38_067,1890-11-04,Tuesday,5,5.0,True,11142.0,49866.0,13999.0,10582.0,34989.0,18539.0,medium,,pass
+C1-38_068,1890-11-05,Wednesday,5,5.0,True,11206.0,49832.0,13999.0,10561.0,35026.0,18576.0,medium,Wednesday is balances-only column; operations columns begin Thursday 6th. Public deposits row split into Exchequer/Other/Council/Supreme Court — not aggregated.,pass
+C1-38_068,1890-11-06,Thursday,5,5.0,True,11205.0,49908.0,13999.0,10561.0,34867.0,18417.0,medium,ops_total_advances reads 137 (sum row 'Advances total').,pass
+C1-38_068,1890-11-07,Friday,5,6.0,False,10551.0,49013.0,13999.0,10561.0,34330.0,17880.0,medium,,fail
+C1-38_068,1890-11-08,Saturday,5,6.0,False,10815.0,48876.0,13999.0,10561.0,34352.0,17902.0,medium,Other deposits Sat reads 16595 actually; revising — uncertain between 16737 and 16595.,fail
+C1-38_068,1890-11-10,Monday,5,6.0,False,10879.0,49493.0,13999.0,10561.0,34377.0,17927.0,medium,,fail
+C1-38_068,1890-11-11,Tuesday,6,6.0,True,10922.0,49967.0,13952.0,10611.0,34387.0,17937.0,medium,Bank rate appears to have risen to 6% — header shows '5%-6%' with separate '6%' notation.,pass
+C1-38_068,1890-11-12,Wednesday,6,6.0,True,,,,,,,medium,Wed 12th appears only in Operations columns on this spread; balances for that day are on the next spread.,pass
+C1-38_069,1890-11-12,Wednesday,6,6.0,True,,51123.0,13952.0,10811.0,34508.0,18058.0,medium,Wednesday 12 Nov is a Balances column only; no Operations column for this date on this spread. Public/Private deposit subtotal cells stacked; left them null to avoid misassignment.,pass
+C1-38_069,1890-11-13,Thursday,6,6.0,True,,52464.0,11958.0,10711.0,34473.0,18023.0,medium,"Several Operations sub-rows have multiple subcategory entries (L/C, B/S) — only the clearly legible ones recorded.",pass
+C1-38_069,1890-11-14,Friday,6,6.0,True,,53611.0,10961.0,10710.0,35501.0,19051.0,medium,,pass
+C1-38_069,1890-11-15,Saturday,6,6.0,True,,55518.0,10961.0,10708.0,36546.0,20096.0,medium,,pass
+C1-38_069,1890-11-17,Monday,6,6.0,True,,56192.0,10961.0,10708.0,36608.0,20158.0,medium,,pass
+C1-38_069,1890-11-18,Tuesday,6,6.0,True,,57381.0,11002.0,10707.0,36786.0,20336.0,medium,,pass
+C1-38_069,1890-11-19,Wednesday,6,6.0,True,,,,,,,medium,Operations-only column (no Balances column for 19 Nov on this spread).,pass
+C1-38_070,1890-11-19,Wednesday,6,6.0,True,14552.0,58466.0,11008.0,10707.0,37835.0,21385.0,medium,Wednesday is balances only; operations start Thursday. Public/Other deposits not cleanly split into a single column row - given as Bankers 15734 / Other Private 20631 etc.,pass
+C1-38_070,1890-11-20,Thursday,6,6.0,True,14612.0,58000.0,11125.0,10707.0,38072.0,21622.0,medium,ops_total_discounts and advances totals show + or - variations not clear-cut totals.,pass
+C1-38_070,1890-11-21,Friday,6,6.0,True,14410.0,57355.0,11125.0,10707.0,38129.0,21679.0,medium,,pass
+C1-38_070,1890-11-22,Saturday,6,6.0,True,14698.0,56558.0,11125.0,10707.0,38208.0,21958.0,medium,,pass
+C1-38_070,1890-11-24,Monday,6,6.0,True,14765.0,55705.0,11125.0,10707.0,38234.0,21784.0,medium,,pass
+C1-38_070,1890-11-25,Tuesday,6,6.0,True,16282.0,55634.0,9625.0,10707.0,39637.0,23387.0,medium,,pass
+C1-38_070,1890-11-26,Wednesday,6,6.0,True,,,,,,,medium,Operations-only column (Wednesday 26 Nov); no balances column for this date on this spread.,pass
+C1-38_071,1890-11-26,Wednesday,6,6.0,True,16502.0,56817.0,9625.0,10906.0,39940.0,23490.0,medium,"Wednesday is balances-only column; operations begin Thursday. Public deposits total 3438 shown in summary row; individual subcategories: Exchequer 1342, Other Public 1561, Council of India 532, Supreme Court 320.",pass
+C1-38_071,1890-11-27,Thursday,6,6.0,True,16503.0,56669.0,9625.0,10906.0,39930.0,23480.0,medium,Exchequer 1342? actually 1342; figures legible.,pass
+C1-38_071,1890-11-28,Friday,6,6.0,True,16298.0,56395.0,9625.0,10906.0,39960.0,23519.0,medium,Some advances totals approximated from handwriting.,pass
+C1-38_071,1890-11-29,Saturday,6,6.0,True,16451.0,55680.0,9625.0,10906.0,39953.0,23503.0,low,Reserve % reading uncertain (could be 43.4 or 48.4).,pass
+C1-38_071,1890-12-01,Monday,6,6.0,True,16513.0,55310.0,9625.0,10906.0,39995.0,23545.0,medium,,pass
+C1-38_071,1890-12-02,Tuesday,6,6.0,True,16555.0,55019.0,9625.0,10906.0,40192.0,23742.0,medium,,pass
+C1-38_072,1890-12-03,Wednesday,5,6.0,False,16873.0,54585.0,9625.0,10706.0,40213.0,23963.0,medium,Wednesday is a balances-only column (operations starts Thursday). Bank rate header shows 6% crossed/overlaid with 5% in red.,fail
+C1-38_072,1890-12-04,Thursday,5,5.0,True,17464.0,55233.0,9625.0,10906.0,40977.0,24527.0,medium,Public deposits subtotal column hard to read individually.,pass
+C1-38_072,1890-12-05,Friday,5,5.0,True,17363.0,54698.0,9625.0,10906.0,40903.0,24453.0,medium,,pass
+C1-38_072,1890-12-06,Saturday,5,5.0,True,17481.0,54548.0,9625.0,10904.0,40914.0,24464.0,medium,,pass
+C1-38_072,1890-12-08,Monday,5,5.0,True,17548.0,54991.0,9625.0,10904.0,40997.0,24547.0,medium,,pass
+C1-38_072,1890-12-09,Tuesday,5,5.0,True,17025.0,54466.0,9625.0,10734.0,40471.0,24021.0,medium,,pass
+C1-38_073,1890-12-10,Wednesday,5,5.0,True,17007.0,54521.0,9625.0,10734.0,40176.0,23726.0,medium,Operations columns start Thursday; no operations data for Wednesday 10.,pass
+C1-38_073,1890-12-11,Thursday,5,5.0,True,17125.0,54709.0,9625.0,10734.0,40226.0,23776.0,medium,"Operations 'On L' discount=1, 'On C'=54; advances B=422, S=326, C=135.",pass
+C1-38_073,1890-12-12,Friday,5,5.0,True,16968.0,54644.0,9625.0,10734.0,40369.0,23919.0,medium,Clearing house figure '21029' read as 5-digit; could be 21029.,pass
+C1-38_073,1890-12-13,Saturday,5,5.0,True,17022.0,54656.0,9625.0,10734.0,40257.0,23777.0,low,Public deposits Exchequer hard to read; banking_public_deposits taken from Exchequer row.,pass
+C1-38_073,1890-12-15,Monday,5,5.0,True,17023.0,55344.0,9625.0,10734.0,40139.0,23689.0,medium,,pass
+C1-38_073,1890-12-16,Tuesday,5,5.0,True,17215.0,55548.0,9625.0,10734.0,40309.0,23859.0,medium,,pass
+C1-38_073,1890-12-17,Wednesday,5,5.0,True,,,,,,,medium,Wednesday 17 only appears on Operations side (no balances column).,pass
+C1-38_074,1890-12-17,Wednesday,5,5.0,True,16763.0,55507.0,9625.0,10734.0,39859.0,23409.0,medium,Wednesday 17 Dec is on Balances side only; Operations columns start Thursday 18.,pass
+C1-38_074,1890-12-18,Thursday,5,5.0,True,16541.0,55296.0,9625.0,10734.0,39774.0,23354.0,medium,,pass
+C1-38_074,1890-12-19,Friday,5,5.0,True,16030.0,54869.0,9625.0,10734.0,39674.0,23225.0,medium,,pass
+C1-38_074,1890-12-20,Saturday,5,5.0,True,16147.0,54595.0,9625.0,10723.0,39558.0,23108.0,medium,,pass
+C1-38_074,1890-12-22,Monday,5,5.0,True,15877.0,54426.0,9625.0,10723.0,39585.0,23135.0,low,ops_total_advances unclear; may be 98 or other.,pass
+C1-38_074,1890-12-23,Tuesday,5,5.0,True,15402.0,54072.0,9625.0,10722.0,39369.0,22919.0,low,ops_total_advances reading uncertain.,pass
+C1-38_074,1890-12-24,Wednesday,5,5.0,True,,,,,,,low,Wednesday 24 Dec only appears on Operations side.,pass
+C1-38_075,1890-12-24,Wednesday,5,5.0,True,14895.0,53636.0,9625.0,10720.0,39099.0,22849.0,medium,"Exchequer 3392; Other Public Deposits 1066; Council of India 623; Supreme Court 288; Bankers 12926; Audit Roll 54; Capital & Rest 17801; Deposits Total 35674; Discounts London 2563, Country 2508; Advances London 9634, Country 2752; Unproductive Securities 723; Securities Total 38741; Notes 14206; Gold Coin 487; Silver Coin 202; Total Bullion 23388; London Silver 82",pass
+C1-38_075,1890-12-25,Thursday,5,5.0,True,,,,,,,high,Christmas Day - no entries,pass
+C1-38_075,1890-12-26,Friday,5,5.0,True,,,,,,,high,Bank Holiday - no entries,pass
+C1-38_075,1890-12-27,Saturday,5,5.0,True,15161.0,53510.0,9625.0,10720.0,38990.0,22540.0,medium,"Exchequer 3498; Other Public Deposits 1291; Council of India 536; Supreme Court 290; Bankers 12147; Audit Roll 53; Capital & Rest 17801; Deposits Total 35559; Discounts Country 2446; Advances London 9363, Country 3850/2753; Unproductive Securities 589; Securities Total 38349; Notes 14456; Gold Coin 511; Silver Coin 194; Total Bullion 23245; London Silver 73",pass
+C1-38_075,1890-12-29,Monday,5,5.0,True,15323.0,55188.0,9625.0,10720.0,39254.0,22804.0,medium,"Exchequer 3328; Other Public Deposits 1339; Council of India 545; Supreme Court 322; Bankers 13118; Audit Roll 53; Capital & Rest 17801; Deposits Total 37232; Discounts London 2243; Country 2469; Advances London 11186, Country 4125; Unproductive Securities 589; Securities Total 39865; Notes 14536; Gold Coin 565; Silver Coin 222; Total Bullion 23591; London Silver 62",pass
+C1-38_075,1890-12-30,Tuesday,5,5.0,True,15127.0,56638.0,9625.0,10720.0,39205.0,22755.0,medium,"Exchequer 3195; Other Public Deposits 1360; Council of India 3838; Supreme Court 320; Bankers 14171; Audit Roll 50; Capital & Rest 17801; Deposits Total 38687; Discounts London 2336, Country 2497; Advances London 12669, Country 4125/2829; Unproductive Securities 594; Securities Total 41511; Notes 14308; Gold Coin 603; Silver Coin 216; Total Bullion 23574; London Silver 69",pass
+C1-38_076,1890-12-31,Wednesday,5,5.0,True,14802.0,57787.0,9625.0,10720.0,39193.0,22743.0,medium,"Only the Wednesday column is filled in. Public deposits broken out: Exchequer 2028, Other Public Deposits 2446, Council of India 2000, Supreme Court 303; Bankers 15283, Other Private Deposits 17708. Deposits Total 39815. Capital & Rest 17794 (read as '717794' but likely 17794). Treasury Bills 181. Discounts London 2313, Country 2562. Advances London 13885 (with red correction 4125), Country 3109 (red +400). Unproductive Securities 590. Securities Total 42985. Cash in Notes 14079, Gold Coin 511, Silver Coin 212. Total Bullion variation +128, value 23466. London Silver Available 67. Many handwritten variation figures in left margin not transcribed.",pass

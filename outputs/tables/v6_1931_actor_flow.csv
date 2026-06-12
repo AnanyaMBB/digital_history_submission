@@ -1,0 +1,6 @@
+actor,actor_type,role,amount,mechanism,source
+Big Five clearing banks,clearing bank,supply spare cash as call money,,call money to discount houses,"Romer 2025, Sec. I"
+discount houses,discount house,hold bills; borrow call money,,rediscount bills at the Bank,"Romer 2025, Sec. I"
+acceptance houses,acceptance house,guarantee bills,,frozen acceptances rediscounted by the Bank,Romer 2025
+"Seccombe, Marshall & Campion",Bank's bill agent,execute the Bank's market bill transactions,,open-market agent,"Romer 2025, Fig. 2 p.1190"
+Bank of England,central bank,apex; open-market operations,~£25m Treasury bills (16 Jul-4 Aug),buys Treasury bills from discount houses; raises bankers' deposits,"Romer 2025, pp.1197-98"

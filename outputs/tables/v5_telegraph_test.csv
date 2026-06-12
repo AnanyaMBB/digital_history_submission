@@ -1,0 +1,8 @@
+group,n,median_lead_sustained,mean_lead_sustained,median_lead_acute
+"pre-cable (1847,1857)",2,151.0,151.0,154.5
+transition (1866),1,288.0,288.0,8.0
+"post-cable (1873,1890,1907,1914)",4,55.5,63.5,47.0
+pre-cable x endogenous,1,277.0,277.0,277.0
+pre-cable x external,1,25.0,25.0,32.0
+post-cable x endogenous,1,142.0,142.0,51.0
+post-cable x external,3,43.0,37.3,43.0

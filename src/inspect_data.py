@@ -1,0 +1,132 @@
+"""Inspect every raw dataset and emit docs/data_inventory.md.
+
+Run from project root:
+    .venv/bin/python src/inspect_data.py
+"""
+from __future__ import annotations
+
+import hashlib
+import io
+from contextlib import redirect_stdout
+from pathlib import Path
+
+import pandas as pd
+from openpyxl import load_workbook
+
+ROOT = Path(__file__).resolve().parent.parent
+RAW = ROOT / "data" / "raw"
+INVENTORY = ROOT / "docs" / "data_inventory.md"
+SOURCES = RAW / "SOURCES.md"
+
+SOURCE_URLS = {
+    "jst/JSTdatasetR6.dta":
+        "https://www.macrohistory.net/app/download/9834512469/JSTdatasetR6.dta",
+    "boe_lolr/lolr-historical-dataset.xlsx":
+        "https://www.bankofengland.co.uk/-/media/boe/files/research/the-bank-of-england-as-lender-of-last-resort-historical-dataset.xlsx",
+    "boe_lolr/anson-bholat-kang-thomas-2017-wp.pdf":
+        "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2017/the-bank-of-england-as-lender-of-last-resort-a-new-historical-evidence-from-daily-transactional-data.pdf",
+    "boe_balance_sheet/millennium-of-macro-data-uk.xlsx":
+        "https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/a-millennium-of-macroeconomic-data-for-the-uk.xlsx",
+    "boe_balance_sheet/annual-boe-balance-sheet.xlsx":
+        "https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/annual-data-on-the-boes-balance-sheet.xlsx",
+    "boe_balance_sheet/weekly-boe-balance-sheet-1844-2006.xlsx":
+        "https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/weekly-data-on-the-boes-balance-sheet-1844-to-2006.xlsx",
+    "boe_balance_sheet/boc-boe-database.xlsx":
+        "https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/boc-boe-database.xlsx",
+}
+
+
+def sha256(path: Path) -> str:
+    h = hashlib.sha256()
+    with path.open("rb") as f:
+        for chunk in iter(lambda: f.read(1024 * 1024), b""):
+            h.update(chunk)
+    return h.hexdigest()
+
+
+def describe_dta(path: Path) -> str:
+    buf = io.StringIO()
+    with redirect_stdout(buf):
+        df = pd.read_stata(path, convert_categoricals=False)
+        print(f"shape: {df.shape}")
+        print(f"columns ({len(df.columns)}): {list(df.columns)}")
+        if "year" in df.columns:
+            print(f"year range: {int(df['year'].min())}–{int(df['year'].max())}")
+        if "country" in df.columns or "iso" in df.columns:
+            key = "country" if "country" in df.columns else "iso"
+            countries = sorted(df[key].dropna().unique().tolist())
+            print(f"countries ({len(countries)}): {countries}")
+        if "country" in df.columns and "year" in df.columns:
+            uk = df[df["country"].astype(str).str.upper().isin(["UNITED KINGDOM", "UK", "GBR"])]
+            print(f"UK rows: {len(uk)}; UK year range: {int(uk['year'].min())}–{int(uk['year'].max())}" if len(uk) else "UK rows: 0")
+        print("dtypes head:")
+        print(df.dtypes.head(20).to_string())
+    return buf.getvalue()
+
+
+def describe_xlsx(path: Path) -> str:
+    buf = io.StringIO()
+    with redirect_stdout(buf):
+        wb = load_workbook(path, read_only=True, data_only=True)
+        sheets = wb.sheetnames
+        print(f"sheets ({len(sheets)}):")
+        for s in sheets:
+            ws = wb[s]
+            dims = f"{ws.max_row} rows × {ws.max_column} cols"
+            print(f"  - {s!r}: {dims}")
+        wb.close()
+        for s in sheets[:6]:
+            print(f"\n--- first 5 rows of sheet {s!r} ---")
+            try:
+                df = pd.read_excel(path, sheet_name=s, header=None, nrows=8, engine="openpyxl")
+                with pd.option_context("display.max_columns", 12, "display.width", 160):
+                    print(df.to_string(index=False, header=False))
+            except Exception as exc:
+                print(f"  (could not read: {exc})")
+    return buf.getvalue()
+
+
+def main() -> None:
+    files = sorted(SOURCE_URLS.keys())
+    sections = []
+    sources_rows = []
+
+    for rel in files:
+        path = RAW / rel
+        if not path.exists():
+            sections.append(f"## `{rel}`\n\n_missing on disk_\n")
+            continue
+        size_mb = path.stat().st_size / (1024 * 1024)
+        digest = sha256(path)
+        sources_rows.append((rel, SOURCE_URLS[rel], digest, f"{size_mb:.2f} MB"))
+
+        header = f"## `{rel}`\n\n- size: {size_mb:.2f} MB\n- sha256: `{digest}`\n- source: {SOURCE_URLS[rel]}\n"
+        if path.suffix == ".dta":
+            body = describe_dta(path)
+        elif path.suffix == ".xlsx":
+            body = describe_xlsx(path)
+        elif path.suffix == ".pdf":
+            body = f"PDF, {size_mb:.2f} MB. Not parsed here — see references/ for paper text.\n"
+        else:
+            body = "(unrecognized format)\n"
+        sections.append(header + "\n```\n" + body.strip() + "\n```\n")
+
+    INVENTORY.write_text(
+        "# Data inventory\n\n"
+        "Auto-generated by `src/inspect_data.py`. Re-run after any new download.\n\n"
+        + "\n".join(sections)
+    )
+    print(f"Wrote {INVENTORY}")
+
+    sources_md = ["# Raw data provenance\n",
+                  "Auto-updated by `src/inspect_data.py`.\n",
+                  "| File | Source URL | SHA-256 | Size |",
+                  "|---|---|---|---|"]
+    for rel, url, digest, size in sources_rows:
+        sources_md.append(f"| `{rel}` | {url} | `{digest}` | {size} |")
+    SOURCES.write_text("\n".join(sources_md) + "\n")
+    print(f"Wrote {SOURCES}")
+
+
+if __name__ == "__main__":
+    main()

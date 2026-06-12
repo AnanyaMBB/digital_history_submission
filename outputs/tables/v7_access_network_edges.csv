@@ -1,0 +1,54 @@
+a,b,shared_periods,periods
+"Overend, Gurney & Co.",Union Discount Co.,1,1866
+"Overend, Gurney & Co.",National Discount Co.,1,1866
+"Overend, Gurney & Co.",Barings,1,1866
+"Overend, Gurney & Co.",Rothschilds,1,1866
+"Overend, Gurney & Co.",Frühling & Göschen,1,1866
+"Overend, Gurney & Co.",Stern Bros,1,1866
+Union Discount Co.,National Discount Co.,2,1866;1906
+Union Discount Co.,"Seccombe, Marshall & Campion",1,1996
+Union Discount Co.,Gerrard & National,2,1945;1996
+Union Discount Co.,Cater Allen,1,1996
+Union Discount Co.,King & Shaxson,1,1996
+Union Discount Co.,Alexanders Discount,1,1996
+Union Discount Co.,Clive Discount,1,1996
+Union Discount Co.,Barings,2,1866;1906
+Union Discount Co.,Rothschilds,2,1866;1906
+Union Discount Co.,Kleinwort & Co.,1,1906
+Union Discount Co.,Frühling & Göschen,2,1866;1914
+Union Discount Co.,Stern Bros,2,1866;1914
+National Discount Co.,Barings,2,1866;1906
+National Discount Co.,Rothschilds,2,1866;1906
+National Discount Co.,Kleinwort & Co.,1,1906
+National Discount Co.,Frühling & Göschen,1,1866
+National Discount Co.,Stern Bros,1,1866
+"Seccombe, Marshall & Campion",Gerrard & National,1,1996
+"Seccombe, Marshall & Campion",Cater Allen,1,1996
+"Seccombe, Marshall & Campion",King & Shaxson,1,1996
+"Seccombe, Marshall & Campion",Alexanders Discount,1,1996
+"Seccombe, Marshall & Campion",Clive Discount,1,1996
+"Seccombe, Marshall & Campion",Big Five clearing banks,1,1931
+Gerrard & National,Cater Allen,1,1996
+Gerrard & National,King & Shaxson,1,1996
+Gerrard & National,Alexanders Discount,1,1996
+Gerrard & National,Clive Discount,1,1996
+Cater Allen,King & Shaxson,1,1996
+Cater Allen,Alexanders Discount,1,1996
+Cater Allen,Clive Discount,1,1996
+King & Shaxson,Alexanders Discount,1,1996
+King & Shaxson,Clive Discount,1,1996
+Alexanders Discount,Clive Discount,1,1996
+Barings,Rothschilds,2,1866;1906
+Barings,Kleinwort & Co.,1,1906
+Barings,Frühling & Göschen,1,1866
+Barings,Stern Bros,1,1866
+Rothschilds,Kleinwort & Co.,1,1906
+Rothschilds,Frühling & Göschen,1,1866
+Rothschilds,Stern Bros,1,1866
+Frühling & Göschen,Stern Bros,2,1866;1914
+Big Five clearing banks,London & County Securities,1,1973
+Big Five clearing banks,First National Finance,1,1973
+Big Five clearing banks,United Dominions Trust,1,1973
+London & County Securities,First National Finance,1,1973
+London & County Securities,United Dominions Trust,1,1973
+First National Finance,United Dominions Trust,1,1973

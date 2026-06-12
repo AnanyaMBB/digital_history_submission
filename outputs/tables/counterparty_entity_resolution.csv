@@ -1,0 +1,1477 @@
+counterparty_clean,canonical_counterparty,match_method,similarity_score,manual_review_required,cluster_id
+??Se Sons & Co,??Se Sons & Co,exact,100,False,0
+A & G W Alexander & Co,A & G W Alexander & Co,exact,100,False,1
+A Bell & Sons,A Bell & Sons,exact,100,False,2
+A Cose & Co,A Cose & Co,exact,100,False,3
+A Dimitris & Sons,A Dimitris & Sons,exact,100,False,4
+A F Schleicher,A F Schleicher,exact,100,False,5
+A G Da Costa,A. G. D Costa,rapidfuzz_token_set_ratio,95,False,14
+A Jackson & Co,A Jackson & Co,exact,100,False,6
+A Jarohai,A Jarohai,exact,100,False,7
+A Joachim,A Joachim,exact,100,False,8
+A L Crohn,A L Crohn,exact,100,False,9
+A Lillen Son & Co,A Lillen Son & Co,exact,100,False,10
+A Pelly & Co,A Pelly & Co,exact,100,False,11
+A Sellean Son & Co,A Sellean Son & Co,exact,100,False,12
+A Webber & Co,A Webber & Co,exact,100,False,13
+A. G. D Costa,A. G. D Costa,exact,100,False,14
+A. Grant Son & Co,A. Grant Son & Co,exact,100,False,15
+A. Haliener & Co,A. Haliener & Co,exact,100,False,16
+A. L. Elder,A. L. Elder,exact,100,False,17
+A. M. Peebler & Son,A. M. Peebler & Son,exact,100,False,18
+A. Mongredien & Co,A. Mongredien & Co,exact,100,False,19
+A. Ralli & Co,A. Ralli & Co,exact,100,False,20
+A. Ruffer & Sons,A. Ruffer & Sons,exact,100,False,21
+A. S. Petrie & Co,A. S. Petrie & Co,exact,100,False,22
+A. Salomons,A. Salomons,exact,100,False,23
+A. Wehmes,A. Wehmes,exact,100,False,24
+A.Branwell Co Ltd,A.Branwell Co Ltd,exact,100,False,25
+Aberdare Iron Co.,Aberdare Iron Co.,exact,100,False,26
+Abet Brothers,Abet Brothers,exact,100,False,27
+Abrahamson Lihme & Co,Abrahamson Lihme & Co,exact,100,False,28
+Absolom Crocker & Co,Absolom Crocker & Co,exact,100,False,29
+Adamson & Ronaldson,Adamson & Ronaldson,exact,100,False,30
+Adi Denielrio & Sons,Adi Denielrio & Sons,exact,100,False,31
+Agra & Mastermans Bank Limited,Agra & Mastermans Bank Limited,exact,100,False,32
+Akmagaroff & Gasparian,Akmagaroff & Gasparian,exact,100,False,33
+Alex Bell & Sons,Alex Bell & Sons,exact,100,False,34
+Alex Collie & Co,Alex Collie & Co,exact,100,False,35
+Alex Webber & Co,Alex Webber & Co,exact,100,False,36
+Alexander Cunliffes & Co,Alexander Cunliffes & Co,exact,100,False,37
+Alexanders & Co Ltd,Alexanders & Co Ltd,exact,100,False,38
+Alexiadi Delta & Co,Alexiadi Delta & Co,exact,100,False,39
+Alfred Stram,Alfred Stram,exact,100,False,40
+Alfred Towgood,Alfred Towgood,exact,100,False,41
+Allen & Solly,Allen Solly & Co,rapidfuzz_token_set_ratio,100,False,43
+Allen Harvey & Ross,Allen Harvey & Ross,exact,100,False,42
+Allen Solly & Co,Allen Solly & Co,exact,100,False,43
+Alliance Bank Limited,Alliance Bank Limited,exact,100,False,44
+Andrew Jackson & Co,Andrew Jackson & Co,exact,100,False,45
+Andy Gibbs & Sons,Andy Gibbs & Sons,exact,100,False,46
+Anglo Austrian Bank,Anglo Austrian Bank,exact,100,False,47
+Anglo Egyptian Bank Limited,Anglo Egyptian Bank Limited,exact,100,False,48
+Anglo Egyptian Bank Ltd,Anglo Egyptian Bank Limited,rapidfuzz_token_set_ratio,100,False,48
+Anglo Italian Bank Limited,Anglo Italian Bank Limited,exact,100,False,49
+Anglo South American Bank Ltd,Anglo South American Bank Ltd,exact,100,False,50
+Angus Mackenzie,Angus Mackenzie,exact,100,False,51
+Arbuthnot Latham Co,Arbuthnot Latham Co,exact,100,False,52
+Arluthrot Ewart & Co,Arluthrot Ewart & Co,exact,100,False,53
+Arthur & Co,Arthur & Co Ltd,rapidfuzz_token_set_ratio,100,False,54
+Arthur & Co Ltd,Arthur & Co Ltd,exact,100,False,54
+Ashby Morris Ltd,Ashby Morris Ltd,exact,100,False,55
+Ashton & Co,Ashton & Co,exact,100,False,56
+Atfu Heseundes & Co,Atfu Heseundes & Co,exact,100,False,57
+Aug: Wehmer,Aug: Wehmer,exact,100,False,58
+Aviesim & Co,Aviesim & Co,exact,100,False,59
+B Elkin & Sons,B Elkin & Sons,exact,100,False,60
+B Halberth & Sons,B Halberth & Sons,exact,100,False,61
+B L Lomant,B L Lomant,exact,100,False,62
+B S & J Phillips & Co,B S & J Phillips & Co,exact,100,False,63
+B Salomons & Sons,B Salomons & Sons,exact,100,False,64
+B Simon & A Jacoby,B Simon & A Jacoby,exact,100,False,65
+B T Laveo & Co,B T Laveo & Co,exact,100,False,66
+B. C. T. Gray & Son,B. C. T. Gray & Son,exact,100,False,67
+B. De Castro & Co,B. De Castro & Co,exact,100,False,68
+B. Jubini & Co,B. Jubini & Co,exact,100,False,69
+B. Tucker & Co,B. Tucker & Co,exact,100,False,70
+B. W .Blydenstein & Co,B. W .Blydenstein & Co,exact,100,False,71
+"Bagallay, Westall & Spence","Bagallay, Westall & Spence",exact,100,False,72
+Bailey & Co To Afe Of Bailey,Bailey & Co To Afe Of Bailey,exact,100,False,73
+Bailey Pegg & Co,Bailey Pegg & Co,exact,100,False,74
+Baker & Co,Baker Duncombe & Co Ltd,rapidfuzz_token_set_ratio,100,False,75
+Baker Duncombe & Co Ltd,Baker Duncombe & Co Ltd,exact,100,False,75
+Balls Garrett,Balls Garrett,exact,100,False,76
+Baltazzi Sons & Co,Baltazzi Sons & Co,exact,100,False,77
+Banca Commerciale Italiana,Banca Commerciale Italiana,exact,100,False,78
+Banca De Espana,Banca De Espana,exact,100,False,79
+Bandier Tobias & Co,Bandier Tobias & Co,exact,100,False,80
+Banffo & Co,Banffo & Co,exact,100,False,81
+Bank Of Australasia,Bank Of Australasia,exact,100,False,82
+Bank Of Australia,Bank Of Australasia,rapidfuzz_token_set_ratio,94,False,82
+Bank Of British West Africa Ltd,Bank Of British West Africa Ltd,exact,100,False,83
+Bank Of Egypt,The Bank Of Egypt,rapidfuzz_token_set_ratio,100,False,1158
+Bank Of Hindustan Limited,Bank Of Hindustan Limited,exact,100,False,84
+Bank Of Ireland,Bank Of Ireland,exact,100,False,85
+Bank Of London Limited,Bank Of London Limited,exact,100,False,86
+Bank Of Madras,Bank Of Madras,exact,100,False,87
+Bank Of Montreal,Bank Of Montreal,exact,100,False,88
+Bank Of New South Wales,Bank Of New South Wales,exact,100,False,89
+Bank Of Scotland,Bank Of Scotland,exact,100,False,90
+Bank Of Wales,Bank Of New South Wales,rapidfuzz_token_set_ratio,100,False,89
+Banque Belge,Banque Belge,exact,100,False,91
+Barclay & Co,Barclay & Co Ltd,rapidfuzz_token_set_ratio,100,False,92
+Barclay & Co Ltd,Barclay & Co Ltd,exact,100,False,92
+Bardburg & Cook,Bardburg & Cook,exact,100,False,93
+Bardgett & Picard,Bardgett & Picard,exact,100,False,94
+Barff & Co,Barff & Co,exact,100,False,95
+Baring & Co,Baring Brothers & Co,rapidfuzz_token_set_ratio,100,False,96
+Baring Bros & Co Ld,Baring Brothers & Co,rapidfuzz_token_set_ratio,100,False,96
+Baring Brothers & Co,Baring Brothers & Co,exact,100,False,96
+"Barker, Benwell & Co.","Barker, Benwell & Co.",exact,100,False,97
+Barnard & Co,Barnard & Co,exact,100,False,98
+Barnett & Co,Barnett & Co,exact,100,False,99
+Barnetts Hoare & Co On Account Of The Clydesdale Banking Company,Barnetts Hoare & Co On Account Of The Clydesdale Banking Company,exact,100,False,100
+Barry & Nephews,Barry & Nephews,exact,100,False,101
+Bateman & Co,Bateman & Co,exact,100,False,102
+Battley & Butler,Battley & Butler,exact,100,False,103
+"Bauley, Pegg & Co","Bauley, Pegg & Co",exact,100,False,104
+Bautcher Baltimore,Bautcher Baltimore,exact,100,False,105
+Bayliss Jones & Bayliss,"Bayliss, Jones & Bayliss",rapidfuzz_token_set_ratio,100,False,106
+"Bayliss, Jones & Bayliss","Bayliss, Jones & Bayliss",exact,100,False,106
+Bco & Del Rio De La Hala,Bco & Del Rio De La Hala,exact,100,False,107
+Beaudsell & Jackson,Beaudsell & Jackson,exact,100,False,108
+Beauvaisen + Leannard,Beauvaisen + Leannard,exact,100,False,109
+Bedell Prior & Co,Bedell Prior & Co,exact,100,False,110
+Beith Stevenson & Co,Beith Stevenson & Co,exact,100,False,111
+Beiy Riley,Beiy Riley,exact,100,False,112
+Bell & Grant,Bell & Grant,exact,100,False,113
+Bennison & Lennard,Bennison & Lennard,exact,100,False,114
+Bennison Lermard,Bennison Lermard,exact,100,False,115
+"Bennoch, Twentyman & Rigg","Bennoch, Twentyman & Rigg",exact,100,False,116
+Benoliel Brothers,Benoliel Brothers,exact,100,False,117
+Beo Befand Del Rio Co,Beo Befand Del Rio Co,exact,100,False,118
+Bernard Elliot,Bernard Elliot,exact,100,False,119
+Beverington Norris,Beverington Norris,exact,100,False,120
+Bevington & Morris,Bevington & Morris,exact,100,False,121
+Bevingtons & Sons,Bevingtons & Sons,exact,100,False,122
+Bheonutt Booper & Co,Bheonutt Booper & Co,exact,100,False,123
+Bhimsey Sewjee & Co,Bhimsey Sewjee & Co,exact,100,False,124
+Bicken & Co,Bicken & Co,exact,100,False,125
+Bidgood Jones & Wilson,"Bidgood, Jones & Wilson",rapidfuzz_token_set_ratio,100,False,126
+"Bidgood, Jones & Wilson","Bidgood, Jones & Wilson",exact,100,False,126
+Bidgorddons & Co,Bidgorddons & Co,exact,100,False,127
+Bieber & Co,Bieber & Co.,rapidfuzz_token_set_ratio,100,False,128
+Bieber & Co.,Bieber & Co.,exact,100,False,128
+Bier & Partner,Bier & Partner,exact,100,False,129
+Bischoffsheim & Goldschmidt,Bischoffsheim & Goldschmidt,exact,100,False,130
+Bl Leman,Bl Leman,exact,100,False,131
+Blogg & Martin,Blogg & Martin,exact,100,False,132
+Blogg + Martin,Blogg & Martin,rapidfuzz_token_set_ratio,100,False,132
+Blogg Vellantini,Blogg Vellantini,exact,100,False,133
+Blyth Greene Jourdain Co Ld,Blyth Greene Jourdain Co Ld,exact,100,False,134
+Bomanjee Framjee Cama & Co,Bomanjee Framjee Cama & Co,exact,100,False,135
+Bordier Fabris & Co,Bordier Fabris & Co,exact,100,False,136
+Borneo Co Ltd,Borneo Co Ltd,exact,100,False,137
+Borrowman Phillipps & Co,Borrowman Phillipps & Co,exact,100,False,138
+Boutcher Mortimore & Co,Boutcher Mortimore & Co,exact,100,False,139
+Bowes Co Ltd,Bowes Game & Moren,rapidfuzz_token_set_ratio,100,False,140
+Bowes Game & Moren,Bowes Game & Moren,exact,100,False,140
+Boysin Hoyer Tagart,Boysin Hoyer Tagart,exact,100,False,141
+Bradbury & Cook,Bradbury & Cook,exact,100,False,142
+Bradbury Greatorex & Co,Bradbury Greatorex & Co,exact,100,False,143
+Bridgewater Jones & Co,Bridgewater Jones & Co,exact,100,False,144
+Brien & Parker,Brien & Parker,exact,100,False,145
+Brightwen & Co,Brightwen Gillet & Co,rapidfuzz_token_set_ratio,100,False,146
+Brightwen Gillet & Co,Brightwen Gillet & Co,exact,100,False,146
+British Bank Of Foreign Trade Ltd,British Bank Of Foreign Trade Ltd,exact,100,False,147
+British Bank Of North America Ltd,British Bank Of North America Ltd,exact,100,False,148
+British Bank Of South America Ltd,British Bank Of North America Ltd,rapidfuzz_token_set_ratio,93,False,148
+British Honduras Coy Limited,British Honduras Coy Limited,exact,100,False,149
+Britsh Linen Bank,Britsh Linen Bank,exact,100,False,150
+Broadwood & Barclay,Broadwood & Barclay,exact,100,False,151
+Brockelbank & Rolt,Brockelbank & Rolt,exact,100,False,152
+Brown & Laws,Brown & Laws,exact,100,False,153
+Brown Davis & Co,Brown Davis & Co,exact,100,False,154
+Brown Shipley & Co,Brown Shipley & Co,exact,100,False,155
+Browning Wood & Fox,Browning Wood & Fox,exact,100,False,156
+Bruce Wilkinson & Co,Bruce Wilkinson & Co,exact,100,False,157
+Buckler Woolbright,Buckler Woolbright,exact,100,False,158
+Bucknell & Sons,Bucknell & Sons,exact,100,False,159
+Burr Brother & Co,Burr Brother & Co,exact,100,False,160
+Butterworth & Sons,Butterworth & Sons,exact,100,False,161
+Byass & Son,Byass & Son,exact,100,False,162
+Byfield & Richards,Byfield & Richards,exact,100,False,163
+C & S Grimmrade,C & S Grimmrade,exact,100,False,164
+C A Jonas & Co,C A Jonas & Co,exact,100,False,165
+C C Williams,C C Williams,exact,100,False,166
+C David & Co,C David & Co,exact,100,False,167
+C E Fireman,C E Fireman,exact,100,False,168
+C Faintling,C Faintling,exact,100,False,169
+C Fauntleroy,C Fauntleroy,exact,100,False,170
+C H Olivier,C H Olivier,exact,100,False,171
+C Henry,C Henry,exact,100,False,172
+C I Hambro & Son,C I Hambro & Son,exact,100,False,173
+C Jamtterey,C Jamtterey,exact,100,False,174
+C Leary & Co,C Leary & Co,exact,100,False,175
+C Sutherland & Co,C Sutherland & Co,exact,100,False,176
+C Tauntlory,C Tauntlory,exact,100,False,177
+C Tottie & Sons,C Tottie & Sons,exact,100,False,178
+C Walton & Sons,C Walton & Sons,exact,100,False,179
+C. & C. I. Coles,C. & C. I. Coles,exact,100,False,180
+C. Bailey,C. Bailey,exact,100,False,181
+C. Candy & Co,C. Candy & Co,exact,100,False,182
+C. E. Heinke,C. E. Heinke,exact,100,False,183
+C. H. Noble,C. H. Noble,exact,100,False,184
+C. Lloyd & Co,C. Lloyd & Co,exact,100,False,185
+C.J.Hambro & Son,C I Hambro & Son,rapidfuzz_token_set_ratio,91,True,173
+Calchesters & Woolman,Calchesters & Woolman,exact,100,False,186
+Caldecott & Sons W,"Caldecott, Sons & Willcocks",rapidfuzz_token_set_ratio,91,True,187
+"Caldecott, Sons & Willcocks","Caldecott, Sons & Willcocks",exact,100,False,187
+Cama & Co,Cama & Co,exact,100,False,188
+Canadian Bank Of Commerce,Canadian Bank Of Commerce,exact,100,False,189
+Capital & Counties Bank Ltd,Capital & Counties Bank Ltd,exact,100,False,190
+Carlthian & Corbierie,Carlthian & Corbierie,exact,100,False,191
+Carneille David & Co,Carneille David & Co,exact,100,False,192
+Carr & Hoare,Carr & Hoare,exact,100,False,193
+Carvalho & Brother,Carvalho Brother & Co,rapidfuzz_token_set_ratio,100,False,194
+Carvalho Brother & Co,Carvalho Brother & Co,exact,100,False,194
+Cash + Ledgard,Cash + Ledgard,exact,100,False,195
+Castelli Brothers,Castelli Brothers,exact,100,False,196
+Cater Greenwell & Co,Cater Greenwell & Co,exact,100,False,197
+Cavan Brothers & Co,Cavan Brothers & Co,exact,100,False,198
+Cha Heinery,Cha Heinery,exact,100,False,199
+Chaffey & Son,Chaffey & Son,exact,100,False,200
+Charles & Fox,Charles & Fox,exact,100,False,201
+Charles & Jof,Charles & Jof,exact,100,False,202
+Charles Hemery,Charles Hemery,exact,100,False,203
+Charles Hoare Co,Charles Hoare Co,exact,100,False,204
+Charles Rayne,Charles Rayne,exact,100,False,205
+"Chartered Bank Of India, Austrailia & China","Chartered Bank Of India, Austrailia & China",exact,100,False,206
+Chartered Merchant Bank Of India Limited,Chartered Merchant Bank Of India Limited,exact,100,False,207
+Chas Belier,Chas Belier,exact,100,False,208
+Chas Watton & Sons,Chas Watton & Sons,exact,100,False,209
+Chesnutt Cooper Co,Chesnutt Cooper Co,exact,100,False,210
+Child & Co,Child & Co,exact,100,False,211
+Chilian Gout,Chilian Gout,exact,100,False,212
+Church Son & Stubbs,Church Son & Stubbs,exact,100,False,213
+Churchill & Sim,Churchill & Sim,exact,100,False,214
+Cj Hamlin & Sons,Cj Hamlin & Sons,exact,100,False,215
+Cj Howell & Son,Cj Howell & Son,exact,100,False,216
+Clairmonte Brothers,Clairmonte Brothers,exact,100,False,217
+Clawfow Coloui & Co,Clawfow Coloui & Co,exact,100,False,218
+Clement Dresser,Clement Dresser,exact,100,False,219
+Clode & Baker,Clode & Baker,exact,100,False,220
+Closley Vepher & Co,Closley Vepher & Co,exact,100,False,221
+Clydesdale Bank Ltd,Clydesdale Bank Ltd,exact,100,False,222
+Cocker Biddulph & Co,Cocker Biddulph & Co,exact,100,False,223
+Colchesters & Woolner,Colchesters & Woolner,exact,100,False,224
+Cole Nichols & Co,Cole Nichols & Co,exact,100,False,225
+Colonial Bank,Colonial Company Limited,rapidfuzz_token_set_ratio,100,False,226
+Colonial Company Limited,Colonial Company Limited,exact,100,False,226
+Commercial Bank Of Scotland Ltd,Commercial Bank Of Scotland Ltd,exact,100,False,227
+Commercial Banking Co. Of Of Sydney Ltd,Commercial Banking Co. Of Of Sydney Ltd,exact,100,False,228
+Commonwealth Bk Of Australia,Commonwealth Bk Of Australia,exact,100,False,229
+Comptoir National D'Escompte De Paris,Comptoir National D'Escompte De Paris,exact,100,False,230
+Consolidated Bank Limited,Consolidated Bank Limited,exact,100,False,231
+Consolidated Discount Co Limited,Consolidated Discount Co Limited,exact,100,False,232
+Conway Phelps & Hayward,Conway Phelps & Hayward,exact,100,False,233
+Cook Son & Co,Cook Sons & Co,rapidfuzz_token_set_ratio,100,False,234
+Cook Sons & Co,Cook Sons & Co,exact,100,False,234
+Copestake Moore & Co,"Copestake Moore, Crampton & Co",rapidfuzz_token_set_ratio,100,False,235
+"Copestake Moore, Crampton & Co","Copestake Moore, Crampton & Co",exact,100,False,235
+Cotesworth & Powell,Cotesworth & Powell,exact,100,False,236
+Coulon & Co,Coulon & Co,exact,100,False,237
+Coutts & Co,Coutts & Co,exact,100,False,238
+Coventry Sheppard & Co,Coventry Sheppard & Co,exact,100,False,239
+Cox Heisch & Co,Cox Heisch & Co,exact,100,False,240
+Crawshay Bailey,Crawshay Bailey,exact,100,False,241
+Credit Lyonnais Per Glyn Mills Currie,Credit Lyonnais Per Glyn Mills Currie,exact,100,False,242
+Credito Italiano,Credito Italiano,exact,100,False,243
+Cripps & Starkey,Cripps & Starkey,exact,100,False,244
+"Crocker, Sons & Turner","Crocker, Sons & Turner",exact,100,False,245
+Crowe Christian & Co,Crowe Christian & Co,exact,100,False,246
+Crowns Agents For Colonies,Crowns Agents For Colonies,exact,100,False,247
+Crowsley Bailey,Crowsley Bailey,exact,100,False,248
+Cuadra Romero,Cuadra Romero,exact,100,False,249
+Culverwell Brooks Co,Culverwell Brooks Co,exact,100,False,250
+Cunliffe Bros,Cunliffe Bros,exact,100,False,251
+Cunliffes & Co,Cunliffes & Co,exact,100,False,252
+Curteis Whitworth & Co,Curteis Whitworth & Co,exact,100,False,253
+Cutler & Barker,Cutler & Barker,exact,100,False,254
+D & T J Warren,D & T J Warren,exact,100,False,255
+D Drakeford & Co,D Drakeford & Co,exact,100,False,256
+D H Bushell,D H Bushell,exact,100,False,257
+D Lloyd,D Lloyd,exact,100,False,258
+D T Morgan,D T Morgan,exact,100,False,259
+D Taylor & Sons,D Taylor & Sons,exact,100,False,260
+D. D. Cama & Co,D. D. Cama & Co,exact,100,False,261
+D. E. Power,D. E. Power,exact,100,False,262
+D.Sasson Co Ltd,D.Sasson Co Ltd,exact,100,False,263
+Da Costa & Kiell,Da Costa & Kiell,exact,100,False,264
+Dadabhai Naoroji & Co,Dadabhai Naoroji & Co,exact,100,False,265
+"Dae La Rue Thomas, & Co","Dae La Rue Thomas, & Co",exact,100,False,266
+Daniel Hawkins,Daniel Hawkins,exact,100,False,267
+Daniell Cafenove & Co,Daniell Cafenove & Co,exact,100,False,268
+Daniell Dickinson & Co,Daniell Dickinson & Co,exact,100,False,269
+Darent & Co,Darent & Co,exact,100,False,270
+"Davey, Thompson & Alder","Davey, Thompson & Alder",exact,100,False,271
+David Evans & Co,David Evans & Co,exact,100,False,272
+David Kidd & Son,David Kidd & Son,exact,100,False,273
+David Lloyd,David Lloyd & Co,rapidfuzz_token_set_ratio,100,False,274
+David Lloyd & Co,David Lloyd & Co,exact,100,False,274
+David Sasson & Co Ld,David Sasson & Co Ld,exact,100,False,275
+David Taylor & Sons,David Taylor & Sons,exact,100,False,276
+Dawson Campbell & Co,Dawson Campbell & Co,exact,100,False,277
+Dawson Worth,Dawson Worth,exact,100,False,278
+De Jersey & Co,De Jersey & Co,exact,100,False,279
+Delhi & London Bank Ltd,Delhi & London Bank Ltd,exact,100,False,280
+Dennistoun Cross & Co,"Dennistoun, Cross & Co",rapidfuzz_token_set_ratio,100,False,281
+"Dennistoun, Cross & Co","Dennistoun, Cross & Co",exact,100,False,281
+Deutsche Bank,Deutsche Bank,exact,100,False,282
+Dimsdale & Co,Dimsdale & Co,exact,100,False,283
+Dinsdale Drewell & Co,Dinsdale Drewell & Co,exact,100,False,284
+Direction Der Discounts,Direction Der Discounts,exact,100,False,285
+Discount Corporation Limited,Discount Corporation Limited,exact,100,False,286
+Do,Do,exact,100,False,287
+Dominion Bank,Dominion Bank,exact,100,False,288
+Donaldson Lambert & Co,Donaldson Lambert & Co,exact,100,False,289
+"Drake, Kleinwort & Cohen","Drake, Kleinwort & Cohen",exact,100,False,290
+Draper Pietroni & Co,Draper Pietroni & Co,exact,100,False,291
+Dresdner Bank,Dresdner Bank,exact,100,False,292
+Dudgeon & Co,Dudgeon & Co,exact,100,False,293
+Dufay & Isnard,Dufay & Isnard,exact,100,False,294
+"Dunbar, Dicksons & Co","Dunbar, Dicksons & Co",exact,100,False,295
+Duncan Fox & Co,Duncan Fox & Co,exact,100,False,296
+Durant & Co,Durant & Co,exact,100,False,297
+Dwindale & Ho,Dwindale & Ho,exact,100,False,298
+E & A Prior,E & A Prior,exact,100,False,299
+E Beach Frn & Rep,E Beach Frn & Rep,exact,100,False,300
+E Beach Sons & Co,E Beach Frn & Rep,rapidfuzz_token_set_ratio,100,False,300
+E Bernouilli,E Bernouilli,exact,100,False,301
+E Downs & Co,E Downs & Co,exact,100,False,302
+E Girdham & Co,E Girdham & Co,exact,100,False,303
+E H Brandts Son & Co,E H Brandts Son & Co,exact,100,False,304
+E J Cole,E J Cole,exact,100,False,305
+E Mansell + Ga Ellie & Co,E Mansell + Ga Ellie & Co,exact,100,False,306
+E Sheldon & Co,E Sheldon & Co,exact,100,False,307
+E Sieveking & Son,E Sieveking & Son,exact,100,False,308
+E. & I. Vickers & Co,E. & I. Vickers & Co,exact,100,False,309
+E. B. Meyes,E. B. Meyes,exact,100,False,310
+E. C. M Da Costa,E. C. M Da Costa,exact,100,False,311
+E. F. Oelricks & Co,E. F. Oelricks & Co,exact,100,False,312
+E. H. Keeling & Son,E. H. Keeling & Son,exact,100,False,313
+E. Higgin & Co,E. Higgin & Co,exact,100,False,314
+E. Lloyd & Co,E. Lloyd & Co,exact,100,False,315
+E. Lloyd & Cp,E. Lloyd & Co,rapidfuzz_token_set_ratio,100,False,315
+E. Tetley & Son,E. Tetley & Son,exact,100,False,316
+E.Pandorf,E.Pandorf,exact,100,False,317
+Eady & Paris,Eady & Paris,exact,100,False,318
+East London Bank Limited,The East London Bank Limited,rapidfuzz_token_set_ratio,100,False,1162
+Eastern Amos & Sons,Eastern Amos & Sons,exact,100,False,319
+Eastern Bank Ltd,Eastern Bank Ltd,exact,100,False,320
+Ebbie Vale Co & Robbinson,Ebbie Vale Co & Robbinson,exact,100,False,321
+Ebbw Vale & Co,The Ebbw Vale Co Ltd,rapidfuzz_token_set_ratio,100,False,1163
+Edward Corry,Edward Corry,exact,100,False,322
+Edward Erolty & Co,Edward Erolty & Co,exact,100,False,323
+Edward Higgin & Co,Edward Higgin & Co,exact,100,False,324
+Edward Liddell Manager Of The Sheffield Union Banking Company,Edward Liddell Manager Of The Sheffield Union Banking Company,exact,100,False,325
+Edward Luckie,Edward Luckie,exact,100,False,326
+Edward Sparkhall,Edward Sparkhall,exact,100,False,327
+Edwards Eastty & Co,Edwards Eastty & Co,exact,100,False,328
+Edwards Matthie,Edwards Matthie,exact,100,False,329
+Egyptian Commercial Trading Coy,Egyptian Commercial Trading Coy,exact,100,False,330
+Egyptian Tubale Acct,Egyptian Tubale Acct,exact,100,False,331
+Ehrmann Bros,Ehrmann Bros,exact,100,False,332
+Elder Stevens & Co,Elder Stevens & Co,exact,100,False,333
+Elias & Co,Elias & Co,exact,100,False,334
+Ellis Everington & Co,Ellis Everington & Co,exact,100,False,335
+"Ellis, Howell & Co","Ellis, Howell & Co",exact,100,False,336
+English & Swedish Bank Limited,English & Swedish Bank Limited,exact,100,False,337
+English Joint & Stock Bank Limited,English Joint & Stock Bank Limited,exact,100,False,338
+English Scottish & Australian Bank Limited,English Scottish & Australian Bank Limited,exact,100,False,339
+English Scottish & Australian Bank Ltd,English Scottish & Australian Bank Limited,rapidfuzz_token_set_ratio,100,False,339
+Escourt & Stanley,Escourt & Stanley,exact,100,False,340
+Esdaile & Co,Esdaile & Co,exact,100,False,341
+European Bank Limited,European Bank Limited,exact,100,False,342
+Ew Fernie,Ew Fernie,exact,100,False,343
+Eyles Evans & Co,Eyles Evans & Co,exact,100,False,344
+Eyre & Spottiswoode,Eyre & Spottiswoode,exact,100,False,345
+F & E Godsell,F & E Godsell,exact,100,False,346
+F Calvert,F Calvert,exact,100,False,347
+F Castelli,F Castelli,exact,100,False,348
+F Ede Son & Noyes,F Ede Son & Noyes,exact,100,False,349
+F Engelhardt,F Engelhardt,exact,100,False,350
+F Harrison & Co,F Harrison & Co,exact,100,False,351
+F Huth & Co,F Huth & Co,exact,100,False,352
+F J Montoya,F J Montoya,exact,100,False,353
+F Le Breton,F Le Breton,exact,100,False,354
+F Walter & Co,F Walter & Co,exact,100,False,355
+F&A Delcomyn,F&A Delcomyn,exact,100,False,356
+F. Bennoch & Co,F. Bennoch & Co,exact,100,False,357
+F. Bowes & Co,F. Bowes & Co,exact,100,False,358
+F. De Lizardi & Co,F. De Lizardi & Co,exact,100,False,359
+F. Dunhill,F. Dunhill,exact,100,False,360
+F. Gade & Son,F. Gade & Son,exact,100,False,361
+F. Horne & Co,F. Horne & Co,exact,100,False,362
+F. T. Elworthy,F. T. Elworthy,exact,100,False,363
+F.Elles Son,F.Elles Son,exact,100,False,364
+F.Huth Co,F Huth & Co,rapidfuzz_token_set_ratio,100,False,352
+F.T. Barry,F.T. Barry,exact,100,False,365
+Faudel & Phillips,Faudel & Phillips,exact,100,False,366
+Favell Beddome & Co,Favell Beddome & Co,exact,100,False,367
+Fecan Kerrison & Flanne,Fecan Kerrison & Flanne,exact,100,False,368
+Fenn Kemm & Fenn,Fenn Kemm & Fenn,exact,100,False,369
+Feo Foss & Co,Feo Foss & Co,exact,100,False,370
+Field & Sons,Field & Sons,exact,100,False,371
+Finance Company Ld,Finance Company Ld,exact,100,False,372
+Fincham Matson Potts & Co,Fincham Matson Potts & Co,exact,100,False,373
+Finlay Campbell & Co,Finlay Campbell & Co,exact,100,False,374
+"Finlay, Hodgeson & Co","Finlay, Hodgeson & Co",exact,100,False,375
+Fisher King & Co,Fisher King & Co,exact,100,False,376
+Fishers & Robinson,Fishers & Robinson,exact,100,False,377
+Fore Street Warehouse & Co Limited,Fore Street Warehouse & Co Limited,exact,100,False,378
+Foster & Porter,"Foster, Porter & Co",rapidfuzz_token_set_ratio,100,False,379
+Foster Porter & Co,"Foster, Porter & Co",rapidfuzz_token_set_ratio,100,False,379
+"Foster, Porter & Co","Foster, Porter & Co",exact,100,False,379
+Fox & Thompson,Fox & Thompson,exact,100,False,380
+Foy Morgan & Co,Foy Morgan & Co,exact,100,False,381
+Francis Ede Son & Co,Francis Ede Son & Co,exact,100,False,382
+Francis Scott,Francis Scott,exact,100,False,383
+Frangopulo Agelasto Co,Frangopulo Agelasto Co,exact,100,False,384
+Fred Fratt,Fred Fratt,exact,100,False,385
+Frederick Dunhill,Frederick Dunhill,exact,100,False,386
+Frederick Huth & Co,Frederick Huth & Co,exact,100,False,387
+Frederick Sage,Frederick Sage,exact,100,False,388
+Frederick Smee,Frederick Smee,exact,100,False,389
+Frederick Youle,Frederick Youle,exact,100,False,390
+Freinn Kennedy Percival (?),Freinn Kennedy Percival (?),exact,100,False,391
+Frith Sands & Co,Frith Sands & Co,exact,100,False,392
+Fruhling & Goschen,Fruhling & Goschen,exact,100,False,393
+Frullen Baubury & Co,Frullen Baubury & Co,exact,100,False,394
+Fw Caseus,Fw Caseus,exact,100,False,395
+G & I. A. Noble,G & I. A. Noble,exact,100,False,396
+G & J Prince,G & J Prince,exact,100,False,397
+G B Carr,G B Carr,exact,100,False,398
+G Costen,G Costen,exact,100,False,399
+G E Mackieth,G E Mackieth,exact,100,False,400
+G E Mackreth,G E Mackieth,rapidfuzz_token_set_ratio,91,True,400
+G Friend,G Friend,exact,100,False,401
+G H & J F Wulff,G H & J F Wulff,exact,100,False,402
+G Hitchcock & Co,G. Hitchcock Williams & Co,rapidfuzz_token_set_ratio,100,False,410
+G Loder,G Loder,exact,100,False,403
+G Peabody & Co,G Peabody & Co,exact,100,False,404
+G&R Dewhurst Ltd,G&R Dewhurst Ltd,exact,100,False,405
+G. & S. Kiteat,G. & S. Kiteat,exact,100,False,406
+G. Andreae & Co,G. Andreae & Co,exact,100,False,407
+G. B. Yates & Son,G. B. Yates & Son,exact,100,False,408
+G. Credit & Finance Coy Limited,G. Credit & Finance Coy Limited,exact,100,False,409
+G. E Macketh,G E Mackieth,rapidfuzz_token_set_ratio,95,False,400
+G. Hitchcock Williams & Co,G. Hitchcock Williams & Co,exact,100,False,410
+G. Houghton & Sons,G. Houghton & Sons,exact,100,False,411
+G. J Thompson,G. J Thompson,exact,100,False,412
+G. J. Smith For The Shropshire Banking Coy,G. J. Smith For The Shropshire Banking Coy,exact,100,False,413
+G. Routledge & Sons Ld,G. Routledge & Sons Ld,exact,100,False,414
+G.F. Neame Co,G.F. Neame Co,exact,100,False,415
+G.G. Sandeman Sons Co,G.G. Sandeman Sons Co,exact,100,False,416
+Gale & Frieud,Gale & Frieud,exact,100,False,417
+Gauge & Co,Gauge & Co,exact,100,False,418
+Gb Oyates & Son,Gb Oyates & Son,exact,100,False,419
+"Gellatly, Hankey & Sewell","Gellatly, Hankey & Sewell",exact,100,False,420
+Gene Credit & Co Limited,Gene Credit & Co Limited,exact,100,False,421
+Geo Bretsle & Co,Geo Bretsle & Co,exact,100,False,422
+Geo Gibbs & Son,Geo Gibbs & Son,exact,100,False,423
+Geo Gore & Co,Geo Gore & Co,exact,100,False,424
+Geo Soanes & Co,Geo Soanes & Co,exact,100,False,425
+Geo: Hitchcock W: H & Co,Geo: Hitchcock W: H & Co,exact,100,False,426
+George Brettle & Co,George Brettle & Co,exact,100,False,427
+George Cross & Co,George Cross & Co,exact,100,False,428
+George Goss & Co,George Cross & Co,rapidfuzz_token_set_ratio,88,True,428
+George Johnson & Co,George Johnson & Co,exact,100,False,429
+George Lawrence,George Lawrence,exact,100,False,430
+George Peash,George Peash,exact,100,False,431
+George Routledge & Son,George Routledge & Son,exact,100,False,432
+George Smeed,George Smeed,exact,100,False,433
+George Walker,George Walker,exact,100,False,434
+George Wyatt,George Wyatt,exact,100,False,435
+Gilbert Kerr & Co,Gilbert Kerr & Co,exact,100,False,436
+Giles Loder,Giles Loder,exact,100,False,437
+Gillespie Churchill & Co,Gillespie Churchill & Co,exact,100,False,438
+Gillett Bros & Co,Gillett Bros & Co,exact,100,False,439
+Gillson Cole & Co,Gillson Cole & Co,exact,100,False,440
+Gilmour Rankin Strong & Co,"Gilmour, Rankin, Strang & Co.",rapidfuzz_token_set_ratio,95,False,441
+"Gilmour, Rankin, Strang & Co","Gilmour, Rankin, Strang & Co.",rapidfuzz_token_set_ratio,100,False,441
+"Gilmour, Rankin, Strang & Co.","Gilmour, Rankin, Strang & Co.",exact,100,False,441
+Gladstone Ewart & Co,Gladstone Ewart & Co,exact,100,False,442
+Gledstanes & Co,Gledstanes & Co,exact,100,False,443
+Gledstones & Co,Gledstanes & Co,rapidfuzz_token_set_ratio,91,True,443
+Glyn & Co,Glyn & Co O/A Union Bank Of Scotland,rapidfuzz_token_set_ratio,100,False,444
+Glyn & Co O/A Union Bank Of Scotland,Glyn & Co O/A Union Bank Of Scotland,exact,100,False,444
+Glyn Mills Currie,Glyn Mills Currie,exact,100,False,445
+Gorton & Son,Gorton & Son,exact,100,False,446
+Graham Tobias & Co,Graham Tobias & Co,exact,100,False,447
+Green Humphry & Co,Green Humphry & Co,exact,100,False,448
+Greenwood & Co,Greenwood & Co,exact,100,False,449
+Gresend & Co,Gresend & Co,exact,100,False,450
+"Grierson, Cole & Co.","Grierson, Cole & Co.",exact,100,False,451
+Grissell Brothers & Co,Grissell Brothers & Co,exact,100,False,452
+Grosscuth & Lubodlt,Grosscuth & Lubodlt,exact,100,False,453
+Guaranty Trust Co Of New York,Guaranty Trust Co Of New York,exact,100,False,454
+Guillaume Coster,Guillaume Coster,exact,100,False,455
+Gunning & Duarell,Gunning & Duarell,exact,100,False,456
+Gunning + Luarell,Gunning + Luarell,exact,100,False,457
+Gust Roos & Co,Gust Roos & Co,exact,100,False,458
+H & C Kent,H & C Kent,exact,100,False,459
+H & D Sharpe,H & D Sharpe,exact,100,False,460
+H & J Johnston & Co,H. & J. Johnson & Co,rapidfuzz_token_set_ratio,96,False,486
+H & R Fowler,H & R Fowler,exact,100,False,461
+H + E Muggeridge,H + E Muggeridge,exact,100,False,462
+H B Downing,H B Downing,exact,100,False,463
+H Ballin & Son,H Ballin & Son,exact,100,False,464
+H Bateman,H Bateman,exact,100,False,465
+H Bucknall & Sons Ltd,H Bucknall & Sons Ltd,exact,100,False,466
+H Butler & Son,H. Butler & Son,rapidfuzz_token_set_ratio,100,False,489
+H C & Cabe,H C & Cabe,exact,100,False,467
+H Cox & Co,H Cox & Co,exact,100,False,468
+H Davies,H Davies,exact,100,False,469
+H E + M Moses,H E + M Moses,exact,100,False,470
+H H Lindsay,H H Lindsay,exact,100,False,471
+H Hillby & Sons,H Hillby & Sons,exact,100,False,472
+H Hoffmann,H Hoffmann,exact,100,False,473
+H Huith,H Huith,exact,100,False,474
+H J Einthoven & Sons,H J Einthoven & Sons,exact,100,False,475
+H J Lias & Son,H J Lias & Son,exact,100,False,476
+H L & C Edwards & Co,H L & C Edwards & Co,exact,100,False,477
+H Lancaster & Bull,H Lancaster & Bull,exact,100,False,478
+H Lohnotamm,H Lohnotamm,exact,100,False,479
+H P Rouquette & Co,H P Rouquette & Co,exact,100,False,480
+H R Fowler,H & R Fowler,rapidfuzz_token_set_ratio,100,False,461
+H Richard & Sons,H Richard & Sons,exact,100,False,481
+H Rogers Sons & Co,"H. Rogess, Sons & Co",rapidfuzz_token_set_ratio,90,True,493
+H Sherwood Co,H Sherwood Co,exact,100,False,482
+H W Eaton,H. W. Eaton,rapidfuzz_token_set_ratio,100,False,498
+H Waithman & Co,H Waithman & Co,exact,100,False,483
+H White & Co,H White & Co,exact,100,False,484
+H Williamns & Co,H Williamns & Co,exact,100,False,485
+H. & J. Johnson & Co,H. & J. Johnson & Co,exact,100,False,486
+H. A Joseph,H. A Joseph,exact,100,False,487
+H. Bath & Son,H. Bath & Son,exact,100,False,488
+H. Butler & Son,H. Butler & Son,exact,100,False,489
+H. Clarkson & Co,H. Clarkson & Co,exact,100,False,490
+H. D. Baleh,H. D. Baleh,exact,100,False,491
+H. J. V. Greenway,H. J. V. Greenway,exact,100,False,492
+"H. Rogess, Sons & Co","H. Rogess, Sons & Co",exact,100,False,493
+H. S. Lefevre & Co,H. S. Lefevre & Co,exact,100,False,494
+H. T Morgan & Co,H. T Morgan & Co,exact,100,False,495
+H. Thurburn,H. Thurburn,exact,100,False,496
+H. Varasseus,H. Varasseus,exact,100,False,497
+H. W. Eaton,H. W. Eaton,exact,100,False,498
+H. W. Elder & Son,H. W. Elder & Son,exact,100,False,499
+H.C. Heut,H.C. Heut,exact,100,False,500
+H.J. Enthoven & Sons,H J Einthoven & Sons,rapidfuzz_token_set_ratio,96,False,475
+H.Kohnstamm,H.Kohnstamm,exact,100,False,501
+H.S.Lefevre,H. S. Lefevre & Co,rapidfuzz_token_set_ratio,100,False,494
+Haarbleichen Schumaum,Haarbleichen Schumaum,exact,100,False,502
+Haarbleicher Schumann,Haarbleicher Schumann,exact,100,False,503
+Hall & Gray,Hall & Gray,exact,100,False,504
+Hall & Nuttall,Hall & Nuttall,exact,100,False,505
+Hanson Smiths & Stevens,"Hanson, Smiths & Stephens",rapidfuzz_token_set_ratio,93,False,506
+"Hanson, Smiths & Stephens","Hanson, Smiths & Stephens",exact,100,False,506
+Hardcastle & Co.,Hardcastle & Co.,exact,100,False,507
+Harley Nephew & Co,Harley Nephew & Co,exact,100,False,508
+Harper Burne & Co,Harper Burne & Co,exact,100,False,509
+Harryman & White,Harryman & White,exact,100,False,510
+Hartman & Mallet,Hartman & Mallet,exact,100,False,511
+Harvey & Hudsons,Harvey & Hudsons,exact,100,False,512
+Harvey Stambridge,Harvey Stambridge,exact,100,False,513
+Harwood Knight & Allen,Harwood Knight & Allen,exact,100,False,514
+Hatimal Discount Co Ltd,Hatimal Discount Co Ltd,exact,100,False,515
+Hatsman & Co,Hatsman & Co,exact,100,False,516
+Havenith & Co,Havenith & Co,exact,100,False,517
+Hawes & Co,Hawes Stanbridge & Hedley,rapidfuzz_token_set_ratio,100,False,518
+Hawes Stanbridge & Hedley,Hawes Stanbridge & Hedley,exact,100,False,518
+Haycroft & Pethick,Haycroft & Pethick,exact,100,False,519
+Heilbut Symons & Co,"Heilbut, Symons & Co",rapidfuzz_token_set_ratio,100,False,520
+"Heilbut, Symons & Co","Heilbut, Symons & Co",exact,100,False,520
+Heitz & Deveze,Heitz & Deveze,exact,100,False,521
+Hellertwaag Russel,Hellertwaag Russel,exact,100,False,522
+Hen Geoff,Hen Geoff,exact,100,False,523
+Henckell Du Buisson & Co,Henckell Du Buisson & Co,exact,100,False,524
+Henckell Du Buisson Co,Henckell Du Buisson & Co,rapidfuzz_token_set_ratio,100,False,524
+Henderson & Constable,Henderson & Constable,exact,100,False,525
+Henry Clarke & Co,Henry Clarke & Co,exact,100,False,526
+Henry Cowell,Henry Cowell,exact,100,False,527
+Henry Dresser & Co,Henry Dresser & Co,exact,100,False,528
+Henry Joachim,Henry Joachim,exact,100,False,529
+Henry Kendall & Sons,Henry Kendall & Sons,exact,100,False,530
+Henry Moul,Henry Moul,exact,100,False,531
+Henry Powell & Sons,Henry Powell & Sons,exact,100,False,532
+Heugh Balfour & Co,Heugh Balfour & Co,exact,100,False,533
+Heywood & Co,Heywood & Co,exact,100,False,534
+Hicks Baylis & Hicks,Hicks Baylis & Hicks,exact,100,False,535
+Higgins Eagle & Hutchinson,Higgins Eagle & Hutchinson,exact,100,False,536
+Higginson & Co,Higginson & Co,exact,100,False,537
+Hindley Co,Hindley Co,exact,100,False,538
+Hinkpatrick & Belguy,Hinkpatrick & Belguy,exact,100,False,539
+Hinton Brothers & Co,Hinton Brothers & Co,exact,100,False,540
+Hit Dellators,Hit Dellators,exact,100,False,541
+Hl Crohn,Hl Crohn,exact,100,False,542
+Hoare Buxton & Co,Hoare Buxton & Co,exact,100,False,543
+Hocking Hitchock & Co,Hocking Hitchock & Co,exact,100,False,544
+Hoge & Williamson,Hoge & Williamson,exact,100,False,545
+Hohler & Co,Hohler & Co,exact,100,False,546
+Hoine Wahney,Hoine Wahney,exact,100,False,547
+Hong Kong & Shanghai Banking Corporation,Hong Kong & Shanghai Banking Corporation,exact,100,False,548
+Hood & Ward,Hood & Ward,exact,100,False,549
+Hop Planters Joint Stock Company,Hop Planters Joint Stock Company,exact,100,False,550
+Hore + Gifford,Hore + Gifford,exact,100,False,551
+Horne & Watney,Horne & Watney,exact,100,False,552
+Horstman & Co,Horstman & Co,exact,100,False,553
+Horstman Co,Horstman & Co,rapidfuzz_token_set_ratio,100,False,553
+Hoston Megaw Co Ltd,Hoston Megaw Co Ltd,exact,100,False,554
+Howse & Mead,Howse & Mead,exact,100,False,555
+Hugh Jones & Co,Hugh Jones & Co,exact,100,False,556
+Hy Rogers Sons & Co,Hy Rogers Sons & Co,exact,100,False,557
+Hy Sherwood & Co,Hy Sherwood & Co,exact,100,False,558
+Hyde Hodge & Co,Hyde Hodge & Co,exact,100,False,559
+I & E Corderoy & Co,I & E Corderoy & Co,exact,100,False,560
+I B W Nevill & Co,I B W Nevill & Co,exact,100,False,561
+I F Pawson & Co,I. F. Pawson & Co,rapidfuzz_token_set_ratio,100,False,567
+I Isaacs,I Isaacs,exact,100,False,562
+I T W Noakes,I T W Noakes,exact,100,False,563
+I. & B. Pearse & Co,I. & B. Pearse & Co,exact,100,False,564
+I. Ciw Thaw & Co,I. Ciw Thaw & Co,exact,100,False,565
+I. E. Coleman,I. E. Coleman,exact,100,False,566
+I. F. Pawson & Co,I. F. Pawson & Co,exact,100,False,567
+I. K. Gilliat & Co,I. K. Gilliat & Co,exact,100,False,568
+I. Leonino & Co,I. Leonino & Co,exact,100,False,569
+I. W. Cater Inman & Co,I. W. Cater Inman & Co,exact,100,False,570
+I. W. Cater Sons & Co,I. W. Cater Inman & Co,rapidfuzz_token_set_ratio,100,False,570
+I. W. Cripps,I. W. Cripps,exact,100,False,571
+I. W. Horsley,I. W. Horsley,exact,100,False,572
+I.H.H. Holm,I.H.H. Holm,exact,100,False,573
+I.K. Gilliat & Co,I. K. Gilliat & Co,rapidfuzz_token_set_ratio,100,False,568
+Imp Merchant Credit Australia,Imp Merchant Credit Australia,exact,100,False,574
+Imp Merchant Credit Limited,Imp Merchant Credit Australia,rapidfuzz_token_set_ratio,100,False,574
+Imp. Ottoman Government,Imp. Ottoman Government,exact,100,False,575
+Imperial Ottoman Bank,Imperial Ottoman Bank,exact,100,False,576
+Inglis & Wakefield,Inglis & Wakefield,exact,100,False,577
+Inglis Wakefield,Inglis & Wakefield,rapidfuzz_token_set_ratio,100,False,577
+International Banking Corporation,International Banking Corporation,exact,100,False,578
+It Tixcsen & Co,It Tixcsen & Co,exact,100,False,579
+"Iwing, Ebsworth & Holmes","Iwing, Ebsworth & Holmes",exact,100,False,580
+J & A Crocker,J & A Crocker,exact,100,False,581
+J & B Peade & Co,J & B Peade & Co,exact,100,False,582
+J & I Batten & Co,J & I Batten & Co,exact,100,False,583
+J & J Vickers & Co,J & J Vickers & Co,exact,100,False,584
+J & R Morley,J & R Morley,exact,100,False,585
+J & T Hepburn & Sons,J & T Hepburn & Sons,exact,100,False,586
+J & W J Courtenay,J & W J Courtenay,exact,100,False,587
+J & W Rider,J & W Rider,exact,100,False,588
+J Bischoff & Sons,J Bischoff & Sons,exact,100,False,589
+J Bulk Son & Co,J Bulk Son & Co,exact,100,False,590
+J Butt Son & Co,J Butt Son & Co,exact,100,False,591
+J C Bailey,J C Bailey,exact,100,False,592
+J C Im Thuru & Co,J. C. Im Thurm & Co,rapidfuzz_token_set_ratio,92,False,629
+J Carter & Co,J Carter & Co,exact,100,False,593
+J Collinson,J Collinson,exact,100,False,594
+J D Dow,J. D. Dow,rapidfuzz_token_set_ratio,100,False,630
+J D Park,J D Park,exact,100,False,595
+J Davidge,J Davidge,exact,100,False,596
+J Davies & Son,J Davies & Son,exact,100,False,597
+J Dowson & Co,J Dowson & Co,exact,100,False,598
+J E Ford,J E Ford,exact,100,False,599
+J F Fixsen & Co,J F Fixsen & Co,exact,100,False,600
+J Foot & Son,J Foot & Son,exact,100,False,601
+J Gaury & Co,J. Gaury & Co,rapidfuzz_token_set_ratio,100,False,634
+J H Dart,J H Dart,exact,100,False,602
+J H N Loundes & Co,J H N Loundes & Co,exact,100,False,603
+J H Randall,J H Randall,exact,100,False,604
+J H Schroder & Co,J H Schroder & Co,exact,100,False,605
+J Hart & Co,J Hart & Co,exact,100,False,606
+J Hartley & Co,J Hartley & Co,exact,100,False,607
+J Hash & Co,J Hash & Co,exact,100,False,608
+J Hubbard & Co,J. Hubbard & Co,rapidfuzz_token_set_ratio,100,False,639
+J J Buttress,J J Buttress,exact,100,False,609
+J Jackson & Co,J Jackson & Co,exact,100,False,610
+J Jacobson & Co,J Jacobson & Co,exact,100,False,611
+J L Lemme & Co,J L Lemme & Co,exact,100,False,612
+J L Lensome & Co,J L Lensome & Co,exact,100,False,613
+J Leonino & Co,J Leonino & Co,exact,100,False,614
+J Main Sons & Co,J Main Sons & Co,exact,100,False,615
+J Maurenbrecher & Co,J Maurenbrecher & Co,exact,100,False,616
+J P Bunt & Co,J P Bunt & Co,exact,100,False,617
+J P Thal & Co,J. P. Thol & Co,rapidfuzz_token_set_ratio,90,True,646
+J R Jaffray & Co,J. R. Jaffray & Co,rapidfuzz_token_set_ratio,100,False,647
+J R Thomas & Co,J R Thomason & Co,rapidfuzz_token_set_ratio,92,False,618
+J R Thomason & Co,J R Thomason & Co,exact,100,False,618
+J Samalvier,J Samalvier,exact,100,False,619
+J Simpson,J Simpson,exact,100,False,620
+J W Gibbon,J W Gibbon,exact,100,False,621
+J. & C. Boyd & Co,J. & C. Boyd & Co,exact,100,False,622
+J. B Thompson,J. B Thompson,exact,100,False,623
+J. B. Elin,J. B. Elin,exact,100,False,624
+J. B. Elvis,J. B. Elvis,exact,100,False,625
+J. B. Minshall,J. B. Minshall,exact,100,False,626
+J. Ballauce & Son,J. Ballauce & Son,exact,100,False,627
+J. Bennock & Co,J. Bennock & Co,exact,100,False,628
+J. C. Im Thurm & Co,J. C. Im Thurm & Co,exact,100,False,629
+J. D. Dow,J. D. Dow,exact,100,False,630
+J. Defries & Sons,J. Defries & Sons,exact,100,False,631
+J. G. Buskin,J. G. Buskin,exact,100,False,632
+J. G. Homere,J. G. Homere,exact,100,False,633
+J. Gaury & Co,J. Gaury & Co,exact,100,False,634
+J. H Boobyer & Co,J. H Boobyer & Co,exact,100,False,635
+J. H. Dant,J. H. Dant,exact,100,False,636
+J. H. Mackenzie,J. H. Mackenzie,exact,100,False,637
+J. H. Rudall,J. H. Rudall & Son,rapidfuzz_token_set_ratio,100,False,638
+J. H. Rudall & Son,J. H. Rudall & Son,exact,100,False,638
+J. Hubbard & Co,J. Hubbard & Co,exact,100,False,639
+J. Hughes & Co,J. Hughes & Co,exact,100,False,640
+J. Kynaston & Sons,J. Kynaston & Sons,exact,100,False,641
+J. L. Minel,J. L. Minel,exact,100,False,642
+J. M. Buston,J. M. Buston,exact,100,False,643
+J. Mosenthal & Co,J. Mosenthal & Co,exact,100,False,644
+J. O. Beetron,J. O. Beetron,exact,100,False,645
+J. P. Thol & Co,J. P. Thol & Co,exact,100,False,646
+J. R. Jaffray & Co,J. R. Jaffray & Co,exact,100,False,647
+J. S. Morgan & Co,J. S. Morgan & Co,exact,100,False,648
+J. Samuel & Emmanuel,J. Samuel & Emmanuel,exact,100,False,649
+J. Tenny Clarke & Co,J. Tenny Clarke & Co,exact,100,False,650
+J. W Laird,J. W Laird,exact,100,False,651
+J. Young Ehlers & Co,J. Young Ehlers & Co,exact,100,False,652
+J.Greenich & Sons Ld,J.Greenich & Sons Ld,exact,100,False,653
+J.H.Schroder & Co,J H Schroder & Co,rapidfuzz_token_set_ratio,100,False,605
+J.R Belltman,J.R Belltman,exact,100,False,654
+Ja Bull Sons Co,Ja Bull Sons Co,exact,100,False,655
+Jacob Isaac,Jacob Isaac,exact,100,False,656
+Jacob Walter & Co,Jacob Walter & Co,exact,100,False,657
+"Jacomb, Hogg & Co","Jacomb, Hogg & Co",exact,100,False,658
+James & Brown,James & Brown,exact,100,False,659
+James Anderson & Co,James Anderson & Co,exact,100,False,660
+James Barber & Co,James Barber & Co,exact,100,False,661
+James Bult Son & Co,James Bult Son & Co,exact,100,False,662
+James Burness & Sons,James Burness & Sons,exact,100,False,663
+James Consens,James Consens,exact,100,False,664
+James Cook & Co,James Cook & Co,exact,100,False,665
+James Coster & Co,James Coster & Co,exact,100,False,666
+James Davidge,James Davidge,exact,100,False,667
+James Dickson,James Dickson,exact,100,False,668
+James Duncan & Co,James Duncan & Co,exact,100,False,669
+James Fowa,James Fowa,exact,100,False,670
+James Hill & Sons,James Still & Sons,rapidfuzz_token_set_ratio,88,True,682
+James Lang,James Lang,exact,100,False,671
+James Laurence,James Laurence,exact,100,False,672
+James Lawrence,James Laurence,rapidfuzz_token_set_ratio,92,False,672
+James Matthews & Co,James Matthews & Co,exact,100,False,673
+James Mills,James Mills,exact,100,False,674
+James Mullins & Co,James Mullins & Co,exact,100,False,675
+James Norris,James Norris,exact,100,False,676
+James Pin & Co,James Pin & Co,exact,100,False,677
+James Scott & Son,James Scott & Son,exact,100,False,678
+James Shears & Sons,James Shears & Sons,exact,100,False,679
+James Spicer & Sons,James Spicer & Sons,exact,100,False,680
+James Steains & Co,James Steains & Co,exact,100,False,681
+James Still & Sons,James Still & Sons,exact,100,False,682
+James Watt & Co,James Watt & Co,exact,100,False,683
+James Wiseman,James Wiseman,exact,100,False,684
+Jellicoe & Wix,Jellicoe & Wix,exact,100,False,685
+Jersey Banking Coy,Jersey Banking Coy,exact,100,False,686
+Jh Macku,Jh Macku,exact,100,False,687
+Joane Jackson & Co,Joane Jackson & Co,exact,100,False,688
+John Anderson & Sons,John Anderson & Sons,exact,100,False,689
+John Armitage & Co,John Armitage & Co,exact,100,False,690
+John Barelli,John Barelli & Co,rapidfuzz_token_set_ratio,100,False,691
+John Barelli & Co,John Barelli & Co,exact,100,False,691
+John Bill Dresser & Co,John Bill Dresser & Co,exact,100,False,692
+John Boy & Co,John Boy & Co,exact,100,False,693
+John Boyd,John Boyd,exact,100,False,694
+John Courtenay,John Courtenay,exact,100,False,695
+John Crossley & Sons Limited,John Crossley & Sons Limited,exact,100,False,696
+John Currie & Co,John Currie & Co,exact,100,False,697
+John Dickensgill & Son,John Pickessgill & Sons,rapidfuzz_token_set_ratio,88,True,713
+John Fair & Co,John Mair Son & Co,rapidfuzz_token_set_ratio,90,True,711
+John Feltham & Co,John Feltham & Co,exact,100,False,698
+John Fore & Co,John Fore & Co,exact,100,False,699
+John Getting,John Getting,exact,100,False,700
+John Gladding & Son,John Gladding & Son,exact,100,False,701
+John Gladstone & Co,John Gladstone & Co,exact,100,False,702
+John Goie & Co,John Goie & Co,exact,100,False,703
+John H Barbe,John H Barbe,exact,100,False,704
+John Halles,John Halles,exact,100,False,705
+John Harbottle,John Harbottle,exact,100,False,706
+John Haurie Nephew,John Haurie Nephew,exact,100,False,707
+John Hubbard & Co,John Hubbard & Co,exact,100,False,708
+John Hugher & Co,John Hugher & Co,exact,100,False,709
+John Keay Sons Co,John Reay Sons & Co,rapidfuzz_token_set_ratio,80,True,717
+John Macfrige,John Macfrige,exact,100,False,710
+John Mair Son & Co,John Mair Son & Co,exact,100,False,711
+John Montefiore & Son,John Montefiore & Son,exact,100,False,712
+John Pickersgill & Son,John Pickessgill & Sons,rapidfuzz_token_set_ratio,94,False,713
+John Pickessgill & Sons,John Pickessgill & Sons,exact,100,False,713
+John Pirie & Co,John Pirie & Co,exact,100,False,714
+John Ranking & Co,John Ranking & Co,exact,100,False,715
+John Rapp & Co,John Rapp & Co,exact,100,False,716
+John Reay Sons & Co,John Reay Sons & Co,exact,100,False,717
+"John Reay, Sons Co",John Reay Sons & Co,rapidfuzz_token_set_ratio,100,False,717
+John Riaff Sons & Co,John Riaff Sons & Co,exact,100,False,718
+John S Baike,John S Baike,exact,100,False,719
+John Schneider & Co,John Schneider & Co,exact,100,False,720
+John Schwartz,John Schwartz,exact,100,False,721
+John Sharp,John Sharp,exact,100,False,722
+John Simmonds,John Simmonds,exact,100,False,723
+John Smith,John Smith,exact,100,False,724
+John Tellham & Co,John Tellham & Co,exact,100,False,725
+John Torrance,John Torrance,exact,100,False,726
+John Walker,John Walker,exact,100,False,727
+John Williams & Sons,John Williams & Sons,exact,100,False,728
+John Young & Co,John Young Ehlers & Co,rapidfuzz_token_set_ratio,100,False,729
+John Young Ehlers & Co,John Young Ehlers & Co,exact,100,False,729
+Joint Stock Discount Co Limited,Joint Stock Discount Co Limited,exact,100,False,730
+Jonas Simonsen & Co,Jonas Simonsen & Co,exact,100,False,731
+Jones & Brown,Jones & Brown,exact,100,False,732
+Jos. Bridgette & Co,Jos. Bridgette & Co,exact,100,False,733
+Joseph Allard,Joseph Allard,exact,100,False,734
+Joseph Anderson & Son,Joseph Anderson & Son,exact,100,False,735
+Joseph Balfour,Joseph Balfour,exact,100,False,736
+Joseph Barwick,Joseph Barwick,exact,100,False,737
+Joseph Bridgett & Co,Joseph Bridgett & Co,exact,100,False,738
+Joseph Callinson,Joseph Callinson,exact,100,False,739
+Joseph Gonalaie,Joseph Gonalaie,exact,100,False,740
+Joseph Jackson,Joseph Jackson,exact,100,False,741
+Joseph Leese,Joseph Leese,exact,100,False,742
+Joseph Richard,Joseph Richard,exact,100,False,743
+Joseph Samalivies,Joseph Samalivies,exact,100,False,744
+Joseph Tetley & Co,Joseph Tetley & Co,exact,100,False,745
+Joseph Traves & Sons,Joseph Traves & Sons,exact,100,False,746
+Josh Anderson,Josh Anderson,exact,100,False,747
+Josh Robinson + Ebbie Vale Co,Josh Robinson + Ebbie Vale Co,exact,100,False,748
+Joshua Jornalvico,Joshua Jornalvico,exact,100,False,749
+Jp Thol & Co,Jp Thol & Co,exact,100,False,750
+Jr Browne,Jr Browne,exact,100,False,751
+Jroing Ellsworth & Adams,Jroing Ellsworth & Adams,exact,100,False,752
+Jt Docoson & Co,Jt Docoson & Co,exact,100,False,753
+Jt Dow,Jt Dow,exact,100,False,754
+Judah Hard & Co,"Judah, Hart & Co",rapidfuzz_token_set_ratio,91,True,755
+"Judah, Hart & Co","Judah, Hart & Co",exact,100,False,755
+Julius Jacoby,Julius Jacoby,exact,100,False,756
+Jw Silmer & Co,Jw Silmer & Co,exact,100,False,757
+Keith Sands & Co,Keith Sands & Co,exact,100,False,758
+Kemp Stone & Co,Kemp Stone & Co,exact,100,False,759
+Kerr & Scott,Kerr & Scott,exact,100,False,760
+"Kess, Scott & Co","Kess, Scott & Co",exact,100,False,761
+King & Foa,King & Foa,exact,100,False,762
+King Melvil & Co,King Melvil & Co,exact,100,False,763
+Kipling Pain & Co,Kipling Pain & Co,exact,100,False,764
+Kleinwort & Cohen,Kleinwort Sons & Co,rapidfuzz_token_set_ratio,100,False,765
+Kleinwort Sons & Co,Kleinwort Sons & Co,exact,100,False,765
+Koebel Jameson & Co,Koebel Jameson & Co,exact,100,False,766
+Konig Bros,Konig Bros,exact,100,False,767
+Kraeutler & Mieville,Kraeutler & Mieville,exact,100,False,768
+Kraft Bros,Kraft Bros,exact,100,False,769
+L Bisset & Co,L Bisset & Co,exact,100,False,770
+L Bunn & Co,L Bunn & Co,exact,100,False,771
+L Busson & Co,L Busson & Co,exact,100,False,772
+L Cohen,L Cohen,exact,100,False,773
+L Engstrom Neame & Co,L Engstrom Neame & Co,exact,100,False,774
+L Goddard Finch & Co,"L. Goddard, Finch & Co",rapidfuzz_token_set_ratio,100,False,778
+L Hart & Son,L. Hart & Son,rapidfuzz_token_set_ratio,100,False,779
+L&A Brown,L&A Brown,exact,100,False,775
+L. Brusewitz,L. Brusewitz,exact,100,False,776
+L. Engstrom Browning & Co,L. Engstrom Browning & Co,exact,100,False,777
+"L. Goddard, Finch & Co","L. Goddard, Finch & Co",exact,100,False,778
+L. Hart & Son,L. Hart & Son,exact,100,False,779
+L.Boy.W.Bk Bk Chas Comiys Co,L.Boy.W.Bk Bk Chas Comiys Co,exact,100,False,780
+Langton + Robinson,Langton + Robinson,exact,100,False,781
+Lanthe Buhnell,Lanthe Buhnell,exact,100,False,782
+Lapton Hootond & Co,Lapton Hootond & Co,exact,100,False,783
+Lascaridi & Co,Lascaridi & Co,exact,100,False,784
+Lat Discount Co Lo,Lat Discount Co Lo,exact,100,False,785
+Leaf Sons & Co,Leaf Sons & Co,exact,100,False,786
+Lemon Hart & Son,Lemon Hart & Son,exact,100,False,787
+Lengerke Caesar,Lengerke Caesar,exact,100,False,788
+Leonon Hart & Son,Leonon Hart & Son,exact,100,False,789
+Lester & Buskin,Lester & Buskin,exact,100,False,790
+Lewells + Nick,Lewells + Nick,exact,100,False,791
+Lister & Biggs,Lister & Biggs,exact,100,False,792
+Lloyd & Attree,Lloyd & Attree,exact,100,False,793
+Lloyd'S Bank Ltd,Lloyd'S Bank Ltd,exact,100,False,794
+Locke Lanccaster W W R Johnson Sons Ltd,Locke Lanccaster W W R Johnson Sons Ltd,exact,100,False,795
+"Locke, Crosier & Edwards","Locke, Crosier & Edwards",exact,100,False,796
+"Lockie, Crosier & Edwards","Lockie, Crosier & Edwards",exact,100,False,797
+Lom Bunudti Soms & Co,Lom Bunudti Soms & Co,exact,100,False,798
+Lon Hanseatic Bk Ld,Lon Hanseatic Bk Ld,exact,100,False,799
+Lon Jt Stock Bk,Lon Jt Stock Bk,exact,100,False,800
+Lon Lpool Bk Of Comce,Lon Lpool Bk Of Comce,exact,100,False,801
+Lon Provincial Bk,Lon Provincial Bk,exact,100,False,802
+Lon S.Western Bk,Lon S.Western Bk,exact,100,False,803
+Lon: Asiatic & American Coy Limited,Lon: Asiatic & American Coy Limited,exact,100,False,804
+Lon: River Plate Bank Limited,Lon: River Plate Bank Limited,exact,100,False,805
+London & Brazilian Bank,The London Brazilian Bank,rapidfuzz_token_set_ratio,100,False,1167
+London & Liverpool Bank Of Commerce Ltd,London & Liverpool Bank Of Commerce Ltd,exact,100,False,806
+London & River Plate Bank Ltd,London River Place Bank Limited,rapidfuzz_token_set_ratio,91,True,812
+London & Venezuela Bank Limited,London & Venezuela Bank Limited,exact,100,False,807
+London Bank Of Australia,London Bank Of Australia Ltd,rapidfuzz_token_set_ratio,100,False,808
+London Bank Of Australia Ltd,London Bank Of Australia Ltd,exact,100,False,808
+London County & Westminster Bank Ltd,London County Bank For The Midland Bank,rapidfuzz_token_set_ratio,75,True,809
+London County Bank,London County Bank For The Midland Bank,rapidfuzz_token_set_ratio,100,False,809
+London County Bank For The Midland Bank,London County Bank For The Midland Bank,exact,100,False,809
+London Discount Corporation,London Discount Corporation,exact,100,False,810
+London Missionary Soc,London Missionary Soc,exact,100,False,811
+London River Place Bank Limited,London River Place Bank Limited,exact,100,False,812
+London S N Coy Limited,London S N Coy Limited,exact,100,False,813
+London Westminister Bank,London Westminister Bank,exact,100,False,814
+Louis Cohen,Louis Cohen,exact,100,False,815
+Loveing & Minton,Loveing & Minton,exact,100,False,816
+Lroving Ebsworth & Co,Lroving Ebsworth & Co,exact,100,False,817
+Luckie Brothers & Co,Luckie Brothers & Co,exact,100,False,818
+Lupton Hooton & Co,Lupton Hooton & Co,exact,100,False,819
+Lurek Barelay,Lurek Barelay,exact,100,False,820
+Lut & George,Lut & George,exact,100,False,821
+Lutgens & Ripley,Lutgens & Ripley,exact,100,False,822
+Lyon & Lucker,Lyon & Lucker,exact,100,False,823
+M Da Costa + I. E. Coleman,M Da Costa + I. E. Coleman,exact,100,False,824
+M F Mackenzie,M F Mackenzie,exact,100,False,825
+M Levin & Adler,M Levin & Adler,exact,100,False,826
+M. Mayer & Co,M. Mayer & Co,exact,100,False,827
+M. Z. Just & Co,M. Z. Just & Co,exact,100,False,828
+Mac Intyre Buchanan & Co,"Mac Intyre, Buchanan & Co",rapidfuzz_token_set_ratio,100,False,829
+"Mac Intyre, Buchanan & Co","Mac Intyre, Buchanan & Co",exact,100,False,829
+"Mackinlay, Reuss & Co","Mackinlay, Reuss & Co",exact,100,False,830
+Mae Jontque Buchanan & Co,Mae Jontque Buchanan & Co,exact,100,False,831
+Manchester & Liverpool District Bkg Co Ltd,Manchester & Liverpool District Bkg Co Ltd,exact,100,False,832
+Mangles & Co,Mangles Brothers,rapidfuzz_token_set_ratio,100,False,833
+Mangles Brothers,Mangles Brothers,exact,100,False,833
+Marshall Page & Co,Marshall Page & Co,exact,100,False,834
+Martin'S Bank Ltd,Martin'S Bank Ltd,exact,100,False,835
+Mary Burton,Mary Burton,exact,100,False,836
+Matthew Brothers,Matthew Brothers,exact,100,False,837
+Mccalmont Bros & Co,Mccalmont Brothers & Co,rapidfuzz_token_set_ratio,100,False,838
+Mccalmont Brothers & Co,Mccalmont Brothers & Co,exact,100,False,838
+"Meares, Absolom & Co","Meares, Absolom & Co",exact,100,False,839
+Melhuish Sons & Co,Melhuish Sons & Co,exact,100,False,840
+Mercantile Bank Of India Ltd,Mercantile Bank Of India Ltd,exact,100,False,841
+Merchant Bank & Co Limited,Merchant Bank & Co Limited,exact,100,False,842
+Messrs Berkefeld,Messrs Berkefeld,exact,100,False,843
+Metrop Provincial Bank Limited,Metrop Provincial Bank Limited,exact,100,False,844
+Middleton Answorth & Co,Middleton Answorth & Co,exact,100,False,845
+Mildred Goyenchi & Co,Mildred Goyeneche & Co,rapidfuzz_token_set_ratio,91,True,846
+Mildred Goyeneche & Co,Mildred Goyeneche & Co,exact,100,False,846
+Miles Brother & Co,Miles Brother & Co,exact,100,False,847
+Miller & Potter,Miller & Potter,exact,100,False,848
+Mitchell Yeames & Co,Mitchell Yeames & Co,exact,100,False,849
+Mme Cherry Co,Mme Cherry Co,exact,100,False,850
+Mody & Co,Mody & Co,exact,100,False,851
+Morgan Brothers,Morgan Yellibrand & Co,rapidfuzz_token_set_ratio,100,False,852
+Morgan Gellibrand & Co,Morgan Yellibrand & Co,rapidfuzz_token_set_ratio,94,False,852
+Morgan Yellibrand & Co,Morgan Yellibrand & Co,exact,100,False,852
+Moris Ashby Ltd,Moris Ashby Ltd,exact,100,False,853
+Morlet + Horne,Morlet + Horne,exact,100,False,854
+Morley & Powell,Morley & Powell,exact,100,False,855
+Morley Nephew & Co,Morley Nephew & Co,exact,100,False,856
+Morrison Dillon & Co,Morrison Dillon & Co,exact,100,False,857
+Moses Brothers,Moses Brothers,exact,100,False,858
+Moses Solomon,Moses Brothers,rapidfuzz_token_set_ratio,100,False,858
+Mullens Marshall & Co,Mullens Marshall & Co,exact,100,False,859
+N Cohen,N Cohen,exact,100,False,860
+N Fisher & Sons,N Fisher & Sons,exact,100,False,861
+N Garrett & Sons,N Garrett & Sons,exact,100,False,862
+N Nicholls & Sons,N Nicholls & Sons,exact,100,False,863
+N. C. Frank & Sons,N. C. Frank & Sons,exact,100,False,864
+N. Ganuap,N. Ganuap,exact,100,False,865
+N. H + A Scott,N. H + A Scott,exact,100,False,866
+N. H. Pantridge & Co,N. H. Pantridge & Co,exact,100,False,867
+N. M. Rothschild & Sons,N. M. Rothschild & Sons,exact,100,False,868
+Nara Matu,Nara Matu,exact,100,False,869
+Nate Linds,Nate Linds,exact,100,False,870
+Nathaniel Cohen,Nathaniel Cohen,exact,100,False,871
+National Bank Of Australasia,National Bank Of Australasia,exact,100,False,872
+National Bank Of India Ltd,National Bank Of India Ltd,exact,100,False,873
+National Bank Of New Zealand,National Bank Of New Zealand,exact,100,False,874
+National Bank Of Scotland,National Bank Of Scotland,exact,100,False,875
+National Bk Ld,National Provincial Bk Of England Ltd,rapidfuzz_token_set_ratio,88,True,877
+National Discount Co Of Limited,National Discount Co Of Limited,exact,100,False,876
+National Discount Co.,National Discount Co Of Limited,rapidfuzz_token_set_ratio,100,False,876
+National Discount Corporation,National Discount Co Of Limited,rapidfuzz_token_set_ratio,89,True,876
+National Provincial Bk Of England Ltd,National Provincial Bk Of England Ltd,exact,100,False,877
+Natl Bk Of Africa Ltd,Natl Bk Of Africa Ltd,exact,100,False,878
+Natl Bk Of Australasia,Natl Bk Of Australasia,exact,100,False,879
+Natl Bk Of Belgium,Natl Bk Of Belgium,exact,100,False,880
+Natl Bk Of England Ltd,Natl Bk Of England Ltd,exact,100,False,881
+Natl Bk Of India Ltd,Natl Bk Of India Ltd,exact,100,False,882
+Naylor Benyon Co Ld,Naylor Benyon Co Ld,exact,100,False,883
+"Naylor, Benzon & Co","Naylor, Benzon & Co",exact,100,False,884
+Nesleukings Bus,Nesleukings Bus,exact,100,False,885
+Nestle & Anglo Swiss C.Milk Co,Nestle & Anglo Swiss C.Milk Co,exact,100,False,886
+Nestle Andreae & Co,Nestle Andreae & Co,exact,100,False,887
+Neumann Lueback & Co,Neumann Lueback & Co,exact,100,False,888
+Neville Reid Prestwich & Co,Neville Reid Prestwich & Co,exact,100,False,889
+New Zealand Bank,New Zealand Bank,exact,100,False,890
+New Zealand Loans Afe,New Zealand Loans Afe,exact,100,False,891
+Newton B & Co,Newton B & Co,exact,100,False,892
+Nohler & Co,Nohler & Co,exact,100,False,893
+Norris & Chaplin,Norris & Chaplin,exact,100,False,894
+Northumberland & Durham Coal,Northumberland & Durham Coal Co,rapidfuzz_token_set_ratio,100,False,895
+Northumberland & Durham Coal Co,Northumberland & Durham Coal Co,exact,100,False,895
+Norton Megaw & Co Ltd,Norton Megaw & Co Ltd,exact,100,False,896
+Novelli & Co,Novelli & Co,exact,100,False,897
+Nowoorjee Furdoonjee,Nowoorjee Furdoonjee,exact,100,False,898
+O. Roberts & Son,O. Roberts & Son,exact,100,False,899
+Oastler & Palmer,Oastler & Palmer,exact,100,False,900
+Oliver & Carr,Oliver & Carr,exact,100,False,901
+Ollier & Co,Ollier & Co,exact,100,False,902
+Oriental Bank Corporation,Oriental Bank Corporation,exact,100,False,903
+Overend Gurney & Co,Overend Gurney & Co,exact,100,False,904
+Owthwaite & Co,Owthwaite & Co,exact,100,False,905
+P & C Van Notten & Co,P & C Van Notten & Co,exact,100,False,906
+P Davey & Sons,P Davey & Sons,exact,100,False,907
+P Grenfell & Sons,P Grenfell & Sons,exact,100,False,908
+P Hava & Co,P Hava & Co,exact,100,False,909
+P Howard,P Howard,exact,100,False,910
+P J Meugsino,P J Meugsino,exact,100,False,911
+P Mordon & Co,P Mordon & Co,exact,100,False,912
+P T Ralli,P T Ralli,exact,100,False,913
+P. Abraham,P. Abraham,exact,100,False,914
+P. J. Morgan & Co,P. J. Morgan & Co,exact,100,False,915
+P. S. Galitti,P. S. Galitti,exact,100,False,916
+Page & Welch,Page & Welch,exact,100,False,917
+Palmer & Co,Palmer Mackillop Dent & Co,rapidfuzz_token_set_ratio,100,False,918
+Palmer Mackillop Dent & Co,Palmer Mackillop Dent & Co,exact,100,False,918
+Parker Hine & Co,Parker Son & Picktchef,rapidfuzz_token_set_ratio,76,True,919
+Parker Son & Co,Parker Son & Picktchef,rapidfuzz_token_set_ratio,100,False,919
+Parker Son & Picktchef,Parker Son & Picktchef,exact,100,False,919
+Parkinson & Dilchick,Parkinson & Dilchick,exact,100,False,920
+Parner Sons & Pictoned,Parner Sons & Pictoned,exact,100,False,921
+Parr'S Bank Ltd,Parr'S Bank Ltd,exact,100,False,922
+Pastre Brothers,Pastre Brothers,exact,100,False,923
+Peek Bros & Co,Peek Brothers & Co,rapidfuzz_token_set_ratio,100,False,924
+Peek Brothers & Co,Peek Brothers & Co,exact,100,False,924
+Perrott & Perrott,Perrott & Perrott,exact,100,False,925
+Perrott +Perrott,Perrott & Perrott,rapidfuzz_token_set_ratio,100,False,925
+Pesk Hooie,Pesk Hooie,exact,100,False,926
+Pesta Movie,Pesta Movie,exact,100,False,927
+Peter Rolt & Co,Peter Rolt & Co,exact,100,False,928
+Philip Levi & Co,Philip Levi & Co,exact,100,False,929
+Phillips Faithfull & Co,Phillips Faithfull & Co,exact,100,False,930
+Phillips King & Co,Phillips King & Co,exact,100,False,931
+Phirias Abraham,Phirias Abraham,exact,100,False,932
+Pike Leake & Co,Pike Leake & Co,exact,100,False,933
+Pinto Leite & Brothers,Pinto Leite & Brothers,exact,100,False,934
+Pinto Leite & Nephews,Pinto Leite & Brothers,rapidfuzz_token_set_ratio,100,False,934
+Pinto Perez & Co,"Pinto Perez, Ashley & Co",rapidfuzz_token_set_ratio,100,False,935
+"Pinto Perez, Ashley & Co","Pinto Perez, Ashley & Co",exact,100,False,935
+Pomsford Southall & Co,Pomsford Southall & Co,exact,100,False,936
+Poppleton Gibs & Co,Poppleton Gibs & Co,exact,100,False,937
+"Porter, Schlusser & Co","Porter, Schlusser & Co",exact,100,False,938
+Poutus Kleman,Poutus Kleman,exact,100,False,939
+Price & Co For The Bedford,Price & Co For The Bedford,exact,100,False,940
+Price & Pierce Ltd,Price & Pierce Ltd,exact,100,False,941
+Price Coker & Co,Price Coker & Co,exact,100,False,942
+Price'S Patent Candle Co Limited,Price'S Patent Candle Company Limited,rapidfuzz_token_set_ratio,100,False,943
+Price'S Patent Candle Company Limited,Price'S Patent Candle Company Limited,exact,100,False,943
+Priei Cohen & Co,Priei Cohen & Co,exact,100,False,944
+Prier P Candle & Co,Prier P Candle & Co,exact,100,False,945
+"Prince, Ogg & Co","Prince, Ogg & Co",exact,100,False,946
+Prior Turner & Co,Prior Turner & Co,exact,100,False,947
+Pritchett & Sons,Pritchett & Sons,exact,100,False,948
+Provincial Bank & Corp Limited,Provincial Bank & Corp Limited,exact,100,False,949
+Ps Galatti,Ps Galatti,exact,100,False,950
+Puget Bainbridges & Co,Puget Bainbridges & Co,exact,100,False,951
+"Puice, Coken & Co","Puice, Coken & Co",exact,100,False,952
+Puito Perry & Co,Puito Perry & Co,exact,100,False,953
+Puzey Pallett & Co,Puzey Pallett & Co,exact,100,False,954
+Pye Field & Tanqueray,"Pye, Field & Tanqueray",rapidfuzz_token_set_ratio,100,False,955
+"Pye, Field & Co","Pye, Field & Tanqueray",rapidfuzz_token_set_ratio,100,False,955
+"Pye, Field & Tanqueray","Pye, Field & Tanqueray",exact,100,False,955
+"Quenene, Furney & Co","Quenene, Furney & Co",exact,100,False,956
+R & H Green,R & H Green,exact,100,False,957
+R & J Henderson,R & J Henderson,exact,100,False,958
+R + Paul,R + Paul,exact,100,False,959
+R + Rea & Co,R + Rea & Co,exact,100,False,960
+R Cunliffe Son & Co,R. Cunliffe Son & Co,rapidfuzz_token_set_ratio,100,False,973
+R Cunliffes & Co,R. Cunliffe Son & Co,rapidfuzz_token_set_ratio,96,False,973
+R Evans & Co,R Evans & Co,exact,100,False,961
+R F & R Swift,R F & R Swift,exact,100,False,962
+R Forte Swift,R Forte Swift,exact,100,False,963
+R Heine Semon & Co,R Heine Semon & Co,exact,100,False,964
+R J + R Swift,R J + R Swift,exact,100,False,965
+R Johnson & Co,R. Johnson & Co,rapidfuzz_token_set_ratio,100,False,974
+R Lawes & Co,R Lawes & Co,exact,100,False,966
+R Raphael & Sons,R. Raphael & Sons,rapidfuzz_token_set_ratio,100,False,975
+R Rea & Co,R + Rea & Co,rapidfuzz_token_set_ratio,100,False,960
+R Rodger,R Rodger,exact,100,False,967
+R Smith & Co,R Smith & Co,exact,100,False,968
+R T + R Swift,R J + R Swift,rapidfuzz_token_set_ratio,88,True,965
+R Von Glehn,R Von Glehn,exact,100,False,969
+R W Kein & Co,R W Kein & Co,exact,100,False,970
+R&J Henderson,R&J Henderson,exact,100,False,971
+R. B. Byass,R. B. Byass,exact,100,False,972
+R. Cunliffe Son & Co,R. Cunliffe Son & Co,exact,100,False,973
+R. Johnson & Co,R. Johnson & Co,exact,100,False,974
+R. Raphael & Sons,R. Raphael & Sons,exact,100,False,975
+R. W. Kennard & Co,R. W. Kennard & Co,exact,100,False,976
+R. W. Starkey & Son,R. W. Starkey & Son,exact,100,False,977
+R.Cunliffe Sons Co,R. Cunliffe Son & Co,rapidfuzz_token_set_ratio,100,False,973
+Raff. Bascones,Raff. Bascones,exact,100,False,978
+Rainey Bruce & Co,Rainey Bruce & Co,exact,100,False,979
+Ralli & Mavrojani,Ralli & Mavrojani,exact,100,False,980
+Ralli Bros,Ralli & Mavrojani,rapidfuzz_token_set_ratio,100,False,980
+"Randall, Wigan & Co","Randall, Wigan & Co",exact,100,False,981
+Randells & Co,Randells & Co,exact,100,False,982
+Rawson Sons & Co,Rawson Sons & Co,exact,100,False,983
+Rayner & Co,Rayner & Co,exact,100,False,984
+Redfern Alexander & Co,Redfern Alexander & Co,exact,100,False,985
+Rees Glammong & Co,Rees Glammong & Co,exact,100,False,986
+Reeves Whitburn & Co,Reeves Whitburn & Co,exact,100,False,987
+Rehder & Baldemann,Rehder & Baldemann,exact,100,False,988
+Rehdi & Baldermann,Rehdi & Baldermann,exact,100,False,989
+Resta Moore,Resta Moore,exact,100,False,990
+Rhymney Iron & Co,Rhymney Iron & Co,exact,100,False,991
+Ricard Freiwald,Ricard Freiwald,exact,100,False,992
+Richard Evans & Co,Richard Evans & Co,exact,100,False,993
+Richard Hooper & Sons,Richard Hooper & Sons,exact,100,False,994
+Richard Johnson & Co,Richard Johnson & Co,exact,100,False,995
+Richard Mitchell,Richard Mitchell,exact,100,False,996
+Richard Pearee,Richard Pearee,exact,100,False,997
+Richard Poppleton,Richard Poppleton,exact,100,False,998
+Richard Walford & Co,Richard Walford & Co,exact,100,False,999
+Ricketts Boutcher & Co,Ricketts Boutcher & Co,exact,100,False,1000
+Rob B Byass,Rob B Byass,exact,100,False,1001
+Robarts Lubbock Co,Robarts Lubbock Co,exact,100,False,1002
+Robert Adams,Robert Adams,exact,100,False,1003
+Robert Badger,Robert Badger,exact,100,False,1004
+Robert Benson & Co,Robert Benson & Co,exact,100,False,1005
+Robert Bentley & Sons,Robert Bentley & Sons,exact,100,False,1006
+Robert Campbell,Robert Campbell,exact,100,False,1007
+Robert Christie & Co,Robert Christie & Co,exact,100,False,1008
+Robert Froie,Robert Froie,exact,100,False,1009
+Robert Lawes & Co,Robert Lawes & Co,exact,100,False,1010
+Robert Smith & Co,Robert Smith & Co,exact,100,False,1011
+Robinson & Fleming,Robinson Fleming & Co,rapidfuzz_token_set_ratio,100,False,1012
+Robinson & Flemming,Robinson Fleming & Co,rapidfuzz_token_set_ratio,97,False,1012
+Robinson Fleming & Co,Robinson Fleming & Co,exact,100,False,1012
+Robt Beattey & Sons,Robt Beattey & Sons,exact,100,False,1013
+Rodocanachi Sons & Co,Rodocanachi Sons & Co,exact,100,False,1014
+Roger Cunliffe Son Co,Roger Cunliffe Son Co,exact,100,False,1015
+Rohinson Fleming & Co,Rohinson Fleming & Co,exact,100,False,1016
+"Rose, Graham & Wilson","Rose, Graham & Wilson",exact,100,False,1017
+Ross & Ash,Ross & Ash,exact,100,False,1018
+Rowley & Davies,Rowley & Davies,exact,100,False,1019
+Royal Bank Of Canada,Royal Bank Of Canada,exact,100,False,1020
+Royal Bank Of Scotland,Royal Bank Of Scotland,exact,100,False,1021
+Rt Lowes & Co,Rt Lowes & Co,exact,100,False,1022
+Rt Saunders,Rt Saunders,exact,100,False,1023
+Ruck Fenwick & Ruck,Ruck Fenwick & Ruck,exact,100,False,1024
+Rutherford Drury & Co,Rutherford Drury & Co,exact,100,False,1025
+Ryder & Co,Ryder & Co,exact,100,False,1026
+S & J Peqq,S & J Peqq,exact,100,False,1027
+S .Japhet Co,S .Japhet Co,exact,100,False,1028
+S A Hodgson,S A Hodgson,exact,100,False,1029
+S A Moore & Others,S A Moore & Others,exact,100,False,1030
+S Fafhet & Co,S Fafhet & Co,exact,100,False,1031
+S Reuter,S Reuter,exact,100,False,1032
+S Stuart,S Stuart,exact,100,False,1033
+S Swonnell & Son,S Swonnell & Son,exact,100,False,1034
+S Swownell & Son,S Swonnell & Son,rapidfuzz_token_set_ratio,91,True,1034
+S Vander Willigen,S Vander Willigen,exact,100,False,1035
+S W Silver & Co,S. W. Silver & Co,rapidfuzz_token_set_ratio,100,False,1041
+S. H. Lucas & Son,S. H. Lucas & Son,exact,100,False,1036
+S. Lewis & Sons,S. Lewis & Sons,exact,100,False,1037
+S. Northcote & Co,S. Northcote & Co,exact,100,False,1038
+S. Oppenheim & Sons,S. Oppenheim & Sons,exact,100,False,1039
+S. Rich,S. Rich,exact,100,False,1040
+S. W. Silver & Co,S. W. Silver & Co,exact,100,False,1041
+S.Barrow & Bro Ltd,S.Barrow & Bro Ltd,exact,100,False,1042
+S.Bobree & Sons,S.Bobree & Sons,exact,100,False,1043
+S.Faphel & Co,S.Faphel & Co,exact,100,False,1044
+S.Montagu Co,S.Montagu Co,exact,100,False,1045
+S.N.Schroder & Co,S.N.Schroder & Co,exact,100,False,1046
+S.P. Framjee & Co,S.P. Framjee & Co,exact,100,False,1047
+Sam Swownell & Son,Sam Swownell & Son,exact,100,False,1048
+Same Hawkey & Co,Same Hawkey & Co,exact,100,False,1049
+Saml Dobree & Sons,Saml Dobree & Sons,exact,100,False,1050
+Saml.Barrow & Bro Ld,Saml.Barrow & Bro Ld,exact,100,False,1051
+Sampson Mitchell & Co,Sampson Mitchell & Co,exact,100,False,1052
+Samuel Courtaula & Co,Samuel Courtaula & Co,exact,100,False,1053
+Samuel Gibson,Samuel Gibson,exact,100,False,1054
+Samuel Magnus,Samuel Magnus,exact,100,False,1055
+Samuel Montagu & Co,Samuel Montagu & Co,exact,100,False,1056
+Samuel Sadler,Samuel Sadler,exact,100,False,1057
+Samuel Stone,Samuel Stone,exact,100,False,1058
+Samuel Strickland,Samuel Strickland,exact,100,False,1059
+Sanderson & Murray,Sanderson & Murray,exact,100,False,1060
+"Sanderson Frys, Rigge & Co","Sanderson Frys, Rigge & Co",exact,100,False,1061
+Sanderson Sandeman & Co,Sanderson Sandeman & Co,exact,100,False,1062
+Scheibler & Coenen,Scheibler & Coenen,exact,100,False,1063
+Schilizzi & Co,Schilizzi & Co,exact,100,False,1064
+Schrmann Bros,Schrmann Bros,exact,100,False,1065
+Schunck Souchay & Co,Schunck Souchay & Co,exact,100,False,1066
+Schwaan & Co,Schwaan & Co,exact,100,False,1067
+Schwann & Co,Schwaan & Co,rapidfuzz_token_set_ratio,88,True,1067
+Schwarm & Co,Schwarm & Co,exact,100,False,1068
+Secretan Campbell & Co,Secretan Campbell & Co,exact,100,False,1069
+Serutton Sons & Co,Serutton Sons & Co,exact,100,False,1070
+Sevidet Mayer & Co,Sevidet Mayer & Co,exact,100,False,1071
+Sheppard Pelly & Co,Sheppard Pelly & Co,exact,100,False,1072
+Sheyer Bros,Sheyer Bros,exact,100,False,1073
+Shropshire Bank Coy ( To The Afe Of G. J. Smith ),Shropshire Bank Coy ( To The Afe Of G. J. Smith ),exact,100,False,1074
+Sieveking Droop & Co,Sieveking Droop & Co,exact,100,False,1075
+Sillem & Co,Sillem & Co,exact,100,False,1076
+Simon & Carey,Simon & Carey,exact,100,False,1077
+Sims Willyams Nevill & Co,Sims Willyams Nevill & Co,exact,100,False,1078
+Sinclair Hamilton & Co,Sinclair Hamilton & Co,exact,100,False,1079
+Siondet Mayer & Co,Siondet Mayer & Co,exact,100,False,1080
+Siordet Meyer & Co,Siordet Meyer & Co,exact,100,False,1081
+Sivendell & Baukland,Sivendell & Baukland,exact,100,False,1082
+Small & Co,Small & Co,exact,100,False,1083
+Smellgrove & Leach,Smellgrove & Leach,exact,100,False,1084
+Smith & Lister,Smith & Lister,exact,100,False,1085
+Smith Fleming & Co,Smith Fleming & Co,exact,100,False,1086
+Smith Payne & Smiths,Smith Payne & Smiths,exact,100,False,1087
+Smith St Aubyn & Co,Smith St Aubyn & Co,exact,100,False,1088
+"Soanes, Son & Page","Soanes, Son & Page",exact,100,False,1089
+Somervell & Co,Somervell & Co,exact,100,False,1090
+Somes Mullens & Co,Somes Mullens & Co,exact,100,False,1091
+Southall & Ponsford,Southall & Ponsford,exact,100,False,1092
+Spalding & Hodge,Spalding & Hodges,rapidfuzz_token_set_ratio,96,False,1093
+Spalding & Hodges,Spalding & Hodges,exact,100,False,1093
+Spartali & Co,Spartali & Co,exact,100,False,1094
+Spence Baggallay & Co,Spence Baggallay & Co,exact,100,False,1095
+Spicer Brothers,Spicer Brothers,exact,100,False,1096
+Springfield Sons & Co,Springfield Sons & Co,exact,100,False,1097
+Sromidill & Beckham,Sromidill & Beckham,exact,100,False,1098
+Standard Bank Of Africa Limited,Standard Bank Of Africa Limited,exact,100,False,1099
+Standard Bk Of S.Africa,Standard Bank Of Africa Limited,rapidfuzz_token_set_ratio,91,True,1099
+Standring Brothers,Standring Brothers,exact,100,False,1100
+Stealfeild Lancence,Stealfeild Lancence,exact,100,False,1101
+Stephen Evans & Co,Stephen Evans & Co,exact,100,False,1102
+Stephen Kennard & Co,Stephen Kennard & Co,exact,100,False,1103
+Stephenson Clarke,Stephenson Clarke,exact,100,False,1104
+Stera Bros,Stera Bros,exact,100,False,1105
+Stern Bros,Stern Bros,exact,100,False,1106
+Steve Blas,Steve Blas,exact,100,False,1107
+Steven Brothers,Steven Brothers,exact,100,False,1108
+Stinton Bard & Co,Stinton Bard & Co,exact,100,False,1109
+Stoman & Co,Stoman & Co,exact,100,False,1110
+Streatfield Laurence & Co,Streatfield Laurence & Co,exact,100,False,1111
+Streckeisen Bischoff & Co,Streckeisen Bischoff & Co,exact,100,False,1112
+Sturt & Sharp,Sturt & Sharp,exact,100,False,1113
+Suse & Sibeth,Suse & Sibeth,exact,100,False,1114
+Suse + Sibeth,Suse & Sibeth,rapidfuzz_token_set_ratio,100,False,1114
+Swewells & Neck,Swewells & Neck,exact,100,False,1115
+Swindell & Bankhead,Swindell & Bankhead,exact,100,False,1116
+Swindell Matthews & Sendall,Swindell Matthews & Sendall,exact,100,False,1117
+Swiss Bankverein,Swiss Bankverein,exact,100,False,1118
+Swonnell Samuel & Son,Swonnell Samuel & Son,exact,100,False,1119
+T & J Ralli,T Ralli Sons & Co,rapidfuzz_token_set_ratio,100,False,1128
+T & W Smith,T. W. Smith & Co,rapidfuzz_token_set_ratio,100,False,1144
+T . O. Stock & Co,T . O. Stock & Co,exact,100,False,1120
+T Dunhill,T Dunhill,exact,100,False,1121
+T H Biggs,T H Biggs,exact,100,False,1122
+T Hodgkinson & Co,T. Hodgekinson & Co,rapidfuzz_token_set_ratio,96,False,1135
+T J & T Powell,T. I. & T. Powell,rapidfuzz_token_set_ratio,91,True,1138
+T Knaus & Co,T Knaus & Co,exact,100,False,1123
+T Lawnde & Co,T Lawnde & Co,exact,100,False,1124
+T Le Princeton,T Le Princeton,exact,100,False,1125
+T M Waters,T M Waters,exact,100,False,1126
+T Prehn & Co,T Prehn & Co,exact,100,False,1127
+T Ralli Sons & Co,T Ralli Sons & Co,exact,100,False,1128
+T Scott,T Scott,exact,100,False,1129
+T Walker,T Walker,exact,100,False,1130
+T. & D. Henry,T. & D. Henry,exact,100,False,1131
+T. A. Hawkey,T. A. Hawkey,exact,100,False,1132
+T. Courtauld & Co,T. Courtauld & Co,exact,100,False,1133
+T. D. Henry,T. & D. Henry,rapidfuzz_token_set_ratio,100,False,1131
+T. De La Rue & Co,T. De La Rue & Co,exact,100,False,1134
+T. Hodgekinson & Co,T. Hodgekinson & Co,exact,100,False,1135
+T. Hubbuck & Son Ltd,T. Hubbuck & Son Ltd,exact,100,False,1136
+T. Husband & Co,T. Husband & Co,exact,100,False,1137
+T. I. & T. Powell,T. I. & T. Powell,exact,100,False,1138
+T. Lowndes & Co,T. Lowndes & Co,exact,100,False,1139
+T. M. Comas & Co,T. M. Comas & Co,exact,100,False,1140
+T. O. Beeton,T. O. Beeton,exact,100,False,1141
+T. O. Stock & Co,T . O. Stock & Co,rapidfuzz_token_set_ratio,100,False,1120
+T. R. Merton,T. R. Merton,exact,100,False,1142
+T. Tapling & Co,T. Tapling & Co,exact,100,False,1143
+T. W. Smith & Co,T. W. Smith & Co,exact,100,False,1144
+T.M. Mackay & Co,T.M. Mackay & Co,exact,100,False,1145
+T.O. Stock & Co,T . O. Stock & Co,rapidfuzz_token_set_ratio,100,False,1120
+Taccivace Lucklacke,Taccivace Lucklacke,exact,100,False,1146
+Tamvaco Michrulachi,"Tamvaco, Micrulachi & Co",rapidfuzz_token_set_ratio,92,False,1148
+Tamvaco Utell,Tamvaco Utell,exact,100,False,1147
+"Tamvaco, Micrulachi & Co","Tamvaco, Micrulachi & Co",exact,100,False,1148
+Tandel + Phillips,Tandel + Phillips,exact,100,False,1149
+Taster Oortens & Co,Taster Oortens & Co,exact,100,False,1150
+Tavell Beddone & Co,Tavell Beddone & Co,exact,100,False,1151
+Taylor & Whalley,Taylor & Whalley,exact,100,False,1152
+Te Blatsphiel,Te Blatsphiel,exact,100,False,1153
+Teede & Bishop,Teede & Bishop,exact,100,False,1154
+Teument & Co,Teument & Co,exact,100,False,1155
+Tevan Kamm Tevan,Tevan Kamm Tevan,exact,100,False,1156
+Tevan Kamon & Son,Tevan Kamon + Tevan,rapidfuzz_token_set_ratio,100,False,1157
+Tevan Kamon + Tevan,Tevan Kamon + Tevan,exact,100,False,1157
+The Bank Of Egypt,The Bank Of Egypt,exact,100,False,1158
+The Bombay Co Ltd,The Bombay Co Ltd,exact,100,False,1159
+The Bornes Co Limited,The Bornes Co Limited,exact,100,False,1160
+The City Bank,The City Bank,exact,100,False,1161
+The East London Bank Limited,The East London Bank Limited,exact,100,False,1162
+The Ebbw Vale Co Ltd,The Ebbw Vale Co Ltd,exact,100,False,1163
+The Egyptian Tribute,The Egyptian Tribute,exact,100,False,1164
+The European Bank,European Bank Limited,rapidfuzz_token_set_ratio,100,False,342
+The International Bank,The International Bank,exact,100,False,1165
+The Jone St Marehouse Co Limited,The Jone St Marehouse Co Limited,exact,100,False,1166
+The London Brazilian Bank,The London Brazilian Bank,exact,100,False,1167
+The London County Bank,London County Bank For The Midland Bank,rapidfuzz_token_set_ratio,100,False,809
+The Oriental Br Corps,The Oriental Br Corps,exact,100,False,1168
+Tho Biggs,Tho Biggs,exact,100,False,1169
+Tho Frefor,Tho Frefor,exact,100,False,1170
+Tho Hodgkinson & Co,Tho Hodgkinson & Co,exact,100,False,1171
+Tho Husband & Co,Tho Husband & Co,exact,100,False,1172
+Tho Nelson & Son,Tho Nelson & Son,exact,100,False,1173
+Tho' Stephens & Co,Tho' Stephens & Co,exact,100,False,1174
+Thomas Ainsworth,Thomas Ainsworth,exact,100,False,1175
+Thomas Drayton,Thomas Drayton,exact,100,False,1176
+Thomas Hodgkinson & Co,Thomas Hodgkinsons & Co,rapidfuzz_token_set_ratio,97,False,1177
+Thomas Hodgkinsons & Co,Thomas Hodgkinsons & Co,exact,100,False,1177
+Thomas Leamer,Thomas Seamer & Son,rapidfuzz_token_set_ratio,85,True,1184
+Thomas Lee,Thomas Lee,exact,100,False,1178
+Thomas Lowndes & Co,Thomas Lowndes & Co,exact,100,False,1179
+Thomas Lyde,Thomas Lyde,exact,100,False,1180
+Thomas M Gregor,Thomas M Gregor,exact,100,False,1181
+Thomas Nelson & Son,Thomas Nelson & Son,exact,100,False,1182
+Thomas Phehan & Co,Thomas Phehan & Co,exact,100,False,1183
+Thomas Seamer,Thomas Seamer & Son,rapidfuzz_token_set_ratio,100,False,1184
+Thomas Seamer & Son,Thomas Seamer & Son,exact,100,False,1184
+Thomas Stephen & Co,Thomas Stephens & Co,rapidfuzz_token_set_ratio,96,False,1185
+Thomas Stephens & Co,Thomas Stephens & Co,exact,100,False,1185
+Thomas Stephings,Thomas Stephings,exact,100,False,1186
+Thomas Tapling & Co,Thomas Tapling & Co,exact,100,False,1187
+Thomas Walker,Thomas Walker,exact,100,False,1188
+Thomas Walton,Thomas Walton,exact,100,False,1189
+Thompson & Pattinson,Thompson & Pattinson,exact,100,False,1190
+Thomson Bonar & Co,Thomson Bonar & Co,exact,100,False,1191
+Thos M Gregor,Thos M Gregor,exact,100,False,1192
+Thos Pretu & Co,Thos Pretu & Co,exact,100,False,1193
+Thos Walker,Thos Walker,exact,100,False,1194
+Thos Wecom & Son,Thos Wecom & Son,exact,100,False,1195
+Tiedenick Tatt,Tiedenick Tatt,exact,100,False,1196
+Till & Flegor,Till & Flegor,exact,100,False,1197
+Timothy Wiggin & Co,Timothy Wiggin & Co,exact,100,False,1198
+Titus Nevrhouse,Titus Nevrhouse,exact,100,False,1199
+Tj Van Yellen Of Bauks,Tj Van Yellen Of Bauks,exact,100,False,1200
+Tjas + Robinson W Ebbie Rale Co,Tjas + Robinson W Ebbie Rale Co,exact,100,False,1201
+Tp Lloyds & Co,Tp Lloyds & Co,exact,100,False,1202
+Tr Browne,Tr Browne,exact,100,False,1203
+Trimmer & Grainger,Trimmer & Grainger,exact,100,False,1204
+Truhling & Goschen,Truhling & Goschen,exact,100,False,1205
+Truman Hitchcock,Truman Hitchcock & Co,rapidfuzz_token_set_ratio,100,False,1206
+Truman Hitchcock & Co,Truman Hitchcock & Co,exact,100,False,1206
+Tuichaw Leatson P & Co,Tuichaw Leatson P & Co,exact,100,False,1207
+Turck Barclay & Co,Turck Barclay & Co,exact,100,False,1208
+Tw Bradley & Co,Tw Bradley & Co,exact,100,False,1209
+Tw Eady,Tw Eady,exact,100,False,1210
+Tw Madley & Co,Tw Madley & Co,exact,100,False,1211
+Union Bank Of Australia Ltd,Union Bank Of Australia Ltd,exact,100,False,1212
+Union Bank Of Canada,Union Bank Of Canada,exact,100,False,1213
+Union Bank Of Scotland Ltd,Union Bank Of Scotland Ltd,exact,100,False,1214
+Union Discount Co. Of London Ltd,Union Discount Co. Of London Ltd,exact,100,False,1215
+Union Smiths Bank Ld Lom St,Union Smiths Bk Ho,rapidfuzz_token_set_ratio,80,True,1216
+Union Smiths Bank Ld Prescotts,Union Smiths Bk Ho,rapidfuzz_token_set_ratio,80,True,1216
+Union Smiths Bank Prescotts,Union Smiths Bk Ho,rapidfuzz_token_set_ratio,80,True,1216
+Union Smiths Bk Ho,Union Smiths Bk Ho,exact,100,False,1216
+Union Smiths Bk Ld,Union Smiths Bk Ho,rapidfuzz_token_set_ratio,90,True,1216
+Unity Joint,Unity Joint,exact,100,False,1217
+Unity Mutual Bank,Unity Mutual Bank,exact,100,False,1218
+Unity St Jk Bank,Unity St Jk Bank,exact,100,False,1219
+Unity St Something,Unity St Something,exact,100,False,1220
+Unreadable,Unreadable,exact,100,False,1221
+Vagliano Brothers,Vagliano Brothers,exact,100,False,1222
+Vander Willigen Simon,Vander Willigen Simon,exact,100,False,1223
+Vivanti Annett & Co,Vivanti Annett & Co,exact,100,False,1224
+Vivian & Younger,Vivian & Younger,exact,100,False,1225
+Vyse Sons & Co,Vyse Sons & Co,exact,100,False,1226
+W & H Brand & Co,W & H Brand & Co,exact,100,False,1227
+W & H Braud & Co,W & H Brand & Co,rapidfuzz_token_set_ratio,90,True,1227
+W & I Hall & Co,W & I Hall & Co,exact,100,False,1228
+W & J Devas & Co,W. & T. Devas & Co,rapidfuzz_token_set_ratio,90,True,1250
+W + A Riand & Co,W + A Riand & Co,exact,100,False,1229
+W Anderson Haut & Co,W Anderson Haut & Co,exact,100,False,1230
+W Anderson Hunt & Co,W Anderson Haut & Co,rapidfuzz_token_set_ratio,94,False,1230
+W Bamondi,W Bamondi,exact,100,False,1231
+W Berkefeld,W Berkefeld,exact,100,False,1232
+W Brandt'S Sons & Co,W Brandt'S Sons & Co,exact,100,False,1233
+W Clewes & Sons,W Clewes & Sons,exact,100,False,1234
+W E Eddison,W. E. Eddison & Co,rapidfuzz_token_set_ratio,100,False,1251
+W E Franks & Son,W. E. Franks & Son,rapidfuzz_token_set_ratio,100,False,1252
+W F Brown,W F Brown,exact,100,False,1235
+W H & A Scott,W. H & A Scott,rapidfuzz_token_set_ratio,100,False,1254
+W H Cox & Co,W.H. Cox & Co,rapidfuzz_token_set_ratio,100,False,1268
+W H Cox & Sons,W.H. Cox & Co,rapidfuzz_token_set_ratio,100,False,1268
+W Hinkes Cay & Co,W Hinkes Cay & Co,exact,100,False,1236
+W Howell & Co,W Howell & Co,exact,100,False,1237
+W Hunt & Co,W Anderson Haut & Co,rapidfuzz_token_set_ratio,56,True,1230
+W I & H Thompson,W I & H Thompson,exact,100,False,1238
+W Jackson & Co,W Jackson & Co,exact,100,False,1239
+W Jameson & Son,W Jameson & Son,exact,100,False,1240
+W Jenkinson,W Jenkinson,exact,100,False,1241
+W Kendle,W Kendle,exact,100,False,1242
+W Kindle,W Kindle,exact,100,False,1243
+W Klein,W Klein,exact,100,False,1244
+W M Andrew & Sons,W. Hi & Andrew Form,rapidfuzz_token_set_ratio,90,True,1259
+W M Crauston,W M Crauston,exact,100,False,1245
+W Mallaliew & Co,W Mallaliew & Co,exact,100,False,1246
+W Mc Andrew & Sons,W. Hi & Andrew Form,rapidfuzz_token_set_ratio,86,True,1259
+W N De Mattos,W N De Mattos,exact,100,False,1247
+W Smee & Sons,W Smee & Sons,exact,100,False,1248
+W Vaughan & Co,W. Vaughan & Co,rapidfuzz_token_set_ratio,100,False,1267
+W Wilson & Co,W Wilson & Co,exact,100,False,1249
+W. & T. Devas & Co,W. & T. Devas & Co,exact,100,False,1250
+W. E. Eddison & Co,W. E. Eddison & Co,exact,100,False,1251
+W. E. Franks & Son,W. E. Franks & Son,exact,100,False,1252
+W. Ewart & Son Ltd,W. Ewart & Son Ltd,exact,100,False,1253
+W. H & A Scott,W. H & A Scott,exact,100,False,1254
+W. H. Hindley,W. H. Hindley,exact,100,False,1255
+W. H. Laird,W. H. Laird,exact,100,False,1256
+W. H. Partridge & Co,W. H. Partridge & Co,exact,100,False,1257
+W. Halford & Co,W. Halford & Co,exact,100,False,1258
+W. Hi & Andrew Form,W. Hi & Andrew Form,exact,100,False,1259
+W. J. Crook,W. J. Crook,exact,100,False,1260
+W. Mepzstein,W. Mepzstein,exact,100,False,1261
+W. Morhimore,W. Morhimore,exact,100,False,1262
+W. Muggeridge & Co,W. Muggeridge & Co,exact,100,False,1263
+W. Pickford,W. Pickford,exact,100,False,1264
+W. Rattray & Co,W. Rattray & Co,exact,100,False,1265
+W. Spotten & Co,W. Spotten & Co,exact,100,False,1266
+W. Vaughan & Co,W. Vaughan & Co,exact,100,False,1267
+W.H. Cox & Co,W.H. Cox & Co,exact,100,False,1268
+W.Ladenburg & Co,W.Ladenburg & Co,exact,100,False,1269
+W.R.Crow & Son,W.R.Crow & Son,exact,100,False,1270
+Walford Fairer & Harrison,Walford Fairer & Harrison,exact,100,False,1271
+Walford Tainen & Co,Walford Tainen & Co,exact,100,False,1272
+Walhampton & Staffordshire,Walhampton & Staffordshire,exact,100,False,1273
+Walker Howell & Co,Walker Howell & Co,exact,100,False,1274
+Wallace Bros & Co Ld,Wallace Bros & Co Ld,exact,100,False,1275
+Wallace Brothers,Wallace Bros & Co Ld,rapidfuzz_token_set_ratio,100,False,1275
+Walter Howell,Walter Howell,exact,100,False,1276
+Warre Brothers,Warre Brothers,exact,100,False,1277
+Washington & Davies,Washington & Davies,exact,100,False,1278
+Welch Margeston & Co,Welch Margeston & Co,exact,100,False,1279
+Welch Margetson & Co,Welch Margeston & Co,rapidfuzz_token_set_ratio,94,False,1279
+Weston & Co,Weston & Co,exact,100,False,1280
+Weston + Laurie,Weston + Laurie,exact,100,False,1281
+Wf Moore,Wf Moore,exact,100,False,1282
+White & Shaxson,White & Shaxson,exact,100,False,1283
+White Son & Co,White & Shaxson,rapidfuzz_token_set_ratio,100,False,1283
+Wienholt Wehmer & Co,Wienholt Wehmer & Co,exact,100,False,1284
+William Andew & Sons,William Andew & Sons,exact,100,False,1285
+William Audlace & Sons,William Audlace & Sons,exact,100,False,1286
+William Brandt'S Sons & Co,William Brandt'S Sons & Co,exact,100,False,1287
+William Burnside,William Burnside,exact,100,False,1288
+William Chevyt & Co,William Chevyt & Co,exact,100,False,1289
+William Clowes & Sons,William Clowes & Sons,exact,100,False,1290
+William Deacon & Co For The Northampton Union Bank,William Deacon & Co For The Northampton Union Bank,exact,100,False,1291
+William Jackson,William Jackson,exact,100,False,1292
+William Leask,William Leask,exact,100,False,1293
+Williams Deacon & Co,Williams Deacon'S Bank Ltd,rapidfuzz_token_set_ratio,93,False,1294
+Williams Deacon & Co On Each Of The Dudley + West Bromwich Co,Williams Deacon'S Bank Ltd,rapidfuzz_token_set_ratio,81,True,1294
+Williams Deacon'S Bank Ltd,Williams Deacon'S Bank Ltd,exact,100,False,1294
+Williams Meyustein,Williams Meyustein,exact,100,False,1295
+Williams Overbury & Co,Williams Overbury & Co,exact,100,False,1296
+Wilson & Bellenger,Wilson & Bellenger,exact,100,False,1297
+Wilson Leward & Swale,"Wilson, Seward & Swale",rapidfuzz_token_set_ratio,95,False,1299
+Wilson Swale & Co,"Wilson, Seward & Swale",rapidfuzz_token_set_ratio,100,False,1299
+"Wilson, Rose, Graham & Co","Wilson, Rose, Graham & Co",exact,100,False,1298
+"Wilson, Seward & Swale","Wilson, Seward & Swale",exact,100,False,1299
+Wm Andrew & Sons,Wm Andrew & Sons,exact,100,False,1300
+Wm Hooten Yates,Wm Hooten Yates,exact,100,False,1301
+Wm Lymington & Co,Wm Lymington & Co,exact,100,False,1302
+Wm Norton Yates Lombard St,Wm Norton Yates Lombard St,exact,100,False,1303
+Wm Oliver & Sons Ltd,Wm Oliver & Sons Ltd,exact,100,False,1304
+Wm Rivet & Sons Ltd,Wm Rivet & Sons Ltd,exact,100,False,1305
+Wn De Hacelles,Wn De Hacelles,exact,100,False,1306
+Woverhamption & Staffordshire Banking Corporation By ?,Woverhamption & Staffordshire Banking Corporation By ?,exact,100,False,1307
+Wr Crow & Son,Wr Crow & Son,exact,100,False,1308
+X. Balli,X. Balli,exact,100,False,1309
+Yeames Lander & Co,Yeames Lander & Co,exact,100,False,1310
+Yokohama Bk Ltd,Yokohama Bk Ltd,exact,100,False,1311
+Young Harrison & Bevan,Young Harrison & Bevan,exact,100,False,1312
+Zarifi Brothers & Co,Zarifi Brothers & Co,exact,100,False,1313

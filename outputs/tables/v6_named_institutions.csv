@@ -1,0 +1,10 @@
+institution,actor_type,appears,span,source,confidence
+Union Discount Co. of London,discount house,Victorian BoE ledger (1914); 1906 LARGEST discounter; 1996 authorised counterparty,1860s-1996,v5; Accominotti 2025; BoE database,high
+National Discount Co.,discount house,Victorian BoE ledger (1914); 1906 discounter,1860s-1900s+,v5; Accominotti 2025,high
+"Seccombe, Marshall & Campion",discount house,1931 the Bank's special bill agent; 1996 authorised counterparty,1931-1996,Romer 2025; BoE database,high
+"Overend, Gurney & Co.",discount house,"Victorian ledger (1847,1857,1866); failed 1866",1847-1866,v5,high
+Barings; Rothschilds,acceptance / merchant house,Victorian context; 1906 leading acceptors; (Barings rescued 1890),19th c.-1900s+,v5; Accominotti 2025,high
+Kleinwort & Co.,acceptance / merchant house,1906 leading acceptor (accepted bills from 325 drawers),1900s,Accominotti 2025,high
+"Big Five clearing banks (Barclays, Lloyds, Midland, Westminster, National Provincial)",clearing bank,1931 call-money providers; 1973-75 lifeboat funders,1900s-1970s,Romer 2025; BoE QB 1978,high
+Gerrard & National; Cater Allen; Clive Discount; King & Shaxson; Alexanders,authorised counterparty,1996 authorised money-market counterparties,1980s-1996,BoE database,high
+London & County Securities; Stern Group; First National Finance; United Dominions Trust; Slater Walker,secondary bank,1973-75 lifeboat recipients (the rescued outsiders),1970s,BoE QB 1978,high

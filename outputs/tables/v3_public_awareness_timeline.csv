@@ -1,0 +1,13 @@
+crisis,marker,date,marker_type,retrieved,source,note
+1847,Bank Charter Act suspended,1847-10-25,official,no (standard chronology),crisis_timeline.md,Treasury letter ~23-25 Oct 1847
+1847,Commons debate: 'Commercial Distress',1847-11-30,parliamentary_record,YES (Hansard),api.parliament.uk/historic-hansard/commons/1847/nov/30,"longest debate of the day (44,702 words); Parliament recalled after the autumn suspension"
+1857,Treasury Letter / Bank Charter Act suspension,1857-11-12,official,no (standard chronology),crisis_timeline.md,official emergency action
+1857,Commons debate: 'Bank Issues Indemnity Bill',1857-12-04,parliamentary_record,YES (Hansard),api.parliament.uk/historic-hansard/commons/1857/dec/04,"dominated the sitting (35,067 words); Parliament recalled 3 Dec 1857"
+1866,Overend Gurney suspends payment 3:30pm,1866-05-10,official,no (locally read literature),Flandreau & Ugolini 2011 pp.14-15,the central public failure event
+1866,Commons debate: 'The Panic in the City' + 'Suspension of the Bank Charter Act',1866-05-11,parliamentary_record,YES (Hansard),api.parliament.uk/historic-hansard/commons/1866/may/11,"Parliament was already sitting, so it debated the panic the same day as Black Friday"
+1890,Barings rescue (lifeboat) announced publicly,1890-11-15,official,no (locally read literature),White 2016,crisis kept out of public view 8-14 Nov; no transaction ledger exists
+1914,Moratorium operative; extended bank holiday,1914-08-06,official,no (standard chronology),crisis_timeline.md,public emergency
+1914,Commons debate: 'War in Europe' + 'Currency and Bank Notes Bill',1914-08-06,parliamentary_record,YES (Hansard),api.parliament.uk/historic-hansard/commons/1914/aug/06,Parliament already sitting; debated the war-finance emergency the same day
+1847,First relevant HMD newspaper article (The Express.),1847-09-20,press_record,"YES (British Library HMD newspapers, Hugging Face)","The Express. [London, England], OCR conf 0.894; anchors: commercial crisis",lower bound: HMD is a curated subset of titles; 204/13523 window articles matched the crisis keyword cluster
+1857,First relevant HMD newspaper article (Northern Times.),1857-09-28,press_record,"YES (British Library HMD newspapers, Hugging Face)","Northern Times. [Liverpool, Merseyside, England], OCR conf 0.921; anchors: american panic/crisis",lower bound: HMD is a curated subset of titles; 128/35683 window articles matched the crisis keyword cluster
+1866,First relevant HMD newspaper article (The Sun.),1866-05-11,press_record,"YES (British Library HMD newspapers, Hugging Face)","The Sun. [London, England], OCR conf 0.83; anchors: overend gurney + failure (same sentence)",lower bound: HMD is a curated subset of titles; 58/18705 window articles matched the crisis keyword cluster

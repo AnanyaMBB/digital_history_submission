@@ -1,0 +1,32 @@
+crisis,actor,exemplar,tier,iso,gap
+1847,Clearing & joint-stock banks,,recognised,1847-01-01,
+1847,Acceptance / merchant houses,,recognised,1847-01-01,0.0
+1847,Bill brokers,,core,1847-01-18,17.0
+1847,Foreign & colonial houses,,outer,1847-05-27,129.0
+1847,Discount houses,"Overend, Gurney & Co.",core,1847-10-05,131.0
+1847,The wider public,public rupture,public,1847-10-18,13.0
+1857,Discount houses,"Overend, Gurney & Co.",core,1857-09-01,
+1857,Bill brokers,,core,1857-09-03,2.0
+1857,Clearing & joint-stock banks,,recognised,1857-09-04,1.0
+1857,Acceptance / merchant houses,,recognised,1857-09-08,4.0
+1857,Foreign & colonial houses,,outer,1857-10-02,24.0
+1857,The wider public,public rupture,public,1857-11-09,38.0
+1866,Discount houses,"Overend, Gurney (fails 1866)",core,1866-03-01,
+1866,Foreign & colonial houses,,outer,1866-03-01,0.0
+1866,Acceptance / merchant houses,Barings; Rothschilds,recognised,1866-03-01,0.0
+1866,Bill brokers,,core,1866-03-02,1.0
+1866,Clearing & joint-stock banks,,recognised,1866-03-08,6.0
+1866,Industrial / commercial firms,,outer,1866-03-27,19.0
+1866,The wider public,public rupture,public,1866-05-11,45.0
+1873,Bank of England (Bank Rate),,core,1873-09-25,
+1873,The wider public,public rupture,public,1873-11-07,43.0
+1890,Bank of England (Bank Rate),,core,1890-06-26,
+1890,The wider public,public rupture,public,1890-11-15,142.0
+1907,Bank of England (Bank Rate),,core,1907-08-15,
+1907,The wider public,public rupture,public,1907-10-22,68.0
+1914,Acceptance / merchant houses,Frühling & Göschen; Stern Bros,recognised,1914-07-04,
+1914,Discount houses,Union Discount; National Discount,core,1914-07-10,6.0
+1914,Bill brokers,,core,1914-07-25,15.0
+1914,Clearing & joint-stock banks,Joint-stock banks,recognised,1914-07-27,2.0
+1914,Foreign & colonial houses,,outer,1914-07-27,0.0
+1914,The wider public,public rupture,public,1914-07-31,4.0

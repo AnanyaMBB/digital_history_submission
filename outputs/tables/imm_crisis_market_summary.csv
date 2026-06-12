@@ -1,0 +1,5 @@
+event,sector,event_month,n_securities_event_month,event_month_quote_count_index,event_month_mean_return,event_month_share_declining,three_month_cumulative_return_event_to_plus2,three_month_cumulative_return_minus2_to_event,max_drawdown_minus12_to_plus12,window_min_index_pre_event_100,window_max_index_pre_event_100
+1890 Baring Crisis,Listed financial institutions,1890-11,266,100.37735849056604,-0.008979075575364192,0.34210526315789475,0.00363445038478425,-0.012439527221916493,-0.03341455571970642,98.62079727823055,102.03008731593539
+1890 Baring Crisis,Listed non-financial corporates,1890-11,338,108.33333333333333,-0.012371560609739665,0.4166666666666667,-0.009692989761113092,-0.023647257583423353,-0.07602898887359988,94.27933887744254,102.03711776899571
+1914 WWI outbreak,Listed financial institutions,1914-08,0,,,,,,,,
+1914 WWI outbreak,Listed non-financial corporates,1914-08,0,,,,,,,,
